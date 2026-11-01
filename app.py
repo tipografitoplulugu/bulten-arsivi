@@ -1042,7 +1042,7 @@ def find_database() -> Optional[Path]:
 
 
 @st.cache_resource(show_spinner=False)
-def get_connection(db_uri: str) -> sqlite3.Connection:
+def get_connection(db_uri: str, db_mtime: float, db_size: int) -> sqlite3.Connection:
     connection = sqlite3.connect(db_uri, uri=True, check_same_thread=False)
     connection.row_factory = sqlite3.Row
     return connection
@@ -1328,7 +1328,8 @@ if db_path is None:
     st.stop()
 
 try:
-    conn = get_connection(db_path.as_uri() + "?mode=ro")
+    stat = db_path.stat()
+    conn = get_connection(db_path.as_uri() + "?mode=ro", stat.st_mtime, stat.st_size)
     total_issues, total_articles = get_counts(conn)
     available_years = get_years(conn)
 except (sqlite3.Error, OSError) as error:
