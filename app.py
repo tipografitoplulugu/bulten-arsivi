@@ -1015,7 +1015,8 @@ BULTEN_URLS = {
     "Haziran 2026": "https://tipografi.substack.com/p/tipografi-bulteni-haziran-2026",
     "Temmuz 2026": "https://tipografi.substack.com/p/tipografi-bulteni-temmuz-2026",
     "Ağustos 2026": "https://tipografi.substack.com/p/tipografi-bulteni-agustos-2026",
-    "Eylül 2026": "https://tipografi.substack.com/p/tipografi-bulteni-eylul-2026"
+    "Eylül 2026": "https://tipografi.substack.com/p/tipografi-bulteni-eylul-2026",
+    "Ekim 2026": "https://tipografi.substack.com/p/tipografi-bulteni-ekim-2026",
 }
 
 POPULAR_TOPICS = [
