@@ -1,12 +1,11 @@
 # 🔤 Tipografi Bülteni — Arşiv ve Arama Motoru
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tipografi-bulteni-arsivi.streamlit.app/)
+[![GitHub Pages](https://img.shields.io/badge/Canlı%20Site-GitHub%20Pages-success?style=flat&logo=github)](https://tipografitoplulugu.github.io/bulten-arsivi/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
 [Türkçe Tipografi Topluluğu](https://tipografi.substack.com) tarafından 2019 yılından bu yana düzenli olarak yayımlanan aylık bültenlerin tam metin aranabilir dijital arşivi ve bilgi tabanı.
 
-👉 **Canlı Arama Motoru:** [tipografi-bulteni-arsivi.streamlit.app](https://tipografi-bulteni-arsivi.streamlit.app/)
+👉 **Canlı Arama Motoru:** [tipografitoplulugu.github.io/bulten-arsivi](https://tipografitoplulugu.github.io/bulten-arsivi/)
 
 ---
 
