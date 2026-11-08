@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tipografi Bülteni Arşivi</title>
+  <meta name="description" content="2019’dan bu yana her ay yayımladığımız Tipografi Bülteni arşivi. Türkiye’de ve dünyada tipografi alanında öne çıkan gelişmeler.">
+  <link rel="icon" type="image/png" href="logo.png">
+
+  <!-- Preconnect Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Instant Theme Setup to prevent FOUC -->
+  <script>
+    (() => {
+      const savedTheme = localStorage.getItem('tipografi-archive-theme');
+      const urlParams = new URLSearchParams(window.location.search);
+      const queryTheme = urlParams.get('theme');
+      const systemTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      const theme = queryTheme === 'dark' || queryTheme === 'light' ? queryTheme : (savedTheme || systemTheme);
+      document.documentElement.setAttribute('data-theme', theme);
+    })();
+  </script>
+</head>
+<body>
+  <div class="archive-container">
+    <!-- Brand Header -->
+    <header class="archive-brand-header">
+      <div class="brand-identity">
+        <img class="brand-logo" src="logo.png" alt="Türkçe Tipografi Topluluğu logosu" width="48" height="48">
+        <div>
+          <div class="brand-name">Türkçe Tipografi Topluluğu</div>
+        </div>
+      </div>
+
+      <nav class="brand-links" aria-label="Yayın bağlantıları">
+        <a href="https://tipografi.substack.com/" target="_blank" rel="noopener noreferrer">Substack</a>
+        <span aria-hidden="true">·</span>
+        <a href="https://medium.com/tipografi" target="_blank" rel="noopener noreferrer">Medium</a>
+      </nav>
+
+      <button id="theme-toggle" class="theme-toggle-btn" type="button" aria-label="Koyu moda geç" title="Koyu moda geç">
+        <svg id="theme-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></svg>
+      </button>
+    </header>
+
+    <hr class="hero-rule">
+
+    <!-- Hero Section -->
+    <main>
+      <h1>Tipografi Bülteni Arşivi</h1>
+      <div class="hero-copy">
+        2019’dan bu yana her ay yayımladığımız bültenlerde, Türkiye’de ve dünyada tipografi alanında öne çıkan gelişmeleri bir araya getiriyoruz. Anahtar kelimelerle arama yapabilir, yeni sayılar eklendikçe büyüyen arşivimizi keşfedebilirsiniz.
+      </div>
+
+      <!-- Stats Grid -->
+      <div class="stat-grid" id="stats-grid">
+        <div class="stat-item">
+          <div class="stat-label">YAYIMLANAN SAYI</div>
+          <div class="stat-value" id="stat-issues">94</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-label">DİZİNLENEN GELİŞME</div>
+          <div class="stat-value" id="stat-articles">1.624</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-label">ARŞİV KAPSAMI</div>
+          <div class="stat-value" id="stat-range">2019–2026</div>
+        </div>
+      </div>
+
+      <hr class="hero-rule">
+
+      <!-- Search Section -->
+      <section aria-labelledby="search-heading">
+        <form class="search-form" id="search-form" role="search" onsubmit="event.preventDefault(); window.ArchiveApp.handleSearchSubmit();">
+          <div class="form-group">
+            <span class="section-eyebrow" id="search-heading">ARŞİVDE ARA</span>
+            <div class="search-input-wrapper">
+              <input type="text" id="search-input" class="search-input" placeholder="Örneğin değişken yazıtipi, Monotype, kaligrafi" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" aria-label="Aranacak ifade">
+              <button type="button" id="search-clear-btn" class="search-clear-btn" aria-label="Aramayı temizle">&times;</button>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <span class="section-eyebrow">YIL</span>
+            <div class="select-wrapper">
+              <select id="year-select" class="year-select" aria-label="Yıl filtreleme">
+                <option value="Tümü">Tümü</option>
+              </select>
+              <div class="select-chevron">
+                <svg viewBox="0 0 24 24"><path d="M7 10l5 5 5-5z"/></svg>
+              </div>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <button type="submit" class="search-submit-btn">Ara</button>
+          </div>
+        </form>
+
+        <!-- Popular Topics -->
+        <div class="section-eyebrow topics-eyebrow">ÖNE ÇIKAN ARAMALAR</div>
+        <div class="topics-grid" id="topics-grid">
+          <button type="button" class="topic-btn" data-topic="Değişken Yazıtipi">Değişken Yazıtipi</button>
+          <button type="button" class="topic-btn" data-topic="Monotype">Monotype</button>
+          <button type="button" class="topic-btn" data-topic="Gutenberg">Gutenberg</button>
+          <button type="button" class="topic-btn" data-topic="Yapay Zekâ">Yapay Zekâ</button>
+          <button type="button" class="topic-btn" data-topic="Lisanslama">Lisanslama</button>
+          <button type="button" class="topic-btn" data-topic="Kaligrafi">Kaligrafi</button>
+          <button type="button" class="topic-btn" data-topic="TDC">TDC</button>
+          <button type="button" class="topic-btn" data-topic="Google Fonts">Google Fonts</button>
+          <button type="button" class="topic-btn" data-topic="Arial">Arial</button>
+        </div>
+      </section>
+
+      <!-- Results Area -->
+      <div id="results-area">
+        <div id="first-result"></div>
+        <div id="status-container"></div>
+        <div id="results-content" style="display: none;">
+          <div class="result-summary" id="result-summary"></div>
+          
+          <details class="distribution-expander" id="distribution-expander">
+            <summary class="distribution-summary">Yıllara göre dağılım</summary>
+            <div class="distribution-body">
+              <div class="chart-container" id="chart-container"></div>
+            </div>
+          </details>
+
+          <div class="results-list" id="results-list"></div>
+
+          <nav class="pagination-container" id="pagination-container" aria-label="Sayfalama" style="display: none;">
+            <button type="button" class="pagination-btn" id="prev-page-btn">← Önceki</button>
+            <p class="pagination-label" id="page-label">Sayfa 1 / 1</p>
+            <button type="button" class="pagination-btn" id="next-page-btn">Sonraki →</button>
+          </nav>
+        </div>
+      </div>
+    </main>
+
+    <hr class="hero-rule">
+
+    <!-- Footer -->
+    <footer class="archive-footer" aria-label="Alt bilgi">
+      <div class="footer-content">
+        <div class="footer-name">Türkçe Tipografi Topluluğu</div>
+        <div class="footer-actions">
+          <div class="footer-subscribe">
+            <a href="https://tipografi.substack.com/" target="_blank" rel="noopener noreferrer">Bültene Abone Ol</a>
+          </div>
+          <nav class="footer-social" aria-label="Sosyal medya bağlantıları">
+            <a href="https://www.facebook.com/tipografi/" target="_blank" rel="noopener noreferrer" aria-label="Facebook" title="Facebook">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path class="icon-fill" d="M13.6 21v-8.2h2.8l.4-3.2h-3.2V7.5c0-.9.3-1.6 1.6-1.6H17V3.1c-.3 0-1.3-.1-2.4-.1-2.4 0-4.1 1.5-4.1 4.3v2.4H7.8v3.2h2.7V21z"/></svg>
+            </a>
+            <a href="https://x.com/tipografi" target="_blank" rel="noopener noreferrer" aria-label="X" title="X">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path class="icon-fill" d="M18.9 2H22l-6.8 7.8L23 22h-6.2l-4.9-6.4L6.3 22H3.1l7.3-8.4L2.7 2h6.4l4.4 5.9L18.9 2zm-1.1 17.8h1.7L8.4 4.1H6.6z"/></svg>
+            </a>
+            <a href="https://www.instagram.com/tipografitoplulugu/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" title="Instagram">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><rect class="icon-stroke" x="3.2" y="3.2" width="17.6" height="17.6" rx="5.1"/><circle class="icon-stroke" cx="12" cy="12" r="4.1"/><circle class="icon-fill" cx="17.7" cy="6.6" r="1.1"/></svg>
+            </a>
+            <a href="https://www.youtube.com/@tipografi" target="_blank" rel="noopener noreferrer" aria-label="YouTube" title="YouTube">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path class="icon-fill" d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8z"/><path d="m9.6 15.8 6.2-3.8-6.2-3.8z" fill="var(--paper)"/></svg>
+            </a>
+            <a href="https://open.spotify.com/show/1Ij0BoHaoobj5Mez7mAS22" target="_blank" rel="noopener noreferrer" aria-label="Spotify" title="Spotify">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path class="icon-fill" d="M12 1.8A10.2 10.2 0 1 0 12 22.2 10.2 10.2 0 0 0 12 1.8z"/><path d="M6.2 9.1c3.8-1.1 8.6-.7 11.7 1.2M7 12.1c3.2-.9 7.3-.5 9.9 1.1M7.8 15c2.6-.7 5.8-.4 7.9.9" fill="none" stroke="var(--paper)" stroke-width="1.4" stroke-linecap="round"/></svg>
+            </a>
+            <a href="https://tipografi.substack.com/" target="_blank" rel="noopener noreferrer" aria-label="Substack" title="Substack">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path class="icon-fill" d="M3 4h18v2H3zm0 4h18v2H3zm0 4h18v2H3zm0 4h18v5l-9-3.5L3 21z"/></svg>
+            </a>
+          </nav>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

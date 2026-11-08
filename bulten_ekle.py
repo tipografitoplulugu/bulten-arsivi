@@ -241,8 +241,15 @@ def main():
     if data["bulten_url"]:
         update_app_py_urls(data["ay"], data["yil"], data["bulten_url"], APP_PATH)
 
+    # GitHub Pages için arsiv.json dosyasını güncelle
+    try:
+        from export_data import export_json
+        export_json()
+    except Exception as e:
+        print(f"⚠️  arsiv.json dışa aktarılırken hata oluştu: {e}")
+
     print("\n🚀 Tamamlandı! Şimdi GitHub'a göndermek için:")
-    print("   git add tipografi_arsivi.db app.py")
+    print("   git add tipografi_arsivi.db app.py arsiv.json")
     print(f'   git commit -m "Yeni bülten eklendi: {data["ay"]} {data["yil"]}"')
     print("   git push")
 
