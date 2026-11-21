@@ -1,0 +1,241 @@
+# Typography Bulletin: October 2025
+
+### In this month’s bulletin, there are significant developments in typography from around the world and Turkey.
+
+⏰ **Reading Time:** ~8 minutes
+
+Hello everyone!
+
+Highlights, new typefaces, and developments from the world of typography in the Turkish Typography Community’s October 2025 bulletin:
+
+---
+
+## Riccardo Olocco was at ISType.
+
+*Image: © [ISType Mono 2025](https://istype.com/riccardo-olocco/)*
+
+[Riccardo Olocco](https://www.riccardolocco.com/) gave a talk at Salt Galata on Thursday, October 30, 2025, as part of [ISType Mono](https://istype.com/riccardo-olocco/). Addressing the evolution of typography from the Renaissance to the present day, Olocco provided an overview of type design of the period, focusing on the search for original forms spanning from Gutenberg’s DK type to Jenson’s Roman types. He also introduced several contemporary type designs directly based on the revival of Renaissance models or inspired by them.
+
+Working as a type designer at [CAST Type Foundry](https://www.c-a-s-t.com/), Olocco completed his doctoral studies at the University of Reading, focusing on 15th-century Venetian Roman types. In 2022, he co-authored the book “Designing Type Revivals” with Michele Patanè. He taught typography at the University of Bolzano and carried out work in Milan and various cities across Northern Italy. He is also a member of the *Nebiolo History Project*—which we also featured in our [May 2022](https://medium.com/tipografi/tipografi-haberleri-may%C4%B1s-2022-c258249bd466) and [August 2023](https://medium.com/tipografi/tipografi-b%C3%BClteni-a%C4%9Fustos-2023-5ee8b04702ec) bulletins.
+
+---
+
+## CAST Foundry joined Type Network.
+
+*Image: © [Type Network](https://typenetwork.com/articles/italian-co-operative-cast-foundry-joins-tn)*
+
+Speaking of Riccardo Olocco, let’s also mention that CAST Foundry, of which he is a co-founder, has [joined](https://typenetwork.com/articles/italian-co-operative-cast-foundry-joins-tn) the [Type Network](http://typenetwork.com) platform. Known for its research-oriented approach and collective production model, CAST aims to bring its typefaces to a broader international audience through this collaboration. While strengthening the culture of solidarity among independent type foundries, the agreement also draws attention to collaborative working models seen in contemporary European typography.
+
+---
+
+## A new interpretation of the art of writing: “Calligraphic Wig”
+
+*Image: © [OMM](https://www.omm.art/tr/sergi/calligraphic-wig)*
+
+Odunpazarı Modern Museum (OMM) in Eskişehir is hosting the site-specific installation “[Calligraphic Wig](https://www.omm.art/tr/sergi/calligraphic-wig)” by Berlin-based Romanian artist Daniel Knorr between October 25, 2025, and March 21, 2026. The forms born from production glitches observed by Knorr in plastic recycling factories in Hong Kong transform into organic structures reminiscent of unknown alphabets. Questioning the boundary between industrial production and aesthetics by coating some pieces with automotive paint colors from the 1970s to the present, the artist leaves others in their raw state, making the randomness and transformative capacity of the material visible.
+
+---
+
+## “Anatomy of Letters” presentation and workshop
+
+*Image: © [KHAS VCD](https://www.instagram.com/p/DPrNm15DZum/)*
+
+Calligrapher and Architect [Rümeysa Zeynep Kurtuluş](https://rumeysazeynep.com/) conducted a presentation and workshop titled “[Anatomy of Letters](https://www.instagram.com/p/DPrNm15DZum/)” as part of the Typography Course at Kadir Has University's Department of Visual Communication Design on October 13, 2025.
+
+---
+
+## “Fonts & AI” conference
+
+*Image: © [“Fonts & AI” Conference](https://trust.ilovetypography.com/fonts-and-ai)*
+
+Organized by I Love Typography, the first conference addressing the intersection of typefaces and artificial intelligence, “[Fonts & AI](https://trust.ilovetypography.com/fonts-and-ai)”, was held online on October 23–24, 2025. Enriched with sessions covering topics such as type design, training AI models, ethics, and copyright, the conference featured names such as Nadine Chahine, Petr van Blokland, Dave Crossland, and Alice Savoie.
+
+---
+
+## Fujairah International Calligraphy and Illumination Conference
+
+*Image: © [FICCO 25](https://socofujairah.ae/en/conference/)*
+
+The second edition of the [Fujairah International Calligraphy and Illumination Conference](https://socofujairah.ae/en/conference/) (FICCO 25) was held on October 18–19, 2025, in the city of Fujairah, United Arab Emirates. In the program featuring international experts from the circles of Islamic arts and written culture, participants from Turkey included Prof. Dr. Selçuk Artut with his presentation exploring the relationship between technology and tradition in contemporary lettering art, and Dr. Serap Ekizler Sönmez with her presentation discussing the mathematical and aesthetic patterns of illumination designs.
+
+---
+
+## “Alphabetica: Entering Otherworlds” symposium
+
+*Image: © “[Alphabetica: Entering Otherworld](https://www.eventbrite.nl/e/alphabetica-2-entering-otherworlds-tickets-1766294407119)s”*
+
+The “[Alphabetica: Entering Otherworlds](https://www.eventbrite.nl/e/alphabetica-2-entering-otherworlds-tickets-1766294407119)” symposium was held on October 26, 2025, in The Hague, Netherlands. Opening up the discussion that writing systems are not only tools of communication but also carriers of imagination, identity, and the spiritual world, the symposium also hosted an exhibition titled “Otherworlds of Writing”.
+
+---
+
+## Dancing with letters: Ruslan Abasov’s approach to typography
+
+*Image: © [Its Nice That](https://www.itsnicethat.com/articles/ruslan-abasov-graphic-design-discover-021025)*
+
+In Type Designer [Ruslan Abasov](https://ruslanabasov.com/)’s [interview published in It’s Nice That](https://www.itsnicethat.com/articles/ruslan-abasov-graphic-design-discover-021025), the emphasis is placed on how he transforms his multilingualism stemming from different writing cultures into a creative resource in his typography work. Approaching letters not merely as functional symbols but as a formal and emotional language in his design journey that began in Istanbul, the interview also discusses in detail Abasov’s type designs such as *Mouris Display, Daido Display*, and *Escargot Display*.
+
+---
+
+## “Typography serves language, not the convenience of a system.”
+
+*Image: © [Daybreak Studio](https://www.daybreak.studio/writing/adaline-typography)*
+
+With the *Adaline* project, Daybreak Studio [demonstrates](https://www.daybreak.studio/writing/adaline-typography) an unconventional approach to web typography. Contrary to traditional system-oriented designs, Adaline offers a typography system where language and meaning are prioritized. This approach emphasizes that typography should reflect language itself and its context, rather than merely serving the convenience of a system. By adopting this philosophy, Adaline positions typography not just as an aesthetic tool, but also as a vehicle of meaning and communication.
+
+---
+
+## The future of typography with AI-powered font generation
+
+*Image: © [SuperAGI](https://superagi.com/future-of-typography-trends-and-innovations-in-ai-powered-font-generation-for-graphic-design/)*
+
+In a recent analysis, it is stated that approximately 80% of designers believe AI will revolutionize the field of typography, 71% use AI-powered font generation tools, and variable fonts are featured in 93% of projects. According to the website [SuperAGI](https://superagi.com/future-of-typography-trends-and-innovations-in-ai-powered-font-generation-for-graphic-design/), three trends stand out: brand-specific, context-aware, and user-customizable fonts; the use of variable fonts that change weight, width, and style from a single file in compatibility with mobile and desktop environments; and font production suited to multilingual and cross-cultural writing systems…
+
+---
+
+## The NY Sign Museum preserves the city’s typographic richness.
+
+*Image: [Printmag](https://www.printmag.com/design-culture/the-ny-sign-museum/) © Phil Gordon*
+
+> “We save these signs not just because they look cool, but because they mean something to us, to New Yorkers, and to the community.”
+
+> David Barnett, co-founder of Noble Signs and the New York Sign Museum
+
+Charlotte Beach [recounts](https://www.printmag.com/design-culture/the-ny-sign-museum/) how the *Noble Signs* initiative, founded under the leadership of David Barnett and Mac Pohanka, transformed into a museum with the mission of preserving New York’s visual memory. In addition to more than 150 vintage signs reflecting the city’s street culture, the New York Sign Museum houses a rich collection of thermometers, calendars, matchbooks used for advertising by local businesses, and 400 shopping bags from the 1970s and 1980s. The museum aims to pass on the city’s typographic heritage to future generations and bring traditional sign-making methods together with contemporary design practice.
+
+---
+
+## The journey of printing in the Ottoman Empire: “Mucibince Amel Oluna”
+
+*Image: © [Ötüken Neşriyat](https://www.otuken.com.tr/mucibince-amel-oluna)*
+
+Prepared for publication by Dr. Esra Oğuzhan, the book “[Mucibince Amel Oluna: Türk Matbaa Tarihi 1 / Matbaa Kurulurken](https://www.otuken.com.tr/mucibince-amel-oluna)”, which examines the birth of printing in the Ottoman Empire, its dynamics in the scholarly and cultural sphere, and its societal repercussions, was published by Ötüken Neşriyat. From Sultan Ahmed III’s imperial edict to the Shaykh al-Islam’s fatwas, and from the activities of Müteferrika’s printing press to the social repercussions of the period, many important documents and analyses are brought together in this work.
+
+---
+
+## New book from Slanted
+
+*Image: © “[The World’s Best Typography, Typography 46](https://www.slanted.de/product/the-worlds-best-typography-typography-46/)”*
+
+Slanted has published the annual anthology titled “[The World’s Best Typography, Typography 46](https://www.slanted.de/product/the-worlds-best-typography-typography-46/)”. The book features the winning works from the competition where the [Type Directors Club](https://tdc.org/) awards outstanding projects in typography. Enriched with designs from 33 countries, the selection also provides the jury members’ favorites and a list of fonts used in typography terminology as a resource.
+
+---
+
+## Book published to mark the 10th anniversary of the Gerard Unger Scholarship
+
+*Image: © “[Letters for the Future: Ten Years of the Gerard Unger Scholarship](https://www.type-together.com/letters-for-the-future)”*
+
+To celebrate the tenth anniversary of the Gerard Unger Scholarship, established to support young type designers, TypeTogether published a book titled “[Letters for the Future: Ten Years of the Gerard Unger Scholarship](https://www.type-together.com/letters-for-the-future)”. Edited by Linda Kudrnovská and designed by Tereza Bettinardi, the seventy-two-page book addresses Dr. Gerard Unger’s contributions to the world of typography and the scholarship’s impact on the industry, offering content enriched with interviews with scholarship recipients, sketches, and personal stories.
+
+---
+
+## Clara Istlerová: Living among letters
+
+*Image: © “[A Life Among Letters](https://www.itsnicethat.com/articles/clara-istlerov%C3%A1s-ane%C5%BEka-mina%C5%99ikov%C3%A1-a-life-among-letters-publication-project-081025)”*
+
+> “What does a designer’s story look like when it also encompasses a life?”
+
+The untold story of Czech designer Clara Istlerová (b. 1944) comes to light with the book “[A Life Among Letters](https://www.itsnicethat.com/articles/clara-istlerov%C3%A1s-ane%C5%BEka-mina%C5%99ikov%C3%A1-a-life-among-letters-publication-project-081025)” by [Anežka Minařiková](https://anezkaminarikova.com/). Bringing together interviews, archival research, and personal anecdotes with Istlerová—who stood out as the sole female member of the *Typo&* collective active in the Czech design scene during the 1970s—Minařiková presents a pocket-sized monograph. The book can be purchased from [Inventory Press](https://www.inventorypress.com/product/a-life-among-letters).
+
+---
+
+## “Alphabettes Soup: Feminist Approaches to Type” published.
+
+*Image: © “[Alphabettes Soup: Feminist Approaches to Type](https://bikini-books.com/products/alphabettes-soup)”*
+
+Porto-based Bikini Books has [announced](https://bikini-books.com/products/alphabettes-soup) its book documenting a decade (2015–2025) of feminist approaches from the independent type design network [Alphabettes](https://www.alphabettes.org/). In addition to essays and interviews centered on type foundries, type design, language, culture, and technology, the book features typefaces by more than a hundred women and non-binary type designers.
+
+---
+
+## Website launched for typography classic “Printing Types”
+
+*Image: © *“[https://www.c82.net/printing-types/](https://www.c82.net/printing-types/)*Printing Types: Their History, Forms & Use”*
+
+A comprehensive online edition of American printer, typographer, and historian Daniel Berkeley Updike’s (1860–1941) two-volume classic of the typography world, “[Printing Types: Their History, Forms & Use](https://www.c82.net/printing-types/)”, has been presented online by Nicholas Rougeux, enriched with original specimens. Examining the printing tradition in Europe and America from the 15th to the 20th century, the historical evolution of type design, geographical differences, and contributions to the graphic arts, the work was one of the first historical studies to systematically address the development of typefaces.
+
+---
+
+## James Mosley’s typography lectures
+
+*Image: © [James Mosley](https://www.youtube.com/playlist?list=PLh8Q6TpPxtgxSG6DEuOrH9iKx9bh6Pr7G)*
+
+Video recordings of the typography lectures given at the University of Reading during the 2020–2021 academic year by British librarian and historian James Mosley (1935–2025), a specialist in typography who passed away this past August, have been [published](https://www.youtube.com/playlist?list=PLh8Q6TpPxtgxSG6DEuOrH9iKx9bh6Pr7G). **☞* *Reading Recommendation:** Catherine Dixon’s [article](https://www.eyemagazine.com/blog/post/james-mosley-1935-2025) on James Mosley.
+
+---
+
+## Projects of Typemedia 2023–2024 graduates
+
+*Image: © [Typemedia](https://2024.typemedia.org/)*
+
+[Typemedia](https://typemedia.org/), the master’s program in type design offered at the Royal Academy of Art in The Hague, has published the [webpage](https://2024.typemedia.org/) featuring the work created during the 2023–2024 academic year. The webpage includes the type designs of thirteen graduates and detailed information on the preparation process of these designs.
+
+---
+
+## Applications open for Type West 2026 program.
+
+*Image: © [Type West 2026](https://letterformarchive.org/shop/type-west-2026-online-information-session/?utm_campaign=feed&utm_medium=referral&utm_source=later-linkinbio)*
+
+Applications have opened for the [Type West 2026 program](https://letterformarchive.org/shop/type-west-2026-online-information-session). Offered by Letterform Archive, the one-year postgraduate certificate program provides education in type design. Applications for the program, which can be attended either in person in San Francisco or online from anywhere in the world, will be accepted until November 2, 2025.
+
+---
+
+## Applications open for “Type Design Incubator”.
+
+*Image: © [KBI Type Design Incubator](https://www.kbitype.org/)*
+
+Aimed at revitalizing endangered and underrepresented writing systems, [The Donald Knuth & Charles Bigelow Type Design Incubator](https://www.kbitype.org/) (KBI) program has begun accepting applications. Conducted with the support of Stanford University, Words of Type, and Letterform Archive, the program provides accepted participants with a 100% scholarship covering course tuition and all required software. Starting in June 2026, the five-week program aims to ensure that these writing systems continue their presence vibrantly and functionally in today’s typographic landscape. The application deadline is November 14, 2025.
+
+---
+
+## New subscription platform: Typographer
+
+*Image: © [Typographer](https://typographer.com/)*
+
+[The Type Founders](https://thetypefounders.com/) has introduced [Typographer](https://typographer.com/), a new platform that brings together the discovery, testing, and licensing of typefaces under one roof. Aiming to simplify the process of working with typefaces for designers, the platform offers a curated collection of over 10,000 fonts, along with the ability to sync, test, and use fonts in presentation workflows. In addition, by providing direct integration with popular design applications such as Adobe, Figma, and Affinity, it makes typographic production workflows more fluid and accessible.
+
+---
+
+## A dedicated typeface for mathematics: Luciole Math
+
+*Image: © [Luciole Math](http://www.luciole-vision.com/en/math.html)*
+
+Specially designed for visually impaired academics, the type family [Luciole Math](http://www.luciole-vision.com/en/math.html) offers the opportunity to be used in various applications of mathematics from engineering to teaching. Unicode-compliant and containing more than three thousand characters, the typeface was developed in accordance with the key recommendations of the American Mathematical Society using a professional character set to be fully compatible with LaTeX. Furthermore, it is offered under the Open Font License (OFL) and can be downloaded and used free of charge.
+
+---
+
+## New typeface from Muhittin Güneş: Antra
+
+*Image: © [Antra](https://www.gunesmuhittin.com/typeface/antra)*
+
+Type Designer [Muhittin Güneş](https://www.gunesmuhittin.com/) has announced his new typeface [Antra](https://www.gunesmuhittin.com/typeface/antra), featuring nine weights including italics. Following the mid-20th-century modernist typographic approach and the structural style seen in Akzidenz-Grotesk, Antra focuses on clarity and proportion with low contrast, flat terminals, and a consistent vertical rhythm. In addition, Güneş’s [article](https://www.gunesmuhittin.com/antra-introduction), which recounts the design process of Antra starting from the idea of designing a new Akzidenz-Grotesk, is well worth reading.
+
+---
+
+## The iconic typeface of London’s street signs has been updated.
+
+*Image: © [City of London Street Nameplate Typeface](https://tosche.net/fonts/city-of-london-street-nameplate-typeface)*
+
+Type Designer [Toshi Omagari](https://tosche.net/fonts) has [updated](https://tosche.net/fonts/city-of-london-street-nameplate-typeface) the iconic typeface used on London’s street nameplates. Derived from the [Albertus](https://fontsinuse.com/typefaces/4857/albertus) typeface in 1988 as part of the City of London’s corporate identity renewal efforts, this custom typeface was made more legible and consistent through Omagari’s intervention. The updates ensure that the signs appear harmonious in both print and digital environments, while preserving their contemporary appearance as a symbol of London’s urban identity.
+
+---
+
+## TypePad: An experimental typography plugin with variable fonts
+
+*Image: © TypePad*
+
+Developed by HAL Typefaces, the [TypePad](https://type.hanli.eu/typepad-manual/) plugin transforms working with variable fonts into an experimental and interactive experience within InDesign. Offered as a CCX file of only 75 KB, the plugin features nine buttons in its user interface inspired by drum machines and MIDI controllers. This enables designers to explore the potential offered by variable fonts without limitations.
+
+---
+
+## Finally
+
+You can read Mehtap Uygungöz’s article on painter, calligrapher, and journalist [Etem Çalışkan](https://tr.wikipedia.org/wiki/Etem_%C3%87al%C4%B1%C5%9Fkan) (1928–2025), who passed away this past February, [here](https://doi.org/10.20488/sanattasarim.1803553).
+
+**See you in the next bulletin!**
+
+> *You can send any feedback and suggestions via [email](mailto:tipografitoplulugu@gmail.com) and follow our social media accounts. If you haven’t subscribed to the bulletin yet, you can do so [here](/tipografi/newsletters/tipografi-bülteni) and browse through [past bulletins](https://medium.com/tipografi/tagged/ttt-haberler).*
+
+---
+
+> *☞ [Facebook](https://www.facebook.com/tipografi/) ☞ [Twitter](https://twitter.com/tipografi) ☞ [Instagram](https://www.instagram.com/tipografitoplulugu/) ☞ [YouTube](https://www.youtube.com/@tipografi)*
+
+See you in the next bulletin!

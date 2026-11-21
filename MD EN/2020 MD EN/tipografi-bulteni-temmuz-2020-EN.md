@@ -1,0 +1,153 @@
+# Typography Newsletter: July 2020
+
+### A monthly Newsletter featuring notable typography news
+
+⏰ **Reading Time:** ~4 minutes
+
+Hello everyone!
+
+Highlights, new typefaces, and developments from the typography world in the Turkish Typography Community’s July 2020 bulletin:
+
+---
+
+## Sans Forgetica found not to improve memory.
+
+*Image/Video: [Video Source](https://youtu.be/CEXzSehu5HM)*
+
+In 2018, we [shared](https://wapo.st/2E4smGG) the news of a font called [Sans Forgetica](http://www.sansforgetica.rmit/), which was claimed to increase memory retention. Stephen Banham, a researcher who helped create Sans Forgetica, had stated that slanted letters with intermittent gaps acted as a simple puzzle for the reader; however, recent research revealed that this was not true. Following a study conducted on 400 students by psychology and design researchers from RMIT University, who designed the font, it was [announced](https://www.futurity.org/sans-forgetica-font-memory-2375842/) that Sans Forgetica does not improve memory.
+
+---
+
+## Ten tips for understanding font quality
+
+*Image: © [TypeTogether](https://www.type-together.com/font-quality)*
+
+[Veronika Burian](https://www.type-together.com/veronika-burian) and [José Scaglione](https://www.type-together.com/jose-scaglione) from [TypeTogether](https://www.type-together.com) [shared](https://www.type-together.com/font-quality) ten tips you need to know to evaluate the quality of a font.
+
+---
+
+## A dedicated iPad app from Fontstand
+
+*Image: © [Fontstand](https://fontstand.com)*
+
+[Fontstand](https://fontstand.com/), the macOS app developed in collaboration between [Typotheque](https://www.typotheque.com) and [Andrej Krátky](https://www.typotheque.com/authors/andrej_kratky) that allows you to try fonts for free and rent them on a monthly basis, [introduced](https://blog.fontstand.com/post/622422472084668416/fontstand-launches-the-most-advanced-custom-font-app-for) its dedicated iPad app, enabling users to explore, filter, manage, and use their font library. [Tap](https://apps.apple.com/app/id1483434269) to download the app.
+
+---
+
+## New font quizzes from I Love Typography
+
+*Image: © [I Love Typography](https://ilovetypography.com/tag/quiz/)*
+
+Last May, we announced the font identification quiz titled [Glorious Glyphs](https://ilovetypography.com/2020/05/25/ilt-quiz-glorious-glyphs/). Three more quizzes have been published by *I Love Typography*: [Font Anatomy](https://ilovetypography.com/2020/06/30/font-anatomy-game/), [Font Game Level 1](https://ilovetypography.com/2020/05/31/the-font-game/), and [Font Game Level 2](https://ilovetypography.com/2020/06/08/the-font-game-level-2/).
+
+---
+
+## A century of Cooper Black
+
+*Image: © [Fat Face: 100 years of Cooper Black](https://medium.com/swlh/fat-face-100-years-of-cooper-black-cf7735f68699)*
+
+[Jon Robinson](https://twitter.com/jfarrellstudio) celebrated the centenary of [Cooper Black](https://en.wikipedia.org/wiki/Cooper_Black), one of pop culture’s favorite typefaces, with a [great article](https://medium.com/swlh/fat-face-100-years-of-cooper-black-cf7735f68699). 🇬🇧
+
+---
+
+## A new book from Mark Argetsinger: “A Grammar of Typography”
+
+*Image: © [graphicarts.princeton.edu](https://graphicarts.princeton.edu)*
+
+[Mark Argetsinger](http://argetsingerbooks.com)’s new book, [A Grammar of Typography](https://graphicarts.princeton.edu/2020/05/23/a-born-classic/), has taken its place among the typography books published in 2020. Guiding the reader through every aspect of modern book design and production, the book provides a comprehensive guide, both practical and historical.
+
+---
+
+## The women behind Times New Roman
+
+*Image: © [Journal of Design History](https://academic.oup.com/jdh)*
+
+The article highlighting the key role played by the women behind Times New Roman by [Alice Savoie](https://frenchtype.com/about), a postdoctoral researcher at the University of Reading and also a type designer, titled [The Women Behind Times New Roman: The Contribution of Type Foundries to Twentieth-Century Type-Making](https://academic.oup.com/jdh/article-abstract/doi/10.1093/jdh/epaa025/5867210), was published in the [Journal of Design History](https://academic.oup.com/jdh). 🇬🇧
+
+---
+
+## Two typefaces from Hoefler&Co to be used in Joe Biden’s campaign.
+
+*Image: © [Hoefler&Co](https://www.typography.com)*
+
+Two typefaces, [Decimal](https://www.typography.com/fonts/decimal) and [Mercury](https://www.typography.com/fonts/mercury-text), by type foundry [Hoefler&Co](https://www.typography.com) led by [Jonathan Hoefler](https://en.wikipedia.org/wiki/Jonathan_Hoefler), [will be used](https://www.typography.com/blog/biden-fonts) in Joe Biden’s 2020 presidential campaign. The type foundry had previously designed [Gotham](https://www.typography.com/fonts/gotham/overview), used in Obama’s election campaign, and [Ringside](https://www.typography.com/fonts/ringside/overview), used in the visual identity of the Barack and Michelle Obama Foundation.
+
+Following this development, [Steven Heller](https://en.wikipedia.org/wiki/Steven_Heller_(design_writer)) shared his thoughts in an article titled [Can Two Types Topple Trump?](https://www.printmag.com/post/the-daily-heller-can-two-types-topple-trump)
+
+Additionally, [Decimal](https://www.typography.com/fonts/decimal/overview) was featured in the sixth episode of the second season of the Netflix documentary series [Abstract: The Art of Design](https://www.netflix.com/tr/title/80057883), starring Jonathan Hoefler as he researched antique watches for inspiration for a new typeface family. As the TTC, we also published an [article](https://medium.com/tipografi/soyut-düşünce-tasarım-sanatı-belgeseli-ve-bizim-büyük-terminoloji-çaresizliğimiz-77d7d844d4f4) addressing the terminology inconsistencies in the documentary.
+
+[“Abstract: The Art of Design” Documentary and Our Great Terminology Despair — *We addressed the terminology inconsistencies in the type design episode of the renowned Netflix documentary.*](https://medium.com/tipografi/soyut-d%C3%BC%C5%9F%C3%BCnce-tasar%C4%B1m-sanat%C4%B1-belgeseli-ve-bizim-b%C3%BCy%C3%BCk-terminoloji-%C3%A7aresizli%C4%9Fimiz-77d7d844d4f4)
+
+---
+
+## Type designers and typographers from Gutenberg to the present day
+
+*Image: © [Typedesigner and punchcutter from Gutenberg until today](http://www.klingspor-museum.de/KlingsporKuenstler/Schriftdesigner/TypeDesigner.pdf)*
+
+Hans Reichardt compiled a [178-page list](http://www.klingspor-museum.de/KlingsporKuenstler/Schriftdesigner/TypeDesigner.pdf) for the [Klingspor Museum](http://www.klingspor-museum.de), documenting 9,820 type designers and typographers from Gutenberg to the present.
+
+---
+
+## 2020 Ampersand International Graphic Competition
+
+*Image: © [2020 Ampersand International Graphic Competition](http://www.ampersandexhibition.com/)*
+
+Submissions are now open for the [2020 Ampersand International Graphic Competition](http://www.ampersandexhibition.com/). Open to designers over the age of 18, the exhibition of this international competition will be hosted this year by the Nádor Gallery. Deadline for submission is September 6, 2020. [For detailed information…](https://drive.google.com/drive/folders/1Gm2DqkNofIvxmJVCRYP421O1g7y7XysL?fbclid=IwAR2xNtmaU5XT35Xa7v2ZKH0oIeUrkLEoHcbDs8Y9yok6DPr-I-UQIFvOW4Y)
+
+---
+
+## Georg Salden’s typefaces
+
+*Image: © [An image of the GST Galopp typeface and Georg Salden](https://www.ludwigtype.de/georgsalden)*
+
+[Ludwig Übele](https://www.ludwigtype.de/about) has published [an article](https://www.ludwigtype.de/georgsalden) about [Georg Salden](https://de.wikipedia.org/wiki/Georg_Salden), who designed numerous typefaces throughout his nearly sixty-year career. 🇬🇧 Despite his lasting impact on typographic culture, the little-known internationally German designer created typefaces such as Polo GST, Brasil GST, Rolls GST, and Basta GST.
+
+---
+
+## 30 Years of Times New Roman and Arial on Windows
+
+*Image: © [LinkedIn](https://www.linkedin.com/pulse/thirty-years-monotypes-times-new-roman-arial-windows-greg-hitchcock)*
+
+It has been 30 years since Microsoft adopted the Times New Roman, Arial, and Courier New typefaces with Windows 3.1. Greg Hitchcock [provides insight](https://www.linkedin.com/pulse/thirty-years-monotypes-times-new-roman-arial-windows-greg-hitchcock) into how they selected these typefaces, the goals of the project, and the development process.
+
+---
+
+## Italic text in HTML
+
+*Image: © css-tricks.com*
+
+[Chris Coyier](https://css-tricks.com/author/chriscoyier/) wrote an informative [article](https://css-tricks.com/how-to-italicize-text/) on italic text in HTML.
+
+---
+
+## List of typefaces used on signage
+
+*Image: © [Wikipedia.](https://en.m.wikipedia.org/wiki/List_of_public_signage_typefaces)*
+
+A [list of typefaces](https://en.m.wikipedia.org/wiki/List_of_public_signage_typefaces) used on signs in public spaces such as roads and airports, published on Wikipedia.
+
+---
+
+## Interview with İlhan Bilge: “Design and Language”
+
+*Image: © [YouTube](https://youtu.be/yB1z2yhaH6A)*
+
+[Ceyhun Akgün](https://www.ceyhunakgun.com) held a [great interview](https://youtu.be/yB1z2yhaH6A) with educator and designer İlhan Bilge, touching upon many topics from spelling errors to improper usage—issues we also frequently emphasize in our presentations. Be sure to watch it.
+
+---
+
+## The letters of Sakarya are being brought to the digital realm.
+
+*Image: © [Letters of Sakarya](http://sakaryaninharfleri.com)*
+
+Prepared as part of the master’s thesis by [Ali Yıldırım](https://www.behance.net/helloworldimali), a student at the Sakarya University Institute of Social Sciences [Department of Visual Communication Design](http://git.sakarya.edu.tr), under the supervision of Asst. Prof. Dr. [Murat Ertürk](http://muraterturk.com), the [Letters of Sakarya](http://sakaryaninharfleri.com) project has been opened to digital access. Artifacts such as hand-painted signs, plaques, apartment nameplates, window lettering, and graffiti on the streets of Sakarya dating back to the 1950s, along with findings related to the artisans who crafted them, are presented at [sakaryaninharfleri.com](http://sakaryaninharfleri.com).
+
+Aiming to raise awareness of vernacular typography through graphic artifacts produced using traditional methods that are on the verge of disappearing, the findings obtained through the project not only contain data contributing locally to the city's visual communication and design history, but also constitute a visual archive that will be made available as open source for years to come.
+
+---
+
+> The July 2020 issue of the monthly bulletin prepared by the [*Turkish Typography Community*](https://medium.com/tipografi), featuring notable typography-related news.
+
+> [*Facebook*](https://www.facebook.com/tipografi/) | [Twitter](https://twitter.com/tipografi) | [Instagram](https://www.instagram.com/tipografitoplulugu/)
+
+See you in the next bulletin!

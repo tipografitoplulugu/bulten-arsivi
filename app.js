@@ -67,7 +67,7 @@
       logoAlt: "Turkish Typography Society logo",
       brand: "Turkish Typography Society",
       heroTitle: "Typography Newsletter Archive",
-      heroCopy: "Since 2019, we have brought together notable developments in typography in Türkiye and around the world in a monthly newsletter. Search English summaries by keyword and explore the growing archive.",
+      heroCopy: "Since 2019, we have brought together notable developments in typography in Türkiye and around the world in a monthly newsletter. Search English summaries by keyword and explore the archive.",
       issuesLabel: "ISSUES PUBLISHED",
       articlesLabel: "NEWS INDEXED",
       rangeLabel: "ARCHIVE COVERAGE",
@@ -86,20 +86,22 @@
       pagination: "Pagination",
       footer: "Footer",
       subscribe: "Subscribe to the newsletter",
-      languageNote: "English summaries are available for selected issues. The full newsletter is published in Turkish.",
+      languageNote: "English translations are available for the archive. Original Turkish issues are linked.",
       themeDark: "Switch to dark mode",
       themeLight: "Switch to light mode",
       loading: "Loading archive…",
       loadError: "The archive could not be loaded. Check your internet connection and refresh the page.",
-      noResults: "No stories matched “{query}”{year}. Check the spelling or try a shorter search.",
-      noYearResults: "English summaries are not available for {year} yet. Switch to TR to search the full archive.",
-      resultsSummary: "{articles} stories · across {issues} issues · Newest first",
+      noResults: "No news items matched “{query}”{year}. Check the spelling or try a shorter search.",
+      noYearResults: "No English newsletter entries were found for {year}.",
+      resultsSummary: "{articles} news items · across {issues} issues · Newest first",
       chartAria: "Chart of search results by year",
-      chartTitle: "{count} stories in {year}",
+      chartTitle: "{count} news items in {year}",
       excerptInTitle: "Title match: {title}.",
       excerptInLink: "The search phrase “{query}” appears in a link in this entry.",
       relevantParagraphs: "Read matching paragraphs",
       summaryLabel: "English summary",
+      translationLabel: "English translation",
+      readEnglishIssue: "Read the full newsletter in English ↗",
       readIssue: "Read the original issue in Turkish ↗",
       originalIssue: "Cite this entry",
       copy: "Copy",
@@ -124,6 +126,7 @@
   // State
   let archiveData = [];
   let archiveStats = {};
+  let englishIssueKeys = new Set();
   let currentResults = [];
   let currentPage = 1;
   let activeQuery = "";
@@ -172,6 +175,19 @@
   function issueName(item) {
     const month = STRINGS[currentLanguage].months[item.ay] || item.ay;
     return [month, item.yil].filter(Boolean).join(" ");
+  }
+
+  function englishIssueUrl(item) {
+    const monthNumber = Object.keys(STRINGS.tr.months).indexOf(item.ay) + 1;
+    const url = new URL("en/issue.html", document.baseURI);
+    url.searchParams.set("year", String(item.yil));
+    url.searchParams.set("month", String(monthNumber));
+    return url.toString();
+  }
+
+  function hasEnglishIssue(item) {
+    const monthNumber = Object.keys(STRINGS.tr.months).indexOf(item.ay) + 1;
+    return monthNumber > 0 && englishIssueKeys.has(`${item.yil}-${monthNumber}`);
   }
 
   function setText(id, key) {
@@ -243,7 +259,11 @@
       const translatedIssues = new Map(translatedIssueRecords.map((issue) => [issue.key, issue.year]));
       const translatedYears = [...new Set(translatedIssueRecords.map((issue) => issue.year))].sort((a, b) => a - b);
       if (currentLanguage === "en") {
-        if (translationsLoaded) {
+        if (translationsLoaded && englishIssueKeys.size) {
+          const fullYears = [...new Set([...englishIssueKeys].map((key) => Number(key.split("-")[0])))].sort((a, b) => a - b);
+          const yearText = fullYears.length ? ` (${fullYears[0]}–${fullYears[fullYears.length - 1]})` : "";
+          languageNote.textContent = `Full English translations cover ${formatNumber(englishIssueKeys.size)} ${englishIssueKeys.size === 1 ? "issue" : "issues"}${yearText}. Original Turkish issues are linked.`;
+        } else if (translationsLoaded) {
           const yearText = translatedYears.length ? ` (${translatedYears.join("–")})` : "";
           languageNote.textContent = `English summaries currently cover ${formatNumber(translatedIssues.size)} ${translatedIssues.size === 1 ? "issue" : "issues"}${yearText}. The full newsletter is published in Turkish.`;
         } else {
@@ -287,9 +307,10 @@
 
   function normalizeForMatch(text) {
     if (!text) return "";
-    return text
-      .toLocaleLowerCase("tr-TR")
-      .replace(/ı/g, "i")
+    const locale = currentLanguage === "en" ? "en-US" : "tr-TR";
+    let normalized = text.toLocaleLowerCase(locale);
+    if (currentLanguage === "tr") normalized = normalized.replace(/ı/g, "i");
+    return normalized
       .normalize("NFKD")
       .replace(/[\u0300-\u036f]/g, "")
       .replace(/[^\p{L}\p{N}]+/gu, " ")
@@ -333,8 +354,9 @@
     if (sentence.length <= limit || query.length >= limit) {
       return sentence;
     }
-    const normSent = sentence.toLocaleLowerCase("tr-TR");
-    const normQ = query.toLocaleLowerCase("tr-TR");
+    const locale = currentLanguage === "en" ? "en-US" : "tr-TR";
+    const normSent = sentence.toLocaleLowerCase(locale);
+    const normQ = query.toLocaleLowerCase(locale);
     const pos = normSent.indexOf(normQ);
     if (pos < 0) return sentence;
 
@@ -355,7 +377,7 @@
 
   function matchingExcerpt(title, body, query) {
     let searchBody = body;
-    if (title.toLocaleLowerCase("tr-TR").includes("küçük puntolar")) {
+    if (currentLanguage === "tr" && title.toLocaleLowerCase("tr-TR").includes("küçük puntolar")) {
       const lines = body
         .split("\n")
         .filter((line) => textContainsQuery(plainText(line), query));
@@ -375,10 +397,10 @@
 
     const readableTitle = plainText(title);
     if (textContainsQuery(readableTitle, query)) {
-      return `Başlıkta eşleşme: ${readableTitle}.`;
+      return t("excerptInTitle", {title: readableTitle});
     }
 
-    return `Aranan ifade “${query}” bu kaydın içeriğindeki bir bağlantıda eşleşiyor.`;
+    return t("excerptInLink", {query});
   }
 
   function highlightedExcerpt(text, query) {
@@ -391,9 +413,10 @@
     const regex = new RegExp(`(${escaped.join("|")})`, "gi");
 
     const parts = text.split(regex);
+    const locale = currentLanguage === "en" ? "en-US" : "tr-TR";
     return parts
       .map((part) => {
-        if (words.some((w) => part.toLocaleLowerCase("tr-TR") === w.toLocaleLowerCase("tr-TR"))) {
+        if (words.some((w) => part.toLocaleLowerCase(locale) === w.toLocaleLowerCase(locale))) {
           return `<mark class="search-hit">${escapeHtml(part)}</mark>`;
         }
         return escapeHtml(part);
@@ -544,7 +567,7 @@
 
       // 2. Query matching
       const normTitle = normalizeForMatch(currentLanguage === "en" ? translated.title : item.baslik);
-      const normContent = normalizeForMatch(currentLanguage === "en" ? translated.summary : item.icerik);
+      const normContent = normalizeForMatch(currentLanguage === "en" ? (translated.content || translated.summary) : item.icerik);
       const combined = `${normTitle} ${normContent}`;
 
       // Check phrase first
@@ -631,14 +654,21 @@
         const translated = localizedItem(item);
         const cleanIssue = currentLanguage === "en" ? issueName(item) : item.bulten;
         const title = currentLanguage === "en" ? translated.title : item.baslik;
-        const body = currentLanguage === "en" ? translated.summary : cleanVisualLines(item.icerik);
-        const excerpt = currentLanguage === "en" ? body : matchingExcerpt(title, body, activeQuery);
+        const translatedContent = currentLanguage === "en" ? (translated.content || translated.summary) : "";
+        const body = currentLanguage === "en"
+          ? (activeQuery ? translatedContent : translated.summary)
+          : cleanVisualLines(item.icerik);
+        const excerpt = currentLanguage === "en"
+          ? (activeQuery ? matchingExcerpt(title, translatedContent, activeQuery) : body)
+          : matchingExcerpt(title, body, activeQuery);
         const highlighted = highlightedExcerpt(excerpt, activeQuery);
         const relParagraphs = currentLanguage === "en" ? [] : matchingParagraphs(body, activeQuery);
 
         // Citation
         const cleanTitle = (item.baslik || "").replace(/[*_#`]/g, "").trim();
-        const citation = `Türkçe Tipografi Topluluğu. (${item.yil || ""}, ${item.ay || ""}). ${cleanTitle}. Tipografi Bülteni. ${item.url || ""}`;
+        const citation = currentLanguage === "en"
+          ? `Turkish Typography Society. (${cleanIssue}). ${cleanTitle}. Typography Newsletter. ${item.url || ""}`
+          : `Türkçe Tipografi Topluluğu. (${item.yil || ""}, ${item.ay || ""}). ${cleanTitle}. Tipografi Bülteni. ${item.url || ""}`;
         const citationSafe = escapeHtml(citation);
 
         const paragraphsBlock = relParagraphs.length > 0
@@ -658,8 +688,9 @@
               <strong>${escapeHtml(currentLanguage === "en" ? cleanIssue.toLocaleUpperCase("en-US") : turkishUpper(cleanIssue))}</strong>
             </div>
             <h3>${escapeHtml(title)}</h3>
-            ${currentLanguage === "en" ? `<div class="section-eyebrow summary-eyebrow">${escapeHtml(t("summaryLabel"))}</div>` : ""}
+            ${currentLanguage === "en" ? `<div class="section-eyebrow summary-eyebrow">${escapeHtml(t(hasEnglishIssue(item) ? "translationLabel" : "summaryLabel"))}</div>` : ""}
             <p class="result-excerpt">${highlighted}</p>
+            ${currentLanguage === "en" && hasEnglishIssue(item) ? `<a href="${escapeHtml(englishIssueUrl(item))}" class="result-issue-link result-issue-link--translated">${escapeHtml(t("readEnglishIssue"))}</a>` : ""}
             <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer" class="result-issue-link">${escapeHtml(t("readIssue"))}</a>
             ${paragraphsBlock}
             <details class="card-expander">
@@ -849,17 +880,22 @@
   async function loadArchiveData() {
     try {
       statusContainer.innerHTML = `<div class="app-status">${escapeHtml(t("loading"))}</div>`;
-      const [response, translationsResponse] = await Promise.all([
+      const [response, translationsResponse, issueManifestResponse] = await Promise.all([
         fetch("arsiv.json"),
         fetch("arsiv-en.json"),
+        fetch("issues-en.json").catch(() => null),
       ]);
       if (!response.ok || !translationsResponse.ok) {
         throw new Error(`HTTP ${!response.ok ? response.status : translationsResponse.status}`);
       }
       const data = await response.json();
       const translationsData = await translationsResponse.json();
+      const issueManifest = issueManifestResponse && issueManifestResponse.ok
+        ? await issueManifestResponse.json()
+        : {issues: []};
       archiveData = data.items || [];
       englishTranslations = translationsData.items || {};
+      englishIssueKeys = new Set((issueManifest.issues || []).map((issue) => `${issue.year}-${issue.month}`));
       translationsLoaded = true;
       archiveStats = data.stats || {};
 

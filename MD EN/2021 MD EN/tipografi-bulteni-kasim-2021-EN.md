@@ -1,0 +1,183 @@
+# Typography Newsletter: November 2021
+
+### A monthly Newsletter featuring noteworthy news about typography
+
+⏰ **Reading Time:** ~6 minutes
+
+Hello everyone!
+
+Highlights, new typefaces, and developments from the world of typography in the Turkish Typography Community’s November 2021 newsletter:
+
+---
+
+## On the monopolization of the font industry
+
+*Image: ©** [https://qz.com/2068310/what-monotypes-purchase-of-hoeflerco-means-to-font-designers/](https://qz.com/2068310/what-monotypes-purchase-of-hoeflerco-means-to-font-designers/)**qz*
+
+Prompted by Monotype’s acquisition of independent type foundries such as Fontsmith, URW, and most recently Hoefler&Co, [Anne Quito](https://twitter.com/annequito) has [penned](https://qz.com/2068310/) a comprehensive article for *Quartz* on the monopolization of the font industry. 🇬🇧
+
+---
+
+## Type specimen of the Gujarati Type Foundry
+
+*Image: © [Letterform Archive](https://letterformarchive.org/news/view/gujarati-type-foundry-specimen)*
+
+[Tanya George](https://twitter.com/tanyatypes), whose [article](https://fontstand.com/news/essays/emperor-of-letters-kamal-shedge/) on Kamal Shedge we shared last month, has [examined](https://letterformarchive.org/news/view/gujarati-type-foundry-specimen) the 1937 type specimen of the Gujarati Type Foundry, founded in India in 1900. 🇬🇧
+
+---
+
+## Online type design course from Lynne Yun
+
+*Image: © [Foundations of Type Design](https://typedesignschool.com)*
+
+Type designer [Lynne Yun](https://twitter.com/LynneYun) announced her online video course titled [Foundations of Type Design](https://typedesignschool.com). Offered for free, the tutorials aim to build a solid foundation for what you need to know before starting type design, and then carry it across the finish line. 🇬🇧
+
+---
+
+## Adobe ends support for PostScript Type 1
+
+*Image: © [Brett Jordan](https://unsplash.com/photos/M9NVqELEtHU)*
+
+Adobe is [ending](https://www.macworld.com/article/344971/adobe-drops-postscript-type1.html) support for *PostScript Type 1*. Developed by Adobe in the early 1980s at the dawn of the desktop publishing era, PostScript Type 1 fonts will lose support in Adobe Photoshop this year and will be phased out of other Adobe products by 2023. 🇬🇧
+
+---
+
+## The role of women in type design and production
+
+*Image: © [Women in Type](https://www.women-in-type.com/)*
+
+Coordinated by [Prof. Fiona Ross](https://www.reading.ac.uk/typography/staff/professor-fiona-ross) and conducted by [Dr. Alice Savoie](https://twitter.com/alicesavoie) and Dr. Helena Lekka, the website for the [Women in Type](https://www.women-in-type.com) research project has launched. The project investigates the roles and responsibilities of women working in type design and production at two major British companies, *Monotype Corporation* and *Linotype Limited*, between 1910 and 1990. Women in Type is the result of a three-year research project carried out between March 2018 and November 2021 at the [Department of Typography & Graphic Communication at the University of Reading](https://www.reading.ac.uk/typography/). 🇬🇧
+
+---
+
+## “Bauhaus Typography at 100” exhibition
+
+*Image: © [Letterform Archive](https://letterformarchive.org/news/view/exhibition-no.1-bauhaus-typography-at-100)*
+
+[Letterform Archive](https://letterformarchive.org) is celebrating the opening of its first gallery in San Francisco with an exhibition titled [Bauhaus Typography at 100](https://letterformarchive.org/news/view/exhibition-no.1-bauhaus-typography-at-100). Curated by Rob Saunders and Henry Cole Smith, the exhibition will feature works by Johannes Itten, Paul Klee, Wassily Kandinsky, László Moholy-Nagy, Herbert Bayer, and Joost Schmidt, as well as individuals whose innovative typographic contributions are often overlooked, including women like Friedl Dicker. The exhibition, which opened on November 13, 2021, can be visited until April 27, 2022. As part of the exhibition, a [280-page book with 500 images](https://letterformarchive.org/publishing) bearing the same name has also been prepared. 🇬🇧
+
+[READING RECOMMENDATION: “Typography Fundamentals: Using hyphens and dashes correctly” — *In the first of the Typography Fundamentals series, punctuation marks that have distinct meanings and are generally used without fully knowing what they are…*](https://medium.com/tipografi/tipografinin-temelleri-tireleri-do%C4%9Fru-kullanmak-fc16f76e3044)
+
+---
+
+## Klingspor Museum is digitizing its archive.
+
+*Image: © [Klingspor Institute](https://www.instagram.com/klingspor_institute/)*
+
+Located in Offenbach, Germany, and specializing in books, type, and typography, the [Klingspor Museum](https://www.klingspor-museum.de) will publish in 2022 the archive it [announced](https://www.instagram.com/klingspor_museum/) it has begun digitizing for type enthusiasts. The archive will feature the art books of Karl Klingspor, who inspired the founding of the museum, along with specimens and drafts from the Klingspor Type Foundry.
+
+In the [new episode](https://open.spotify.com/episode/1zr4XXh10KKlpgAfDVRWvr?si=vBl1HrwUR1ygSW_ppO3wFg) of Weekly Typographic, Micah Rich and Olivia Kane talk with lettering artist [Alanna Flowers](https://www.instagram.com/alanna_flowers/). 🇬🇧
+
+---
+
+## Why do designers use certain fonts for politicians?
+
+*Image: © [Yello](https://yello.substack.com/p/why-political-designers-use-certain)*
+
+> “You can't do anything about the name, that's your canvas!” Katherine Haenschen
+
+A worthwhile [article](https://yello.substack.com/p/why-political-designers-use-certain) by [Hunter Schwarz](https://twitter.com/hunterschwarz) on font choices made in political campaigns. In his article, Schwarz draws on the results of research conducted in 2019 and 2021 to explore in depth why designers choose specific fonts in political campaigns. 🇬🇧
+
+---
+
+## A lettering book from Kelcey Gray
+
+*Image: © [Let’s Make Letters](https://www.amazon.com/Lets-Make-Letters-Experiment-Practice/dp/1648960472)*
+
+American graphic designer Kelcey Gray’s lettering book [Let’s Make Letters](https://www.amazon.com/Lets-Make-Letters-Experiment-Practice/dp/1648960472) took its place among the typography books published in 2021. Geared towards beginners, the book goes beyond traditional lettering books with a series of experimental and creative projects. 🇬🇧
+
+---
+
+## Font engineering and the importance of what you cannot see
+
+*Image: © [Monotype](https://www.monotype.com/resources/expertise/font-engineering-explained)*
+
+> “When the design is finalized, a font engineer steps in to handle all the tasks that ‘finish’ the font.”
+
+A [worthwhile read](https://www.monotype.com/resources/expertise/font-engineering-explained) on *font engineering*, which Monotype states is essential for a flawless font. Monotype explains that once designers have finished their work, font engineering is the next most critical step to ensure that the font files themselves (the actual “thing” built and downloaded to users’ machines) deliver those designs flawlessly. 🇬🇧
+
+---
+
+## Typography publications from the University of Wisconsin library
+
+*Image: © [University of Wisconsin](https://search.library.wisc.edu/search/digital?filter%5Bfacets%5D%5Bcollections_facet~Silver+Buckle+Press+Collection%5D=yes)*
+
+The University of Wisconsin–Madison Libraries made numerous Buckle Press publications, notably type specimens from the Silver Buckle Press collection, [available](https://search.library.wisc.edu/search/digital?filter%5Bfacets%5D%5Bcollections_facet~Silver+Buckle+Press+Collection%5D=yes) in its digital library.
+
+---
+
+## A new typeface for MTV: Gravity Grotesk
+
+*Image/Video: [Video Source](https://vimeo.com/583015369)*
+
+Type Network described the design process behind [Gravity Grotesk](https://custom.typenetwork.com/case_studies/mtvs-new-typeface-gravity-grotesk), a typeface prepared for MTV’s rebranding on its 40th anniversary. Designed to work across countless sizes as required for a contemporary media network—from television to desktop and laptop computers to mobile screens—the design of Gravity Grotesk saw branding agency [loyalkaspar](https://www.loyalkaspar.com/) collaborate with Type Network partners Dyana Weissman and Victoria Rushton, [CSTM Fonts](https://cstmfonts.typenetwork.com/) for the Cyrillic version, and [Jacques le Bailly](http://baronvonfonthausen.com/) for the condensed italic version. 🇬🇧
+
+---
+
+## Ali Saraç, brush sign painter of Ordu
+
+*Image: © [Güven Bayar](https://twitter.com/guvenbayar_)*
+
+Researcher [Güven Bayar](https://twitter.com/guvenbayar_) has [brought to light](http://www.haberaltas.com/tr-TR/haberler/8232/caginin-otesinde-bir-sanatkar-ali-sarac) the work of Ali Saraç, who worked as a brush sign painter in Ordu during the 1960s. Born in Trabzon in 1926, Ali Saraç went to Istanbul in the late 1940s and learned gold leaf and rubber stamp techniques from Armenian masters in Karaköy. After returning to Trabzon to open his first shop and work as a sign painter, Ali Saraç—whose signs were used across a wide region from the Black Sea to Eastern Anatolia—passed away in 1980.
+
+---
+
+## On Müteferrika with Orlin Sabev
+
+*GMK Tarihler* (GMK Histories), the new event series by the [Turkish Society of Graphic Designers](http://gmk.org.tr), hosted faculty member Orlin Sabev from the Institute of Balkan Studies at the Bulgarian Academy of Sciences, known for his work on İbrahim Müteferrika. In the talk broadcast live on GMK’s YouTube channel on Sunday, November 28, 2021—which aimed to examine the historical ties between graphic design and printing in Turkey from a critical perspective—Sabev provided comprehensive insights ranging from the books printed at the Müteferrika Press to the typefaces used, from printing equipment to staff and material procurement.
+
+---
+
+## The tragicomedy of digital fonts
+
+*Image: © [nan.xyz](https://www.nan.xyz/txt/the-tragicomedy-of-digital-fonts/)*
+
+An [entertaining read](https://www.nan.xyz/txt/the-tragicomedy-of-digital-fonts/) by [Frank Adebiaye](https://twitter.com/fadebiaye) on the tragicomic stories of digital fonts, from typeface comparisons to potential type foundry collaborations. 🇬🇧
+
+---
+
+## Handbook of Iranian calligraphy and related arts
+
+*Image: © [Brill](https://brill.com/view/title/17106)*
+
+Hamid Reza Ghelichkhani’s [book](https://brill.com/view/title/17106) on Iranian calligraphy, its techniques, and related arts such as illumination, illustration, and bookbinding will meet readers in 2022. Published by Brill, the book provides a detailed examination of Persian calligraphy and its associated traditional book arts, which form the most important expressions of the living practical traditions of Persianate-Islamic art. The volume is edited by [Shervin Farridnejad](https://twitter.com/farridnejad), an Iranian Studies specialist at the Austrian Academy of Sciences in Vienna. 🇬🇧
+
+---
+
+## Type design for Tamil
+
+*Image: © [Typotheque](https://www.typotheque.com/articles/november_tamil_designing_with_purpose)*
+
+Aadarsh Rajan [reflects](https://www.typotheque.com/articles/november_tamil_designing_with_purpose) on what needs to be done when designing different versions of [Typotheque](https://www.typotheque.com)’s [November](https://www.typotheque.com/fonts/november_tamil/about) type family for scripts like Tamil that do not share the same graphic expression and cultural context as Latin. 🇬🇧 A worthwhile read, especially for type designers looking to expand their typefaces to different scripts in addition to Latin.
+
+---
+
+## Remembering the forgotten women of metal type design
+
+*Image/Video: [Video Source](https://youtu.be/rsr4Bo9RKj8)*
+
+[Bethany Qualls](https://twitter.com/Bethany_Qualls) [provides an overview](https://youtu.be/rsr4Bo9RKj8) of her work with the [Letterform Archive](https://oa.letterformarchive.org) in San Francisco to make the histories of women type designers during the movable type era more accessible. The researcher examined more than 688 type specimens in Letterform’s archive, reviewing all the documentation she found regarding women who designed metal type before the digital era.
+
+---
+
+## A revival project from Juanjo López: Graveur
+
+*Image: © [Juanjo López](https://www.juanjez.com/designing-a-revival-graveur/)*
+
+Madrid-based type designer [Juanjo López](https://www.juanjez.com) has written a [great piece](https://www.juanjez.com/designing-a-revival-graveur/) about [Graveur](https://www.juanjez.com/typefaces/graveur), a type family reviving the original cuts of [Robert Granjon](https://en.wikipedia.org/wiki/Robert_Granjon) rooted in the French Renaissance. 🇬🇧 Comprising seven weights across four optical sizes along with italics, the type family also features two variable fonts.
+
+---
+
+## ILT expands its font store.
+
+*Image: © [ILT](https://ilovetypography.com/2021/11/24/new-indie-foundries/)*
+
+[I Love Typography](https://fonts.ilovetypography.com) [added](https://ilovetypography.com/2021/11/24/new-indie-foundries/) more than 200 type families and 21 more type foundries to the store it launched in June with forty independent type foundries. 🇬🇧 Having significantly expanded its script portfolio thanks to [Laura Worthington Design](https://fonts.ilovetypography.com/fonts/laura-worthington), [Debi Sementelli](https://fonts.ilovetypography.com/fonts/debi-sementelli), and [Chank Fonts](https://fonts.ilovetypography.com/fonts/chank-fonts), ILT has broadened its font store considerably with bestselling type families such as [Mark Simonson](https://fonts.ilovetypography.com/fonts/mark-simonson)’s [Proxima Nova](https://fonts.ilovetypography.com/superfamily/Proxima%20Nova), as well as contemporary designs from type foundries like [XYZ Type](https://fonts.ilovetypography.com/fonts/xyz-type), [Blaze Type](https://fonts.ilovetypography.com/fonts/blaze-type), and [Zetafonts](https://fonts.ilovetypography.com/fonts/zetafonts).
+
+> *You can send any feedback and suggestions via [email](mailto:tipografitoplulugu@gmail.com). To see developments from the typography world in your inbox at the beginning of every month, you can subscribe to the [Typography Bulletin](https://apos.to/n/tipografi) and follow our social media accounts below.*
+
+---
+
+> [*Facebook*](https://www.facebook.com/tipografi/) | [Twitter](https://twitter.com/tipografi) | [Instagram](https://www.instagram.com/tipografitoplulugu/)
+
+See you in the next bulletin!

@@ -1,0 +1,664 @@
+{
+  "updated_at": "2026-11-21T19:48:25+00:00",
+  "translation_source": "MD EN",
+  "issues": [
+    {
+      "year": 2019,
+      "month": 1,
+      "title": "January 2019",
+      "path": "en/issues/2019-01.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-ocak-2019-604f7ccb2b07"
+    },
+    {
+      "year": 2019,
+      "month": 2,
+      "title": "February 2019",
+      "path": "en/issues/2019-02.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-şubat-2019-20a4558cf898"
+    },
+    {
+      "year": 2019,
+      "month": 3,
+      "title": "March 2019",
+      "path": "en/issues/2019-03.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-mart-2019-27f1060df7bc"
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "title": "April 2019",
+      "path": "en/issues/2019-04.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-nisan-2019-ad2ff81a02a7"
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "title": "May 2019",
+      "path": "en/issues/2019-05.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-mayıs-2019-b0fe22fb7228"
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "title": "June 2019",
+      "path": "en/issues/2019-06.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-haziran-2019-cdcb17025b40"
+    },
+    {
+      "year": 2019,
+      "month": 7,
+      "title": "July 2019",
+      "path": "en/issues/2019-07.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-temmuz-2019-153421028174"
+    },
+    {
+      "year": 2019,
+      "month": 8,
+      "title": "August 2019",
+      "path": "en/issues/2019-08.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-ağustos-2019-f19b996e323f"
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "title": "September 2019",
+      "path": "en/issues/2019-09.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-eylül-2019-6c85e8d07d41"
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "title": "October 2019",
+      "path": "en/issues/2019-10.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-ekim-2019-9d95ca9dc851"
+    },
+    {
+      "year": 2019,
+      "month": 11,
+      "title": "November 2019",
+      "path": "en/issues/2019-11.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-kasım-2019-1068f7aba186"
+    },
+    {
+      "year": 2019,
+      "month": 12,
+      "title": "December 2019",
+      "path": "en/issues/2019-12.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-aralık-2019-b655b51e2939"
+    },
+    {
+      "year": 2020,
+      "month": 1,
+      "title": "January 2020",
+      "path": "en/issues/2020-01.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-ocak-2020-5cd73e88420c"
+    },
+    {
+      "year": 2020,
+      "month": 2,
+      "title": "February 2020",
+      "path": "en/issues/2020-02.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-şubat-2020-4942a3299f3e"
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "title": "March 2020",
+      "path": "en/issues/2020-03.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-mart-2020-d4b96a791d32"
+    },
+    {
+      "year": 2020,
+      "month": 4,
+      "title": "April 2020",
+      "path": "en/issues/2020-04.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-nisan-2020-c3da4f9a1e28"
+    },
+    {
+      "year": 2020,
+      "month": 5,
+      "title": "May 2020",
+      "path": "en/issues/2020-05.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-mayıs-2020-15f2875c5a19"
+    },
+    {
+      "year": 2020,
+      "month": 6,
+      "title": "June 2020",
+      "path": "en/issues/2020-06.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-haziran-2020-ba2a3e54fb51"
+    },
+    {
+      "year": 2020,
+      "month": 7,
+      "title": "July 2020",
+      "path": "en/issues/2020-07.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-temmuz-2020-f398d60949d7"
+    },
+    {
+      "year": 2020,
+      "month": 8,
+      "title": "August 2020",
+      "path": "en/issues/2020-08.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-ağustos-2020-6cd4fcbd9a3b"
+    },
+    {
+      "year": 2020,
+      "month": 9,
+      "title": "September 2020",
+      "path": "en/issues/2020-09.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-eylül-2020-7cb342277bd3"
+    },
+    {
+      "year": 2020,
+      "month": 10,
+      "title": "October 2020",
+      "path": "en/issues/2020-10.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-ekim-2020-a04d29bed91b"
+    },
+    {
+      "year": 2020,
+      "month": 11,
+      "title": "November 2020",
+      "path": "en/issues/2020-11.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-kasım-2020-e0d7c2fc6b9f"
+    },
+    {
+      "year": 2020,
+      "month": 12,
+      "title": "December 2020",
+      "path": "en/issues/2020-12.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-aralık-2020-d881afb1a230"
+    },
+    {
+      "year": 2021,
+      "month": 1,
+      "title": "January 2021",
+      "path": "en/issues/2021-01.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-ocak-2021-3429aabca4ed"
+    },
+    {
+      "year": 2021,
+      "month": 2,
+      "title": "February 2021",
+      "path": "en/issues/2021-02.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-şubat-2021-6b4d000da517"
+    },
+    {
+      "year": 2021,
+      "month": 3,
+      "title": "March 2021",
+      "path": "en/issues/2021-03.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-mart-2021-2b733a4da85d"
+    },
+    {
+      "year": 2021,
+      "month": 4,
+      "title": "April 2021",
+      "path": "en/issues/2021-04.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-nisan-2021-fd6cdff4e9c4"
+    },
+    {
+      "year": 2021,
+      "month": 5,
+      "title": "May 2021",
+      "path": "en/issues/2021-05.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-mayıs-2021-d8cf2966d3ea"
+    },
+    {
+      "year": 2021,
+      "month": 6,
+      "title": "June 2021",
+      "path": "en/issues/2021-06.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-haziran-2021-623c191197a7"
+    },
+    {
+      "year": 2021,
+      "month": 7,
+      "title": "July 2021",
+      "path": "en/issues/2021-07.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-temmuz-2021-83e6b71d3f15"
+    },
+    {
+      "year": 2021,
+      "month": 8,
+      "title": "August 2021",
+      "path": "en/issues/2021-08.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-ağustos-2021-b87f55e89171"
+    },
+    {
+      "year": 2021,
+      "month": 9,
+      "title": "September 2021",
+      "path": "en/issues/2021-09.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-eylül-2021-9ac0312435e3"
+    },
+    {
+      "year": 2021,
+      "month": 10,
+      "title": "October 2021",
+      "path": "en/issues/2021-10.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-ekim-2021-cfac56c9bf63"
+    },
+    {
+      "year": 2021,
+      "month": 11,
+      "title": "November 2021",
+      "path": "en/issues/2021-11.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-kasım-2021-315e190a2dca"
+    },
+    {
+      "year": 2021,
+      "month": 12,
+      "title": "December 2021",
+      "path": "en/issues/2021-12.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-aralık-2021-28519238bd95"
+    },
+    {
+      "year": 2022,
+      "month": 1,
+      "title": "January 2022",
+      "path": "en/issues/2022-01.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-ocak-2022-c3389a6d20f7"
+    },
+    {
+      "year": 2022,
+      "month": 2,
+      "title": "February 2022",
+      "path": "en/issues/2022-02.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-şubat-2022-9d9bcbc58c9c"
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "title": "March 2022",
+      "path": "en/issues/2022-03.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-mart-2022-8b40ca83e307"
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "title": "April 2022",
+      "path": "en/issues/2022-04.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-nisan-2022-23a68f22d53"
+    },
+    {
+      "year": 2022,
+      "month": 5,
+      "title": "May 2022",
+      "path": "en/issues/2022-05.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-mayıs-2022-c258249bd466"
+    },
+    {
+      "year": 2022,
+      "month": 6,
+      "title": "June 2022",
+      "path": "en/issues/2022-06.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-haziran-2022-55f6efe264b"
+    },
+    {
+      "year": 2022,
+      "month": 7,
+      "title": "July 2022",
+      "path": "en/issues/2022-07.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-temmuz-2022-5bef2d0161ed"
+    },
+    {
+      "year": 2022,
+      "month": 8,
+      "title": "August 2022",
+      "path": "en/issues/2022-08.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-ağustos-2022-16cd48b4cf42"
+    },
+    {
+      "year": 2022,
+      "month": 9,
+      "title": "September 2022",
+      "path": "en/issues/2022-09.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-eylül-2022-971dc3981ffd"
+    },
+    {
+      "year": 2022,
+      "month": 10,
+      "title": "October 2022",
+      "path": "en/issues/2022-10.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-ekim-2022-a5a2414d62b8"
+    },
+    {
+      "year": 2022,
+      "month": 11,
+      "title": "November 2022",
+      "path": "en/issues/2022-11.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-kasım-2022-4f991e4c973b"
+    },
+    {
+      "year": 2022,
+      "month": 12,
+      "title": "December 2022",
+      "path": "en/issues/2022-12.md",
+      "url": "https://medium.com/tipografi/tipografi-haberleri-aralık-2022-812bc46e6f13"
+    },
+    {
+      "year": 2023,
+      "month": 1,
+      "title": "January 2023",
+      "path": "en/issues/2023-01.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-ocak-2023-9dfac3c77718"
+    },
+    {
+      "year": 2023,
+      "month": 2,
+      "title": "February 2023",
+      "path": "en/issues/2023-02.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-şubat-2023-61bc8fd552ce"
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "title": "March 2023",
+      "path": "en/issues/2023-03.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-mart-2023-3a93154ac01b"
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "title": "April 2023",
+      "path": "en/issues/2023-04.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-nisan-2023-a14f05be724a"
+    },
+    {
+      "year": 2023,
+      "month": 5,
+      "title": "May 2023",
+      "path": "en/issues/2023-05.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-mayıs-2023-805c3ba8bd36"
+    },
+    {
+      "year": 2023,
+      "month": 6,
+      "title": "June 2023",
+      "path": "en/issues/2023-06.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-haziran-2023-66206d1949ee"
+    },
+    {
+      "year": 2023,
+      "month": 7,
+      "title": "July 2023",
+      "path": "en/issues/2023-07.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-temmuz-2023-677cf7be9318"
+    },
+    {
+      "year": 2023,
+      "month": 8,
+      "title": "August 2023",
+      "path": "en/issues/2023-08.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-ağustos-2023-5ee8b04702ec"
+    },
+    {
+      "year": 2023,
+      "month": 9,
+      "title": "September 2023",
+      "path": "en/issues/2023-09.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-eylül-2023-92014965a49a"
+    },
+    {
+      "year": 2023,
+      "month": 10,
+      "title": "October 2023",
+      "path": "en/issues/2023-10.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-ekim-2023-8dfb252f2a1b"
+    },
+    {
+      "year": 2023,
+      "month": 11,
+      "title": "November 2023",
+      "path": "en/issues/2023-11.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-kasım-2023-2ba98f905d1f"
+    },
+    {
+      "year": 2023,
+      "month": 12,
+      "title": "December 2023",
+      "path": "en/issues/2023-12.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-aralık-2023-dc3a5cc03c6a"
+    },
+    {
+      "year": 2024,
+      "month": 1,
+      "title": "January 2024",
+      "path": "en/issues/2024-01.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-ocak-2024-92f521042bae"
+    },
+    {
+      "year": 2024,
+      "month": 2,
+      "title": "February 2024",
+      "path": "en/issues/2024-02.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-şubat-2024-c2e94d6a58ae"
+    },
+    {
+      "year": 2024,
+      "month": 3,
+      "title": "March 2024",
+      "path": "en/issues/2024-03.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-mart-2024-7dbe9c27c694"
+    },
+    {
+      "year": 2024,
+      "month": 4,
+      "title": "April 2024",
+      "path": "en/issues/2024-04.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-nisan-2024-df8f79c906db"
+    },
+    {
+      "year": 2024,
+      "month": 5,
+      "title": "May 2024",
+      "path": "en/issues/2024-05.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-mayıs-2024-b4a80020ec7f"
+    },
+    {
+      "year": 2024,
+      "month": 6,
+      "title": "June 2024",
+      "path": "en/issues/2024-06.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-haziran-2024-2db3b5b4b237"
+    },
+    {
+      "year": 2024,
+      "month": 7,
+      "title": "July 2024",
+      "path": "en/issues/2024-07.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-temmuz-2024-1e68e9d4a48c"
+    },
+    {
+      "year": 2024,
+      "month": 8,
+      "title": "August 2024",
+      "path": "en/issues/2024-08.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-ağustos-2024-d8271c2ec119"
+    },
+    {
+      "year": 2024,
+      "month": 9,
+      "title": "September 2024",
+      "path": "en/issues/2024-09.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-eylül-2024-03f75b4d6162"
+    },
+    {
+      "year": 2024,
+      "month": 10,
+      "title": "October 2024",
+      "path": "en/issues/2024-10.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-ekim-2024-6f8a5ee599fc"
+    },
+    {
+      "year": 2024,
+      "month": 11,
+      "title": "November 2024",
+      "path": "en/issues/2024-11.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-kasım-2024-7ac6873bb581"
+    },
+    {
+      "year": 2024,
+      "month": 12,
+      "title": "December 2024",
+      "path": "en/issues/2024-12.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-aralık-2024-b5fc8e46b4ce"
+    },
+    {
+      "year": 2025,
+      "month": 1,
+      "title": "January 2025",
+      "path": "en/issues/2025-01.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-ocak-2025-4f4f7ad5aca1"
+    },
+    {
+      "year": 2025,
+      "month": 2,
+      "title": "February 2025",
+      "path": "en/issues/2025-02.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-şubat-2025-d8c2206c0274"
+    },
+    {
+      "year": 2025,
+      "month": 3,
+      "title": "March 2025",
+      "path": "en/issues/2025-03.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-mart-2025-09e6ff1f9a12"
+    },
+    {
+      "year": 2025,
+      "month": 4,
+      "title": "April 2025",
+      "path": "en/issues/2025-04.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-nisan-2025-9ca46327e554"
+    },
+    {
+      "year": 2025,
+      "month": 5,
+      "title": "May 2025",
+      "path": "en/issues/2025-05.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-mayıs-2025-81cc9ee02d83"
+    },
+    {
+      "year": 2025,
+      "month": 6,
+      "title": "June 2025",
+      "path": "en/issues/2025-06.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-haziran-2025-057366758db6"
+    },
+    {
+      "year": 2025,
+      "month": 7,
+      "title": "July 2025",
+      "path": "en/issues/2025-07.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-temmuz-2025-f69f62427adc"
+    },
+    {
+      "year": 2025,
+      "month": 8,
+      "title": "August 2025",
+      "path": "en/issues/2025-08.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-ağustos-2025-410f52e44a70"
+    },
+    {
+      "year": 2025,
+      "month": 9,
+      "title": "September 2025",
+      "path": "en/issues/2025-09.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-eylül-2025-fa7a0941bd68"
+    },
+    {
+      "year": 2025,
+      "month": 10,
+      "title": "October 2025",
+      "path": "en/issues/2025-10.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-ekim-2025-803661d110ac"
+    },
+    {
+      "year": 2025,
+      "month": 11,
+      "title": "November 2025",
+      "path": "en/issues/2025-11.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-kasım-2025-6a52698d71d0"
+    },
+    {
+      "year": 2025,
+      "month": 12,
+      "title": "December 2025",
+      "path": "en/issues/2025-12.md",
+      "url": "https://medium.com/tipografi/tipografi-bülteni-aralık-2025-119b6d532a2b"
+    },
+    {
+      "year": 2026,
+      "month": 1,
+      "title": "January 2026",
+      "path": "en/issues/2026-01.md",
+      "url": "https://tipografi.substack.com/p/tipografi-bulteni-ocak-2026"
+    },
+    {
+      "year": 2026,
+      "month": 2,
+      "title": "February 2026",
+      "path": "en/issues/2026-02.md",
+      "url": "https://tipografi.substack.com/p/tipografi-bulteni-subat-2026"
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "title": "March 2026",
+      "path": "en/issues/2026-03.md",
+      "url": "https://tipografi.substack.com/p/tipografi-bulteni-mart-2026"
+    },
+    {
+      "year": 2026,
+      "month": 4,
+      "title": "April 2026",
+      "path": "en/issues/2026-04.md",
+      "url": "https://tipografi.substack.com/p/tipografi-bulteni-nisan-2026"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "title": "May 2026",
+      "path": "en/issues/2026-05.md",
+      "url": "https://tipografi.substack.com/p/tipografi-bulteni-mays-2026"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "title": "June 2026",
+      "path": "en/issues/2026-06.md",
+      "url": "https://tipografi.substack.com/p/tipografi-bulteni-haziran-2026"
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "title": "July 2026",
+      "path": "en/issues/2026-07.md",
+      "url": "https://tipografi.substack.com/p/tipografi-bulteni-temmuz-2026"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "title": "August 2026",
+      "path": "en/issues/2026-08.md",
+      "url": "https://tipografi.substack.com/p/tipografi-bulteni-agustos-2026"
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "title": "September 2026",
+      "path": "en/issues/2026-09.md",
+      "url": "https://tipografi.substack.com/p/tipografi-bulteni-eylul-2026"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "title": "October 2026",
+      "path": "en/issues/2026-10.md",
+      "url": "https://tipografi.substack.com/p/tipografi-bulteni-ekim-2026"
+    }
+  ]
+}

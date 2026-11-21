@@ -1,0 +1,155 @@
+# Typography Bulletin: March 2025
+
+### This month's bulletin features important developments in typography around the world and in Turkey.
+
+⏰ **Reading Time:** ~4 minutes
+
+Hello everyone!
+
+Highlights from the March 2025 bulletin of the Turkish Typography Community, including news, new typefaces, and developments from the world of typography:
+
+---
+
+## New book from Orlin Sabev
+
+*Image: © [degruyter.com](https://www.degruyter.com/document/isbn/9783111386621/html)*
+
+Orlin Sabev’s book “[The Müteferrika Press: Arabic Typography in an Ottoman Context](https://www.degruyter.com/document/isbn/9783111386621/html),” which sheds light on the groundbreaking story of the first Turkish printing press in the Ottoman Empire, will be published this coming May. The book offers an overview of the printing activities and output of the press, which operated actively in Istanbul from 1726 until the death of its founder, İbrahim Müteferrika, in 1747.
+
+---
+
+## Type designs behind typewriters: “Impact Type”
+
+*Image: © [triest-verlag.ch](https://www.triest-verlag.ch/en/produkte/buch-26/typografie-141/impact-type-3039)*
+
+The book “[Impact Type](https://www.triest-verlag.ch/en/produkte/buch-26/typografie-141/impact-type-3039),” which explores the history behind the typefaces produced by three companies that designed type for typewriters in Switzerland between 1941 and 1997, has been published by Triest Verlag under the editorship of Sophie Wietlisbach.
+
+---
+
+## New book from Type Together
+
+*Image: © [Type Together](https://www.type-together.com/index.php?action=carro/showProduct&itmId=10020&rbrId=139)*
+
+Type Together has published its new book, “[Letters for The Future: Ten Years of The Gerard Unger Scholarship](https://www.type-together.com/index.php?action=carro/showProduct&itmId=10020&rbrId=139),” showcasing ten type designs that emerged over the ten years of the Gerard Unger Scholarship. The book presents a comprehensive history of the scholarship, introduces the typefaces produced to date, and features interviews with scholarship recipients.
+
+---
+
+## Another new book announcement from Typotheque…
+
+*Image: © [Typotheque](https://www.typotheque.com/blog/new-thai-type)*
+
+Designing typefaces for various world languages for over twenty-five years and having launched a meticulous study on Thai typography eight years ago, the type foundry has published its new book, “[New Thai Type: Bridging Tradition and Modernity](https://www.typotheque.com/books/new-thai-type),” which offers a detailed exploration of how Thai typography affects legibility, perception, and cultural identity. The book contains an in-depth essay providing valuable insights into the history and evolution of Thai typography and the interplay between traditional and modern styles, alongside the collection of typefaces designed by the type foundry. You can read the detailed article on the background of the research [here](https://www.typotheque.com/blog/new-thai-type).
+
+---
+
+## Video recordings of the “Automatic Type Design 3” conference
+
+*Image: © [ANRT](https://automatic-type-design.anrt-nancy.fr/colloques/automatic-type-design-3)*
+
+Video recordings of the “[Automatic Type Design 3](https://automatic-type-design.anrt-nancy.fr/colloques/automatic-type-design-3)” conference, organized by *The Atelier National de Recherche Typographique* (ANRT) between February 17–21, 2025, have been published. Focusing on digital type technologies from design to production, the international symposium aims to examine the concepts and challenges of digital type design and typography from both historical and forward-looking perspectives. Founded in 1985 to contribute to the development of typographic creation, ANRT is the postgraduate research program of the *École Nationale Supérieure D’art et de Design* (ENSAD) in Nancy, France.
+
+---
+
+## Typefaces of games: Game Font Library
+
+*Image: © [Game Font Library](https://www.gamefontlibrary.com/)*
+
+Created by Charlotte Couderc, [Game Font Library](https://www.gamefontlibrary.com/) is a platform established to showcase and share typefaces used in video game interfaces.
+
+---
+
+## New York’s hardest-working typeface: Gorton
+
+*Image: © [Marcin Wichary](https://aresluna.org/the-hardest-working-font-in-manhattan/)*
+
+Written by Marcin Wichary, [a detailed review](https://aresluna.org/the-hardest-working-font-in-manhattan/) of Gorton, which was designed in the mid-20th century and became an icon of urban identity through its frequent use in New York’s subway stations, street signs, and official buildings.
+
+---
+
+## New type foundry: Prologue Type
+
+*Image: © [Prologue Type](https://www.prologuetype.co/)*
+
+Type Designer Ellis Carson Jones announced the launch of a new San Francisco-based type foundry called** [https://www.prologuetype.co/](https://www.prologuetype.co/)**Prologue Type.
+
+---
+
+## Letterpress archive: “Fleckled”
+
+*Image: © [Designweek](https://www.designweek.co.uk/online-letterpress-font-shop-launches)*
+
+Founded by Jason Pattinson, [Fleckled](https://fleckled.com/), an archive that allows you to download letterpress fonts as high-resolution files, has launched. Alongside more than one hundred and fifty fonts, the archive also features other traditional elements such as borders and ornaments. Ranging from Art Nouveau to industrial styles, each character set [consists of](https://www.designweek.co.uk/online-letterpress-font-shop-launches) a full alphabet in either uppercase or lowercase, or a complete set of numerals.
+
+---
+
+## Documentary series “Modern Zaman İşleri”
+
+*Image: © [TRT Belgesel](https://www.trtbelgesel.com.tr/bilim-teknoloji/modern-zaman-isleri/modern-zaman-isleri-25051644)*
+
+In the first episode of the documentary series [Modern Zaman İşleri](https://www.trtbelgesel.com.tr/bilim-teknoloji/modern-zaman-isleri/modern-zaman-isleri-25051644) produced by TRT Belgesel, aired on March 9, 2025, the power of typography in visual communication and its role in the design world were conveyed to the audience. The historical development of typography, creative processes, and new applications shaped by modern technologies were examined in detail, accompanied by expert insights and inspiring projects.
+
+---
+
+## Type family for North American languages from Microsoft
+
+*Image: © [Tiro Typeworks](https://www.tiro.com/articles/skeena-indigenous)*
+
+Microsoft, in collaboration with Tiro Typeworks, has released the type family [Skeena Indigenous](https://www.tiro.com/articles/skeena-indigenous) for Indigenous North American languages. Skeena Indigenous is an Open Font License type family designed to support all North American writing systems derived from the Latin alphabet.
+
+---
+
+## The history of the pointing hand
+
+*Image: © [messynessychic.com](https://www.messynessychic.com/2025/03/07/the-secret-history-of-the-manicule-little-hand-thats-everywhere/)*
+
+A worthwhile [article](https://www.messynessychic.com/2025/03/07/the-secret-history-of-the-manicule-little-hand-thats-everywhere/) on the history of the pointing hand (manicule).
+
+---
+
+## What does “weight” mean in type design?
+
+*Image: © [John D. Berry](https://delvefonts.com/blog/to-boldly-go/)*
+
+John D. Berry’s [article](https://delvefonts.com/blog/to-boldly-go/) on weight, written for Delve Fonts’ website. In the article, he looks at what letterforms of different weights actually are and touches upon how type designers arbitrarily define different weights.
+
+---
+
+## The cultural impact of typography
+
+*Image: © [Fast Company](https://www.fastcompany.com/91296525/wake-up-call-the-cultural-impact-of-typography)*
+
+> “Good design is intentional. It’s about making conscious choices that don’t just follow popular styles, but contribute to meaningful change.”
+
+In his [article](https://www.fastcompany.com/91296525/wake-up-call-the-cultural-impact-of-typography), Charles Nix emphasizes the cultural impact of typography, examining the profound influence of typefaces on communication, brand identity, and social perception. He highlights that typography has functional and psychological dimensions, not just aesthetic ones.
+
+---
+
+## Preserving Type Heritage: An Introduction to Greek Typography
+
+*Image: © [Typeroom](https://www.typeroom.eu/preserving-heritage-through-design-an-interview-with-george-a.-matthiopoulos-on-greek-typography?mc_cid=4038eb30c8&mc_eid=48a95a3cf1)*
+
+In its [interview](https://www.typeroom.eu/preserving-heritage-through-design-an-interview-with-george-a.-matthiopoulos-on-greek-typography?mc_cid=4038eb30c8&mc_eid=48a95a3cf1) with Greek Type Designer and Founding Member of the Greek Font Society [George D. Matthiopoulos](https://www.linkedin.com/in/georgios-d-matthiopoulos-262285b7/), Typeroom conveys the designer’s work and insights, focusing on Greek typography and the preservation of cultural heritage. Matthiopoulos explains how he blends the historical depth of the Greek alphabet with modern design, adapting ancient letterforms to contemporary typographic needs.
+
+---
+
+## New report from Monotype: “Re:Vision”
+
+*Image: © [Monotype](https://www.monotype.com/resources/ebook/unlock-report-revision-2025)*
+
+Monotype has released its new six-part report titled “[Re:Vision](https://www.monotype.com/resources/ebook/unlock-report-revision-2025),” prepared to explore the trends where type design might leave a mark in the future. In the report, “Sound & Sight” addresses the synthesis of multimedia and typography, “Human Types” the balance between artificial intelligence and human creativity, “Freedom, Law & Order” the role of typography in political and social contracts, “Life Cycle” cross-generational reading needs, “Conflict & Peace” the impact of design on social cohesion, and “Hot & Wet” the communicative power of typography in combating the climate crisis. The report emphasizes that typography is not merely an aesthetic tool, but also a reflection of global shifts and human experience.
+
+---
+
+## Finally
+
+There are many typography-specific events coming up in the near future. The [ATypI conference](https://atypi.org/conferences-events/atypi-copenhagen-2025/) in Copenhagen between April 22–26, [TypeParis Now25](https://typeparis.com/now25) on May 31, and the eleventh edition of [Typographics](https://2025.typographics.com/) held at The Cooper Union in New York between June 23–July 3 can be added to the list.
+
+**See you in the next bulletin!**
+
+> *You can send any feedback and suggestions via [email](mailto:tipografitoplulugu@gmail.com) and follow our social media accounts. If you haven’t subscribed to the bulletin yet, you can do so [here](/tipografi/newsletters/tipografi-bülteni), and browse [past bulletins](https://medium.com/tipografi/tagged/ttt-haberler).*
+
+---
+
+> *☞ [Facebook](https://www.facebook.com/tipografi/) ☞ [Twitter](https://twitter.com/tipografi) ☞ [Instagram](https://www.instagram.com/tipografitoplulugu/) ☞ [YouTube](https://www.youtube.com/@tipografi)*
+
+See you in the next bulletin!

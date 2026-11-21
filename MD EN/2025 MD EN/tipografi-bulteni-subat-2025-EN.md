@@ -1,0 +1,161 @@
+# Typography Bulletin: February 2025
+
+### In this month’s bulletin, there are significant developments in typography from around the world and Turkey.
+
+⏰ **Reading Time:** ~4 minutes
+
+Hello everyone!
+
+Highlights, new typefaces, and developments from the typography world in the Turkish Typography Community’s February 2025 bulletin:
+
+---
+
+## Calligrapher Etem Çalışkan passed away.
+
+*Image: Etem Çalışkan (1928–2025) © [AA](https://www.aa.com.tr/tr/kultur/kaligrafi-sanatcisi-etem-caliskan-vefat-etti/3468625)*
+
+Calligrapher Etem Çalışkan passed away on February 1, 2025. Born in 1928 in the Tarsus district of Mersin, Çalışkan graduated from the Istanbul State Academy of Fine Arts and assisted Emin Barın in the lettering of the Anıtkabir inscriptions. Having prepared the Nutuk calligraphically in two volumes, Çalışkan was awarded the Burhan Felek Press Service Award by the Journalists' Association of Turkey in 2005, and the Presidential Culture and Arts Grand Award in 2021.
+
+---
+
+## Calligrapher Hasan Çelebi passed away.
+
+*Image: Hasan Çelebi (1937–2025) © [AA](https://www.aa.com.tr/tr/gundem/hattat-hasan-celebi-vefat-etti/3491840)*
+
+Regarded as the *Chief of Calligraphers*, whose signature is found in many mosques around the world, [Hasan Çelebi](https://tr.wikipedia.org/wiki/Hasan_%C3%87elebi_(hattat)) [passed away](https://www.aa.com.tr/tr/gundem/hattat-hasan-celebi-vefat-etti/3491840) in Istanbul at the age of 88. With his calligraphy gracing the domes, mihrabs, main portals, and walls of numerous mosques, as well as national and international collections, and renowned for the dome calligraphy of the Blue Mosque and Hırka-i Şerif Mosque, Çelebi was included in the National Living Human Treasures Inventory of Turkey prepared under the UNESCO Convention for the Safeguarding of the Intangible Cultural Heritage.
+
+---
+
+## Fifteen captivating stories from Collletttivo
+
+*Image: © [Collletttivo](https://www.collletttivo.it/journal/type-tales-a-fairytype-catalogue)*
+
+Founded in Milan in 2017 and publishing open-source font licensed typefaces, [Colllettivo](https://www.collletttivo.it/) Type Foundry has released “[Type Tales](https://www.collletttivo.it/journal/type-tales-a-fairytype-catalogue)”, a collection of fifteen original illustrated stories for children and adults showcasing the stories of typefaces in its library. Each story allows the reader to experience a typeface through its different characteristics and likewise discover the essence of a typeface through illustrations.
+
+---
+
+## Type specimens from TypeTogether
+
+*Image: © [TypeTogether](https://www.type-together.com/index.php?action=carro/showProduct&itmId=10019)*
+
+TypeTogether is [offering](https://www.type-together.com/index.php?action=carro/showProduct&itmId=10019) a bundle of four printed type specimens for free—in exchange for paying only shipping costs. Curated every five years into a printed catalog to showcase all the typefaces they publish and their capabilities, this special bundle from the type foundry includes typefaces from its library presented with elegant and impressive details.
+
+---
+
+## “Slanted Experimental Type” published.
+
+*Image: © [Slanted](https://www.slanted.de/product/slanted-experimental-type-3-0/)*
+
+The third book in the [Slanted Experimental Type](https://www.slanted.de/product/slanted-experimental-type-3-0/) series has been published. Prepared under the direction of Dr. Lars Harmsen and Andreas Ruhe in collaboration with students from the University of Dortmund, the book explores accidents, precision, and unconventional methods that challenge norms and redefine the design process—from AI-generated typefaces to variable fonts.
+
+---
+
+## “The Printing Revolution in Early Modern Europe”
+
+*Image: © [Türkiye İş Bankası Kültür Yayınları](https://www.iskultur.com.tr/erken-modern-avrupada-matbaa-devrimi.aspx)*
+
+Elizabeth L. Eisenstein’s book “[The Printing Revolution in Early Modern Europe](https://www.iskultur.com.tr/erken-modern-avrupada-matbaa-devrimi.aspx)”, which examines the fifteenth-century printing revolution in the West in all its aspects, has been published by Türkiye İş Bankası Kültür Yayınları in a translation by Hamit Çalışkan. An abridged version of the work originally published in two volumes in 1979 under the title “The Printing Press as an Agent of Change”, this book summarizes the fundamental and technical changes brought by the establishment of print shops, and then focuses on how printing transformed traditional institutions and influenced three cultural movements of fundamental importance to the West: the Renaissance, the Reformation, and the rise of modern science.
+
+---
+
+## New book: “Read Frame Type Film”
+
+*Image: © [Read Frame Type Film](https://mubieditions.com/products/read-frame-type-film)*
+
+[MUBI Editions](https://mubieditions.com/) will publish its first book exploring the relationship between cinema and typography, titled “[Read Frame Type Film](https://mubieditions.com/products/read-frame-type-film)”, in April 2025. Developed from a research project titled “TypoFilm” initiated at the Centre Pompidou in Paris in 2020, the book features Curator *Enrico Camporesi*, Art Historian *Catherine de Smet*, and Designer *Philippe Millot* examining typography's significant role in the structure of a film across twenty-four works.
+
+---
+
+## Müteferrika Exhibition opened to visitors.
+
+*Image: © [Manuscript Institution of Turkey](https://x.com/yekgovtr/status/1888160677367513326)*
+
+Organized by the Manuscript Institution of Turkey and featuring the manuscripts that served as the basis for printing alongside the works of Ibrahim Müteferrika, the [Müteferrika Exhibition](https://x.com/yekgovtr/status/1888160677367513326) welcomed visitors between February 8–19, 2025, at the Süleymaniye Manuscript Library Exhibition Hall in Istanbul.
+
+---
+
+## Calligraphy and typography conference
+
+*Image: © [WeDesignToo!](https://www.instagram.com/p/DF4nZxJITll/)*
+
+On February 22, 2025, WeDesignToo! Design Research Society organized a [calligraphy and typography conference](https://www.instagram.com/p/DF4nZxJITll/) as part of the Ankara Design Events. Hosted by Kült Kavaklıdere, the conference was attended by Prof. Tevfik Fikret Uçar, Asst. Prof. Mehtap Uygungöz, Assoc. Prof. Dr. Fatih Kurtçu, Design Research Society President Prof. Çiğdem Demir, and Design Research Society Vice President Prof. Dr. Pelin Öztürk Göçmen.
+
+---
+
+## The design process of Deréon
+
+*Image: © [Typofonderie](https://typofonderie.com/gazette/dereon-design-for-beyonce-origin-influences)*
+
+An article by Typofonderie recounting the design process of the typeface [Deréon](https://typofonderie.com/gazette/dereon-design-for-beyonce-origin-influences), launched in 2005 by Beyoncé Knowles and custom-designed for the visual identity of the House of Deréon brand.
+
+---
+
+## The design process of Rosalie
+
+*Image: © [Sharp Type](https://www.sharptype.co/news/rosalie-process)*
+
+Prepared by Sharp Type, [the design process of Rosalie](https://www.sharptype.co/news/rosalie-process), My-Lan Thuong’s contemporary serif born from a medieval mural in Guérande, France.
+
+---
+
+## The design process of Arsenica
+
+*Image: © [Zetafonts](https://zetafonts.com/blog/a-shot-of-edgy-style-for-kick-ass-design/)*
+
+An [article](https://www.zetafonts.com/arsenica) on the design process of [Arsenica](https://www.zetafonts.com/arsenica), designed by Francesco Canovaro and inspired by Italian poster designs where typography, lettering, and illustration intertwine.
+
+---
+
+## Atkinson Hyperlegible Next expands its accessibility!
+
+*Image: © [Print](https://www.printmag.com/type-tuesday/atkinson-hyperlegible-next-applied-design/)*
+
+Applied Design has released [Atkinson Hyperlegible Next](https://www.printmag.com/type-tuesday/atkinson-hyperlegible-next-applied-design/), an expanded version of the typeface designed for visually impaired individuals, whose initial version was featured in our previous bulletins. The first version of [Atkinson Hyperlegible](https://helloapplied.com/atkinson-hyperlegible/) was released in 2019, used on approximately 12,000 websites via Google Fonts, downloaded more than 150,000 times from the Braille Institute website, and finally became available on Canva.
+
+---
+
+## Typographic anatomy game
+
+*Image: © [I Love Typography](https://ilovetypography.com/2020/06/30/font-anatomy-game/)*
+
+Twenty-five multiple-choice [questions](https://ilovetypography.com/2020/06/30/font-anatomy-game/) prepared by I Love Typography to test your knowledge of typographic anatomy.
+
+---
+
+## Font Business conference, June 14–15!
+
+*Image: © [I Love Typography](https://trust.ilovetypography.com/font-business-conference-2025/)*
+
+There is another piece of news from I Love Typography. Between June 14–15, I Love Typography will organize an online conference titled [Font Business 2025](https://trust.ilovetypography.com/font-business-conference-2025/), focusing on topics such as running a type foundry, licensing, and business models.
+
+---
+
+## New testing tool from Dutch Type Library
+
+*Image: © [DTL FontDropper](https://www.fontvariations.com/)*
+
+[Dutch Type Library](https://www.exquisitefonts.com/) has released the first version of the online font testing tool named [DTL FontDropper](https://www.fontvariations.com/). Alongside a set of OpenType Layout features, it allows you to test files in *otf, ttf, woff*, or *woff2* formats across four axes—if supported by the font you upload.
+
+---
+
+## Plantin Institute’s new instructor announced.
+
+*Image: © [Plantin Institute of Typography](https://www.plantininstitute.be/)*
+
+Following Frank Blokland’s 15-year teaching tenure, the new instructor of the [Plantin Institute of Typography](https://www.plantininstitute.be/) has been announced. British Type Designer [Jeremy Tankard](https://typography.net/) will lead the type design classes (Expert Class Type Design) starting this October, shaping the future of education by bringing new perspectives.
+
+---
+
+## Finally
+
+You can check out our article touching upon typography education in Turkey [here](https://medium.com/tipografi/t%C3%BCrkiyede-tipografi-e%C4%9Fitimi-%C3%BCzerine-26990f5653e0). ⌛ Reading Time: 9 minutes.
+
+**See you in the next bulletin!**
+
+> *You can send all your feedback and suggestions via [email](mailto:tipografitoplulugu@gmail.com) and follow our social media accounts. If you haven’t subscribed to the bulletin yet, you can do so [here](/tipografi/newsletters/tipografi-bülteni), and browse [past bulletins](https://medium.com/tipografi/tagged/ttt-haberler).*
+
+---
+
+> *☞ [Facebook](https://www.facebook.com/tipografi/) ☞ [Twitter](https://twitter.com/tipografi) ☞ [Instagram](https://www.instagram.com/tipografitoplulugu/) ☞ [YouTube](https://www.youtube.com/@tipografi)*
+
+See you in the next bulletin!

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="../">
+  <title>Typography Newsletter Archive</title>
+  <meta name="description" content="Read the full English translation of a Typography Newsletter issue.">
+  <link rel="icon" type="image/png" href="logo.png">
+  <link rel="stylesheet" href="style.css">
+  <script>
+    (() => {
+      const savedTheme = localStorage.getItem("tipografi-archive-theme");
+      const queryTheme = new URLSearchParams(window.location.search).get("theme");
+      const systemTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      const theme = queryTheme === "dark" || queryTheme === "light" ? queryTheme : (savedTheme || systemTheme);
+      document.documentElement.lang = "en";
+      document.documentElement.setAttribute("data-theme", theme);
+    })();
+  </script>
+</head>
+<body>
+  <div class="archive-container">
+    <header class="archive-brand-header">
+      <div class="brand-identity">
+        <img class="brand-logo" src="logo.png" alt="Turkish Typography Society logo" width="48" height="48">
+        <div class="brand-name">Turkish Typography Society</div>
+      </div>
+      <nav class="brand-links" aria-label="Publications">
+        <a href="https://tipografi.substack.com/" target="_blank" rel="noopener noreferrer">Substack</a>
+        <span aria-hidden="true">·</span>
+        <a href="https://medium.com/tipografi" target="_blank" rel="noopener noreferrer">Medium</a>
+      </nav>
+      <nav class="language-toggle" aria-label="Language">
+        <a href="./" lang="tr">TR</a>
+        <a href="en/" class="active" lang="en" aria-current="page">EN</a>
+      </nav>
+      <button id="theme-toggle" class="theme-toggle-btn" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
+        <svg id="theme-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"></svg>
+      </button>
+    </header>
+
+    <hr class="hero-rule">
+
+    <main class="issue-page">
+      <a class="issue-back-link" href="en/">← Back to the archive</a>
+      <p class="language-note" id="issue-translation-note" hidden>English translation. The original Turkish issue is linked below.</p>
+      <div id="issue-status" class="app-status" role="status" aria-live="polite">Loading issue…</div>
+      <article id="issue-content" class="issue-content" hidden></article>
+      <p class="issue-original-link" id="issue-original-wrap" hidden>
+        <a id="issue-original-link" href="#" target="_blank" rel="noopener noreferrer">Read the original issue in Turkish ↗</a>
+      </p>
+    </main>
+
+    <footer class="archive-footer">
+      <div class="footer-content">
+        <div class="footer-name">Turkish Typography Society</div>
+        <div class="footer-actions">
+          <a href="https://tipografi.substack.com/" target="_blank" rel="noopener noreferrer">Subscribe to the newsletter</a>
+        </div>
+      </div>
+    </footer>
+  </div>
+  <script src="en/issue.js"></script>
+</body>
+</html>

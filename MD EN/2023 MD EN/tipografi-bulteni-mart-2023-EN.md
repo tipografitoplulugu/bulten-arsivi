@@ -1,0 +1,137 @@
+# Typography Bulletin: March 2023
+
+### In this month's bulletin, there are significant typography developments in Turkey and around the world.
+
+⏰ **Reading Time:** ~3 minutes
+
+Hello everyone!
+
+Highlights, new typefaces, and developments from the world of typography in the Turkish Typography Community’s March 2023 bulletin:
+
+---
+
+## Mastering the typographic scale
+
+*Image: © [Ankita Gupta](https://trail-of-thoughts.beehiiv.com/p/mastering-type-scale)*
+
+[In the February bulletin](https://medium.com/tipografi/tipografi-b%C3%BClteni-%C5%9Fubat-2023-61bc8fd552ce), we shared Spencer Mortensen’s [article](https://spencermortensen.com/articles/typographic-scale/) on typographic scale. In her [article](https://trail-of-thoughts.beehiiv.com/p/mastering-type-scale) on the same topic, Ankita Gupta discusses how to use typographic scale to organize and prioritize typefaces. 🇬🇧
+
+---
+
+## New typeface from 29Letters: Ada
+
+*Image: © [29Letters](https://blog.29lt.com/2023/02/28/29lt-ada-ruqah-fonts/)*
+
+An [article](https://blog.29lt.com/2023/02/28/29lt-ada-ruqah-fonts/) about the design process of Ada, a type family designed in Latin and Arabic scripts by Madrid-based type foundry [29Letters](https://www.29lt.com/), founded by Pascal Zoghbi. 🇬🇧 Reported to be the largest type family designed in the Ruqʿah (Rika) style to date, Ada features three typefaces named [Sharp](https://www.29lt.com/product/29lt-ada-sharp/), [Flat](https://www.29lt.com/product/29lt-ada-flat/), and [Round](https://www.29lt.com/product/29lt-ada-round/), each with six weights.
+
+---
+
+## Custom type design for a bank in Egypt
+
+*Image: © [Its Nice That](https://www.itsnicethat.com/news/ntsal-cairo-boharat-cib-custom-typeface-graphic-design-030323)*
+
+Cairo-based design studio [Ntsal](https://www.ntsal.com/home) [unveiled](https://www.itsnicethat.com/news/ntsal-cairo-boharat-cib-custom-typeface-graphic-design-030323) a custom type design created for CIB (Commercial International Bank Egypt), one of the largest banks in Egypt, prioritizing Arabic—the language of the country where the bank operates. Designed in Naskh style in collaboration with [Boharat Type Foundry](https://boharat.com/), the type design also supports Latin, Urdu, and Persian. 🇬🇧
+
+---
+
+## The 150-year story of Fette Fraktur
+
+*Image: © [typeoff.de](https://www.typeoff.de/2023/03/fette-fraktur-questions/)*
+
+Dan Reynolds [wrote about](https://www.typeoff.de/2023/03/fette-fraktur-questions/) the nearly 150-year story of *Fette Fraktur*, one of the oldest players in the Blackletter category. 🇬🇧
+
+---
+
+## An end to widows
+
+*Image: © [clagnut.com](https://clagnut.com/blog/2424/)*
+
+A relatively new [CSS feature](https://clagnut.com/blog/2424/) shipped in Chrome Canary, and soon to arrive in Blink-based browsers including Edge, promises to effectively put an end to widows. 🇬🇧
+
+---
+
+## Why Did Adobe Discontinue FontChameleon?
+
+*Image: © [FontChameleon](https://vimeo.com/14758983)*
+
+An [article](https://www.thomasphinney.com/2023/02/why-did-adobe-discontinue-font-chameleon-in-the-90s/) by Thomas Phinney regarding Adobe discontinuing [FontChameleon](http://luc.devroye.org/fonts-33674.html), a font editor designed by Ares Software—a company it had acquired—in the 1990s. 🇬🇧
+
+---
+
+## Advice for getting started with type design
+
+*Image: © [jonathanhoefler.com](https://jonathanhoefler.com/articles/getting-started-with-typeface-design)*
+
+An [article](https://jonathanhoefler.com/articles/getting-started-with-typeface-design) by Jonathan Hoefler containing recommendations for those who want to get started with type design. 🇬🇧
+
+---
+
+## Typology of German pharmaceuticals
+
+*Image: © [presentandcorrect.com](https://www.presentandcorrect.com/blogs/blog/typology-of-german-pharmaceuticals)*
+
+From the archive of Troedel Mueller, [packaging](https://www.presentandcorrect.com/blogs/blog/typology-of-german-pharmaceuticals) of vintage German pharmaceuticals notable for their unique typography.
+
+---
+
+## New acquisitions from Monotype
+
+*Image: © [Monotype](https://www.monotype.com/company/press-release/monotype-welcomes-milieu-grotesque-and-paulo-goode-type-catalogues-monotype)*
+
+Monotype [announced](https://www.monotype.com/company/press-release/monotype-welcomes-milieu-grotesque-and-paulo-goode-type-catalogues-monotype) that it has acquired five type families from the current type catalog of Milieu Grotesque and Paulo Goode. 🇬🇧
+
+---
+
+## Collaboration between Monotype and Canva
+
+*Image: © [Monotype](https://www.monotype.com/company/press-release/monotype-and-canva-partnership?mc_cid=28d8b8759d&mc_eid=48a95a3cf1)*
+
+There is another piece of news from Monotype. The company [announced](https://www.monotype.com/company/press-release/monotype-and-canva-partnership?mc_cid=28d8b8759d&mc_eid=48a95a3cf1) a partnership with Canva, which has over 110 million monthly active users, to make more than 1,100 curated typefaces available to Canva’s global design community.
+
+---
+
+## Reviving history through letterforms
+
+*Image: © [I Love Typography](https://ilovetypography.com/2023/03/20/tabrizi-jali-typeface-reviving-history-through-letterforms/)*
+
+Type designer Borna Izadpanah [wrote about](https://ilovetypography.com/2023/03/20/tabrizi-jali-typeface-reviving-history-through-letterforms/) the design process of [Tabrizi Jali](https://fonts.ilovetypography.com/fonts/chap-nevis/tabrizi-jali), his first revival based on early Persian Naskh types used in nineteenth-century Iranian printing houses. 🇬🇧
+
+---
+
+## Artificial Typography: Physical manifestation of a digital process
+
+*Image: © [Type@Cooper](https://www.youtube.com/live/yq28CrCUhic?feature=share)*
+
+An [online talk](https://www.youtube.com/live/yq28CrCUhic?feature=share) hosted by Type@Cooper on March 20, 2023, where Trabucco-Campos and Martín Azambuja discuss their book titled “[Artificial Typography](https://vernacular.is/)”—which we featured in the November 2022 Bulletin—about artificial intelligence research in typography. 🇬🇧
+
+---
+
+## The importance of x-height in typefaces
+
+*Image: © [typefully](https://typefully.com/DanHollick/9p1b5IsMqv8X?mc_cid=4fb4ee2c19&mc_eid=48a95a3cf1)*
+
+An [article](https://typefully.com/DanHollick/9p1b5IsMqv8X?mc_cid=4fb4ee2c19&mc_eid=48a95a3cf1) by Dan Hollick on how x-height affects legibility in typefaces. 🇬🇧
+
+---
+
+## The design process of Really Sans
+
+*Image: © [lettermatic](https://lettermatic.com/custom/really-sans)*
+
+Type designer Riley Cran from [Lettermatic](https://lettermatic.com/fonts) offers [a great read](https://lettermatic.com/custom/really-sans) on the design process of [Really Sans](https://lettermatic.com/fonts/really-sans), a type family suitable for use at both large and small sizes, inspired by the way designers have used sans serifs over the past century. 🇬🇧
+
+---
+
+## 2023 ATypI Typography Conference
+
+*Image: © [ATypI](https://atypi.org/conferences-events/atypi-paris-2023/)*
+
+The [ATypI conference](https://atypi.org/conferences-events/atypi-paris-2023/), featuring more than a hundred speakers from the international type community—including Onur Yazıcıgil from Turkey—will be held in Paris between May 9–14, 2023.
+
+> *You can send any feedback and suggestions via [email](mailto:tipografitoplulugu@gmail.com) and follow our social media accounts. If you haven't subscribed to the bulletin yet, you can do so [here](/tipografi/newsletters/tipografi-bülteni).*
+
+---
+
+> *☞ [Facebook](https://www.facebook.com/tipografi/) ☞ [Twitter](https://twitter.com/tipografi) ☞ [Instagram](https://www.instagram.com/tipografitoplulugu/) ☞ [YouTube](https://www.youtube.com/@tipografi)*
+
+See you in the next bulletin!

@@ -1,0 +1,121 @@
+# Typography Bulletin: October 2023
+
+### In this month's bulletin, there are important developments in typography from around the world and Turkey.
+
+⏰ **Reading Time:** ~3 minutes
+
+Hello everyone!
+
+Highlights, new typefaces, and developments from the world of typography in the Turkish Typography Community’s October 2023 bulletin:
+
+---
+
+## The art of writing in Turkish cultural history
+
+*Image: © [Eskişehir Osmangazi University Faculty of Art and Design](https://www.facebook.com/photo?fbid=813357497457586&set=pcb.813357560790913)*
+
+Organized in collaboration with Eskişehir Osmangazi University Faculty of Art and Design, Faculty of Education, and the Atatürk Principles and History of the Turkish Revolution Application and Research Center specifically for the centennial of our Republic, the panel titled [The Art of Writing in Turkish Cultural History](https://www.facebook.com/photo?fbid=813357497457586&set=pcb.813357560790913) was held on Tuesday, October 10, 2023. Following the panel, the Calligraphy and Hüsn-i Hat Exhibition, featuring works by Etem Çalışkan and Savaş Çevik, was inaugurated.
+
+---
+
+## Typography support for DALL-E 3
+
+*Image: © [DALL-E 3](https://openai.com/dall-e-3)*
+
+OpenAI announced its updated artificial intelligence model, [DALL-E 3](https://openai.com/dall-e-3). New features have been added to the updated model, including the ability to generate legible text rendered directly inside images—a capability not easily achieved with the DALL-E 2 model and one that competing models like Midjourney still struggle to accomplish. 🇬🇧
+
+---
+
+## Ligatures in programming fonts might not be a good idea.
+
+*Image: © [practicaltypography.com](https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html)*
+
+Matthew Butterick [states](https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html) that he does not recommend the implementation of ligatures in programming fonts, as it may misrepresent the function of code or lead to misunderstandings among readers. 🇬🇧
+
+---
+
+## The history of Turkish with Prof. Dr. Mehmet Ölmez
+
+*Image: © [Nereden Başlasam?](https://open.spotify.com/show/6O7PH7tqLiERxXfxY9mIhB)*
+
+On the podcast channel [Nereden Başlasam?](https://open.spotify.com/show/6O7PH7tqLiERxXfxY9mIhB), where Mirgün Cabas and Can Kozanoğlu discuss fundamental concepts and issues of various disciplines through conversations with experts, the [history of Turkish](https://open.spotify.com/episode/64pOv9DLacyfEV3jkwWGB4)* *was discussed with Prof. Dr. Mehmet Ölmez from Istanbul University.
+
+---
+
+## New type family from Onur Yazıcıgil: Kit
+
+*Image: © [Darden Studio](https://www.dardenstudio.com/)*
+
+[Kit Sans and Kit Rounded](https://www.dardenstudio.com/kit#Tester), co-designed by [Onur Yazıcıgil](http://www.onuryazicigil.com/) and Eben Sorkin, have been released. Commissioned by New York-based [Darden Studio](https://www.dardenstudio.com/), the type family—comprising eight styles each, along with variable font and oblique versions—is available via [Adobe Fonts](https://fonts.adobe.com/fonts/kit).
+
+---
+
+## Collletttivo has been revamped.
+
+*Image: © [Collletttivo](https://www.collletttivo.it/)*
+
+The website of [Collletttivo](https://www.collletttivo.it/), a type foundry founded in Milan in 2017, has been revamped. With the new website, each typeface can be explored in detail through its dedicated page, featuring information such as an overview, OpenType features, and character set. The journal section, on the other hand, contains short articles like blog posts.
+
+---
+
+## Can a computer learn to design type?
+
+*Image: © [serce.me](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)*
+
+Sergey Tselovalnikov [tells](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font) the story of his journey building generative machine learning models from scratch and teaching a computer to design type in the process. 🇬🇧
+
+---
+
+## New typeface from Tuğrul Mustafa Günaydın
+
+*Image: © [Tuğrul Mustafa Günaydın](https://www.myfonts.com/products/display-da-mane-723846)*
+
+Tuğrul Mustafa Günaydın’s first typeface, [Da Mane](https://www.myfonts.com/products/display-da-mane-723846), has been published on MyFonts. Da Mane has OpenType features and supports twenty-eight languages.
+
+---
+
+## AI-powered typeface selection from Monotype
+
+*Image: © [Monotype](https://www.monotype.com/company/press-release/type-connection-monotype-showcases-growing-subscription-library-and-ai)*
+
+In the [bulletin we published this past August](https://medium.com/tipografi/tipografi-b%C3%BClteni-a%C4%9Fustos-2023-5ee8b04702ec), we shared Monotype’s [Foundry Program](https://www.monotype.com/company/press-release/monotype-launches-new-foundry-program-designed-empower-and-scale-type), created to empower the type community. At Adobe’s [Adobe Max](https://www.adobe.com/max.html) event held in Los Angeles between October 10–12, 2023, Monotype [presented](https://www.monotype.com/company/press-release/type-connection-monotype-showcases-growing-subscription-library-and-ai) an exclusive preview of its new AI-powered search engine for typeface selection, alongside the Foundry Program. 🇬🇧
+
+---
+
+## A student succeeded in deciphering words on a charred parchment.
+
+*Image: © [sciencesetavenir.fr](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/un-etudiant-de-21-ans-parvient-pour-la-premiere-fois-a-dechiffrer-un-mot-complet-dans-l-un-des-rouleaux-d-herculanum_174482)*
+
+A quotation written in Greek letters from the charred manuscripts of Herculaneum, frozen in time by the eruption of Mount Vesuvius in 79 AD, was [rendered legible](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/un-etudiant-de-21-ans-parvient-pour-la-premiere-fois-a-dechiffrer-un-mot-complet-dans-l-un-des-rouleaux-d-herculanum_174482) by Luke Farritor, a 21-year-old computer science student at the University of Nebraska–Lincoln. 🇫🇷
+
+---
+
+## Hand drawings for Berthold’s phototypesetting library
+
+*Image: © [TypeOff](https://www.typeoff.de/2023/10/hand-drawings-for-bertholds-phototypesetting-library/)*
+
+Dan Reynolds’ [article](https://www.typeoff.de/2023/10/hand-drawings-for-bertholds-phototypesetting-library/) on Berthold’s phototypesetting library, preserved in the archives of the Deutsches Technikmuseum, occupying thirty-two metal cabinets and covering a total of nineteen meters. 🇬🇧
+
+---
+
+## Fontstand 3.0 has been launched.
+
+*Image: © [Fontstand](https://fontstand.com/apps/)*
+
+Allowing you to try and use quality fonts across all platforms, [Fontstand](https://fontstand.com/apps/) has released its new version, offering users a brand-new way to access their favorite typefaces and connecting users directly to the type foundry via subscription. 🇬🇧
+
+---
+
+## HGGC is preparing to sell Monotype.
+
+*Image: © [bnnbloomberg.ca](http://www.bnnbloomberg.ca/)*
+
+[According to a report by Bloomberg](https://www.bnnbloomberg.ca/hggc-explores-4-billion-sale-of-typeface-firm-monotype-1.1977866), HGGC is exploring the sale of Monotype. With this sale, Monotype could be valued at more than \$4 billion. 🇬🇧 Headquartered in Palo Alto, [HGGC](http://hggc.com) had [acquired](https://www.monotype.com/press-releases/hggc-completes-acquisition-of-monotype-imaging-holdings-inc) all outstanding shares of Monotype in 2019 for \$19.85 per share.
+
+> *You can send all your feedback and suggestions via [email](mailto:tipografitoplulugu@gmail.com) and follow our social media accounts. If you haven’t subscribed to the bulletin yet, you can do so [here](/tipografi/newsletters/tipografi-bülteni), and you can browse [past bulletins](https://medium.com/tipografi/tagged/ttt-haberler) here.*
+
+---
+
+> *☞ [Facebook](https://www.facebook.com/tipografi/) ☞ [Twitter](https://twitter.com/tipografi) ☞ [Instagram](https://www.instagram.com/tipografitoplulugu/) ☞ [YouTube](https://www.youtube.com/@tipografi)*
+
+See you in the next bulletin!

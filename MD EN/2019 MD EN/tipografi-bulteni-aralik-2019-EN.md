@@ -1,0 +1,89 @@
+# Typography Newsletter: December 2019
+
+### A monthly newsletter featuring noteworthy news on typography.
+
+⏰ **Reading Time:** ~2 minutes
+
+Hello everyone!
+
+Highlights, new typefaces, and developments from the world of typography in the December 2019 bulletin of the Turkish Typography Community:
+
+---
+
+## The importance of proof files in the type design process
+
+*Image: © [Oh No Type](https://ohnotype.co)*
+
+[Oh No Type Foundry](https://ohnotype.co) owner [James Edmondson](https://twitter.com/jamestedmondson), in his [new article](https://ohnotype.co/blog/proof-it), touches upon the importance of proof files in the type design process. “A font file is like a recipe, but with a proof file, you taste the food.”
+
+---
+
+## Turkish Braille font from Şafak Özen
+
+*Image: © [Şafak Özen](http://bit.ly/2DHW9lD)*
+
+Şafak Özen, who designed a font for the visually impaired that we featured in recent months, wrote in an [article](http://bit.ly/2DHW9lD) published on his Medium account about adapting the font [Braille Neue](http://brailleneue.com), designed by Kosuke Takahashi, into Turkish. We celebrate December 3 International Day of Persons with Disabilities and congratulate Şafak Özen on his work regarding accessibility in typography.
+
+---
+
+## Tips on lettering with Bézier curves from Adé Hogue
+
+*Image: © [Adé Hogue](http://www.adehogue.com)*
+
+Designer [Adé Hogue](http://www.adehogue.com) is offering for sale a twenty-page booklet titled [The Ultimate Guide to the Bézier Method (for lettering)](http://www.adehogue.com/shop/beziermethod), prepared as a result of nearly two years of work, sharing details on lettering using Bézier curves.
+
+---
+
+## A new font for Adidas from Novembre
+
+*Image: © [Novembre](http://www.novembre.it/)*
+
+[Novembre Studio](http://www.novembre.it/) from Italy [designed](http://bit.ly/2s9zCvx) a custom font for Adidas’s VRCT collection. Alongside the font, patches designed by the same studio will be worn by the world's best athletes.
+
+---
+
+## Jason Pamental: “Introduction to Variable Fonts”
+
+*Image: © 24ways.org*
+
+Jason Pamental has written an [introductory article](http://bit.ly/2YBT7Jm) on variable fonts, which were introduced about three years ago and brought major changes to font technology.
+
+---
+
+## Agyei Archer: “The importance of type design”
+
+*Image/Video: [Agyei Archer: “The importance of type design”](https://www.youtube.com/watch?v=4Xzexle3FV4&feature=emb_logo)*
+
+A TED talk where [Agyei Archer](https://agyei.design) from Trinidad and Tobago shares what it means to be a type designer. (Eng.)
+
+---
+
+## “The Art of Handwriting” digital exhibition is live!
+
+*Image/Video: [Video Source](https://www.youtube.com/watch?v=-HTCxC-FpHA)*
+
+Prepared from book documents in the special collections of [Newcastle University Library](http://instagram.com/nclroblib/), [The Art of Handwriting](https://speccollstories.ncl.ac.uk/The-Art-of-Handwriting/index.html) digital exhibition reveals the changing role of handwriting. It aims to let viewers explore the past, present, and future place of handwriting. Emerging as a result of a collaboration between Dr. Aditi Nafde and Dr. Matthew Coneys, the project features library staff alongside calligraphers Cherrell Avery, Sue Hufton, Susie Leiper, Dr. Manny Ling, and Tim Sokell.
+
+---
+
+## Philipp Neumeyer in Istanbul on March 26, 2020!
+
+*Image: © [ISType](https://istype.com)*
+
+[Philipp Neumeyer](http://www.philippneumeyer.com), a type designer at [Playtype](https://playtype.com) and also a professional ballet dancer, will be in Istanbul as part of [ISType Mono](https://www.istype.com). The talk on March 26, 2020, will take place at [SALT Galata](https://saltonline.org) and will be free of charge.
+
+---
+
+## Custom font design for Zooba from &Walsh
+
+*Image: © [&Walsh](https://andwalsh.com/)*
+
+New York-based design agency [&Walsh](https://andwalsh.com/) designed a new identity, including a custom font design, for [Zooba](https://andwalsh.com/work/all/zooba/?fbclid=IwAR0RswCkCM27ZWnWTCX3xGvrl4NlY_KViy7nbgeUhSQkYEtg8chWwXUftVQ), an Egyptian street food restaurant located in Cairo.
+
+---
+
+> The December 2019 bulletin prepared monthly by the [Turkish Typography Community](https://medium.com/tipografi), featuring noteworthy news on typography.
+
+> [Facebook](https://www.facebook.com/tipografi/) | [Twitter](https://twitter.com/tipografi) | [Instagram](https://www.instagram.com/tipografitoplulugu/)
+
+See you in the next bulletin!

@@ -1,0 +1,177 @@
+# Typography Bulletin: November 2025
+
+### In this month's bulletin, there are significant typography developments from around the world and Turkey.
+
+⏰ **Reading Time:** ~7 minutes
+
+Hello everyone!
+
+Highlights, new typefaces, and developments from the world of typography in the Turkish Typography Community’s November 2025 bulletin:
+
+---
+
+## 17th International Anatolian Calligraphy and Typography Event
+
+*Image: Scenes from the event © [Anadolu University Faculty of Fine Arts Graphic Arts Department](https://www.instagram.com/anadolugrafik/)*
+
+Anadolu University Faculty of Fine Arts Graphic Arts Department organized student workshops between November 18–21 led by Çiğdem Demir, Einoddin Sadeghzadeh, Seyyed Mohsen Moosavi, Merve Ersan, Natalia Toropitsyna, and Umut Südüak as part of the [International Anatolian Calligraphy and Typography Event](https://kaligrafitipografi.anadolu.edu.tr/), held for the seventeenth time this year. As every year, the *Yunus Emre Exhibition* was held at the Museum of Contemporary Arts between November 17–21, 2025 as part of the event. The exhibition featured works where Yunus Emre’s humanist and universal discourse was interpreted through calligraphy and typography.
+
+---
+
+## When is a type design finished?
+
+*Image: © [Flavia Zimbardi](https://contraforma.substack.com/p/is-finishing-fonts-a-lie)*
+
+> “Finishing a type design is more like deciding to stop.”
+
+In her [article](https://contraforma.substack.com/p/is-finishing-fonts-a-lie) questioning the idea of completely finishing a typeface, Flavia Zimbardi examines elements such as flow, resistance, and collaboration within the design process, emphasizing how the concept of *completion* can restrict creativity. It is a compelling resource for understanding contemporary production practices for type foundries and type designers.
+
+---
+
+## The future of the type industry
+
+*Image: © [I Love Typography](https://trust.ilovetypography.com/font-business-conference-2025/)*
+
+> “We are (…) highly specialised, modern craftspeople whose typefaces have worked smoothly across digital platforms, apps, software environments, and operating systems for more than three decades.”
+
+> Kris Sowersby
+
+Flavia Zimbardi’s [piece](https://contraforma.substack.com/p/can-we-still-build-a-future-in-type), which addresses the uncertainties facing the typography sector through the panels of the *Font Business* conference held last June, is also noteworthy. In her article, Zimbardi notes that concerns about designers’ ability to sustain their careers, navigate changing conditions, and cope with narrowing opportunities take center stage. While the article emphasizes that type design has historically required a patient and methodical production process, it points out that today multifaceted pressures such as economic fluctuations, wars, and corporate dominance are straining the industry.
+
+The type foundry sector, being a niche field, is finding it increasingly difficult to turn a profit and find inspiration, while major distributors and tech giants retain control of the market. (While on the subject, let us also recall our [article](https://medium.com/tipografi/yaz%C4%B1-end%C3%BCstrisinde-tekelle%C5%9Fme-f100fe18760b) where we touched upon monopolization debates in the type industry.) Although artificial intelligence offers speed and cost advantages in production, it shapes perception by redefining *acceptable* conventions. In this environment, individual efforts fall short; collaboration and resource sharing are no longer just an option, but a survival strategy.
+
+---
+
+## The joys and challenges of screen typography
+
+*Image: © [gwco.uk](https://gwco.uk/journal/the-joys-and-pains-of-type-on-screen)*
+
+Focusing on the tension between the aesthetic ideals of typography in the digital medium and its technological limitations, the [article](https://gwco.uk/journal/the-joys-and-pains-of-type-on-screen) emphasizes that the necessity of adapting to different device sizes and browser settings makes it difficult to apply traditional print typography rules. It argues that both designers and web developers must collaborate to bring the typography quality of the print world into the digital realm. It serves as a brief and practical introduction for those looking to produce legible and meticulously crafted text on screen.
+
+---
+
+## Improving the loading speed of fonts on web pages
+
+*Image: © [TypeType](https://typetype.org/blog/web-font-optimization-the-key-to-instant-website-loading-speed/)*
+
+According to the [article](https://typetype.org/blog/web-font-optimization-the-key-to-instant-website-loading-speed/) published on the TypeType blog, properly optimizing web typefaces directly impacts page loading speed, user experience, and conversion rates. Recommending the use of modern font formats (WOFF/WOFF2), preloading, and CSS techniques such as `font-display: swap`, the article notes that limiting the number of typefaces used and removing unnecessary glyphs from files improves page performance.
+
+---
+
+## Typography’s invisible power of persuasion
+
+*Image: © [magazine.shots.net](https://magazine.shots.net/news/view/the-storytelling-superpower-of-typography)*
+
+Louise Sloper [highlights](https://magazine.shots.net/news/view/the-storytelling-superpower-of-typography) that font choice—often relegated to the background in the industry—can actually quietly steer reader perception and decision-making processes. She grounds this argument in Errol Morris’s 2013 New York Times experiment, which measured the persuasive power on readers of the same text presented in different typefaces. In the experiment, Baskerville was found to be more *believable* than Georgia, Helvetica, Comic Sans, and Trebuchet. Sloper also conveys that variable fonts and AI-powered typographic tools will broaden tone, persuasive power, and narrative possibilities in communication, making this impact even more pronounced in the future.
+
+---
+
+## Typographic challenges of early Arabic printing
+
+*Image: © [American Printing History Association](https://printinghistory.org/challenges-of-early-arabic-printing/)*
+
+In her [article](https://printinghistory.org/challenges-of-early-arabic-printing/) published by the American Printing History Association, Hala Auji highlights the technical and aesthetic challenges faced by Arabic printing. The fact that Arabic letters change shape according to their position within a word made it difficult for movable metal type printing to accommodate this flexibility. Consequently, Arabic book printing remained a costly and limited field of production for a long time. According to Auji, despite these obstacles, printers developed creative solutions in typographic ornaments to preserve manuscript aesthetics. While debates surrounding Turkey’s 1928 Alphabet Reform are often conducted around the inability to read older works due to the script change, the technical difficulties brought about by printing processes should not be overlooked as an important factor.
+
+---
+
+## The Didot family and the typographic ideal of the 19th century
+
+*Image: © [typofonderie.com](https://typofonderie.com/gazette/didots-or-the-typographic-ideal-of-the-19th-century)*
+
+In his [article](https://typofonderie.com/gazette/didots-or-the-typographic-ideal-of-the-19th-century) addressing the rise of the Didot family, Michel Wlassikoff notes that the Didone style represented the industrial ideal of the nineteenth century through the aesthetic established by technical precision, high contrast, and hairline serifs. While discussing the relationship of this ideal to the cultural, economic, and technological transformations of the era, the article also evaluates the influence of the Didots' design approach on modern typography.
+
+---
+
+## Rescuing wood type
+
+*Image: © [Daniel Swartz](https://hoosiertypeco.substack.com/p/rescuing-wood-type)*
+
+Daniel Swartz announced his project titled “[Rescuing Wood Type](https://hoosiertypeco.substack.com/p/rescuing-wood-type),” bringing wood type back to life. In this project, he collects vintage movable wood type, reworks it, and makes it available for use with modern printing techniques. Aiming to bring wood type into today’s design world while preserving its historical value and aesthetic characteristics, Swartz seeks to raise awareness about the preservation and reuse of wood type.
+
+---
+
+## Typography debate over the Oval Office sign
+
+*Image: © [Oliver Schöndorfer](https://pimpmytype.com/oval-office-sign/)*
+
+The script sign hung on Trump’s Oval Office door has received its share of criticism. [Oliver Schöndorfer](https://pimpmytype.com/oval-office-sign/) notes that the lettering is likely [Shelley Script](http://www.identifont.com/show?36G) or [English 111](http://www.identifont.com/show?260), and while attempting to appear elegant, it comes across as insecure and fails to deliver the claimed sense of luxury. Poor connections between letters, heavy strokes, and inconsistent spacing have turned it into gilded lettering that aims to showcase luxury but instead appears artificial and insecure. According to Schöndorfer, decorative fonts should be used with caution on signage, and materials and proportions must align with typography’s purpose.
+
+---
+
+## On the female face of type with Alice Savoie
+
+*Image: Alice Savoie © [Tentation du Regard](https://tentation-du-regard.fr/une-femme-de-caracteres/)*
+
+In his interview with type designer Alice Savoie, François Chevret [discusses](https://tentation-du-regard.fr/une-femme-de-caracteres/) typography’s relationship with gender, representation, and production culture. Savoie discusses how women designers have historically been rendered invisible, the efforts of contemporary type foundries to be more inclusive, and how she navigates these balances in her own practice. The interview offers an in-depth look at the current standing of women’s labor in the field of typography, from the [Women in Type](https://www.women-in-type.com/) project—which we have also covered in our bulletins—to Savoie’s own production philosophy.
+
+---
+
+## Women-led type foundries
+
+*Image: © [Women leading foundries](https://www.notion.so/1d69824c60a180c1b4dbd7e63685f971?v=1d69824c60a18196a279000c0e64b95f)*
+
+Speaking of women's visibility in type design, the organizers of the [Font Licensing Mess](https://fontlicensingmess.com/) project, which we also featured in last [July’s bulletin](https://medium.com/tipografi/tipografi-b%c3%bclteni-temmuz-2025-f69f62427adc), have created a comprehensive database of [women-led type foundries](https://www.notion.so/1d69824c60a180c1b4dbd7e63685f971?v=1d69824c60a18196a279000c0e64b95f). While making women’s labor and production environments visible in the world of typography, this initiative provides a valuable reference resource for researchers and designers.
+
+---
+
+## A special 10th-anniversary typeface from FOL
+
+*Image: © [FOL](https://font.fol.com.tr/)*
+
+FOL Design Studio celebrates its tenth anniversary with a specially designed typeface called [FOL10](https://font.fol.com.tr/). Composed of four styles—Thin, Dot, Line, and Square—FOL10 is available for free under the Open Font License (OFL), featuring Turkish character support and a total of 112 glyphs. Combining simple geometric forms with pixel aesthetics, FOL10 stands out as an original commemorative project reflecting the studio’s experimental and minimalist design approach.
+
+---
+
+## Union Gothic wins the election in New York.
+
+*Image: © [Matthew Hinders-Anderson](https://wehtt.am/fonts/)*
+
+In the [campaign identity](https://www.transition2025.com/) of Zohran Mamdani, who was elected mayor of New York, the typeface Union Gothic by Matthew Hinders-Anderson—who made his entire type library free for non-commercial use—was used. Throughout the campaign, [Union Gothic](https://wehtt.am/fonts/)’s simple, striking, and high-contrast aesthetic clearly set Mamdani’s communication apart. This choice stands out as a contemporary example of typographic selection, which has become one of the cornerstone elements of election campaign communication in the US over the past twenty years.
+
+---
+
+## Rosetta Type Foundry’s variable font: Handjet
+
+*Image: © [Rosetta Type Foundry](https://www.itsnicethat.com/articles/rosetta-type-foundry-handjet-graphic-design-140621)*
+
+Designed by David Březina, founder of [Rosetta Type Foundry](https://rosettatype.com/), the typeface [Handjet](https://rosettatype.com/Handjet) [pushes](https://www.itsnicethat.com/articles/rosetta-type-foundry-handjet-graphic-design-140621) the boundaries of variable fonts using 23 basic elements. The process, which began in a design workshop in Brno with the motto “build all characters with a single element,” soon expanded with the addition of Latin, Cyrillic, Greek, and many other scripts. The standout feature of Handjet is that it offers seamless transitions between shapes and encompasses different weights, styles, and animation options within a single font. With support for Arabic, Armenian, Hebrew, and Korean, it also serves as an exemplar in multilingual design.
+
+---
+
+## A new typeface inspired by 1970s Holborn
+
+*Image: © [F37](https://www.creativereview.co.uk/type-foundry-f37-releases-new-font-inspired-by-1970s-holborn/)*
+
+Manchester-based type foundry F37 has announced its new typeface [Holborn](https://www.creativereview.co.uk/type-foundry-f37-releases-new-font-inspired-by-1970s-holborn/), inspired by London’s Holborn district in the 1970s. Drawing upon the storefront and signage aesthetics of the era, the typeface stands out with its strong geometric structure. Founder Rick Banks states that Holborn is not just a typeface, but a design project rooted in London’s visual history. Additionally, in a special book produced with Nomad Studio, the type foundry showcases the typeface by reinterpreting it across the signage of more than a hundred businesses. A wonderful study on how typefaces shape space!
+
+---
+
+## Gotham’s new look
+
+*Image: © [Monotype](https://www.monotype.com/resources/case-studies/gotham-typeface-evolution-obama-foundation)*
+
+Gotham had become synonymous with Obama’s 2007 presidential campaign and formed the foundation of the Obama Foundation’s identity. Collaborating with Monotype, Manual Creative aimed to inject new energy into Gotham while preserving its essence. This evolution resulted in the adoption of [Gotham Condensed Bold](https://www.monotype.com/resources/case-studies/gotham-typeface-evolution-obama-foundation) as the primary benchmark and the development of three custom typefaces: *Gotham Inline* for sports communication, *Gotham Slab* reinforcing democratic themes, and *Gotham Stencil* symbolizing civic participation. Thus, Gotham aimed to establish a language carrying both consistency and diversity under a single roof.
+
+---
+
+## A look at 2025 in the type industry
+
+*Image: © [TYPE01](https://type-01.com/2025-in-overview-what-is-the-current-state-of-the-type-industry/)*
+
+In 2025, the type industry is shaped along the axis of tension between digital innovation and traditional craft. While variable font technologies blur the distinctions between sans and serif, increasing the use of flexible superfamilies, brands are turning to bespoke creations by independent designers rather than major type foundries to achieve authenticity in their corporate identities. As ethical and aesthetic debates sparked by artificial intelligence persist, a return to craftsmanship and revivals is gaining momentum as a reaction against digital aesthetics. A [useful guide](https://type-01.com/2025-in-overview-what-is-the-current-state-of-the-type-industry/) for an objective look at the world of type.
+
+---
+
+## Finally
+
+Starting in the new year, *Typography Bulletin* will be published on Substack. Access to all past issues and publications on Medium will continue; we will simply be sharing our new bulletins via Substack. By subscribing [here](https://tipografibulteni.substack.com/), you can receive developments from the world of typography in your inbox every month, and you can also receive notifications via the app ([iOS](https://apps.apple.com/tr/app/substack/id1581650857?l=tr) and [Android](https://play.google.com/store/apps/details?id=com.substack.app)) when a bulletin is published to follow our posts and notes.
+
+**See you in the next bulletin!**
+
+> *You can send any feedback and suggestions via [email](mailto:tipografitoplulugu@gmail.com) and follow our social media accounts. If you haven't subscribed to the bulletin yet, you can do so [here](https://tipografibulteni.substack.com/), and browse [past bulletins](https://medium.com/tipografi/tagged/ttt-haberler).*
+
+---
+
+> *☞ [Facebook](https://www.facebook.com/tipografi/) ☞ [X](https://x.com/tipografi) ☞ [Instagram](https://www.instagram.com/tipografitoplulugu/) ☞ [YouTube](https://www.youtube.com/@tipografi)*
+
+See you in the next bulletin!

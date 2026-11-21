@@ -1,0 +1,249 @@
+# Typography Bulletin: October 2024
+
+### In this month’s bulletin, there are significant developments regarding typography around the world and in Turkey.
+
+⏰ **Reading Time:** ~6 minutes
+
+Hello everyone!
+
+Featured news, new typefaces, and developments from the world of typography in the Turkish Typography Community’s October 2024 bulletin:
+
+---
+
+## Turkey’s largest and most comprehensive printing museum has opened.
+
+*Image: © [Hurufat Printing Museum](https://hurufat.atauni.edu.tr/)*
+
+Established by Atatürk University to research, preserve, and pass on the history of writing and printing to future generations, the [Hurufat Printing Museum](https://hurufat.atauni.edu.tr/) opened on October 17, 2024. Realized within the scope of the project titled “Enhancing the Efficiency of Atatürk University Faculty of Fine Arts Graphic Department Graduate Students and Researchers in Researching Printing Techniques and Printing Museum Design,” the museum presents a total of thirty-eight prepress, press, and postpress machines to visitors, while housing thousands of metal letters and printing materials. In this respect, the museum constitutes an important resource for both researchers and academic studies.
+
+---
+
+## “Face/Interface” event from Stanford University
+
+*Image: © [Stanford University](https://silicon.stanford.edu/face-interface/)*
+
+Stanford University is hosting a conference titled “[Face/Interface](https://silicon.stanford.edu/face-interface/)” focusing on type design and human-computer interaction, taking place between January 13–18, 2025, with Adam Yeo as the keynote speaker.
+
+---
+
+## Managing multiscript writing systems with a single file
+
+*Image: © [Dinamo](https://abcdinamo.com/news/managing-multiscript-typefaces)*
+
+An [article](https://abcdinamo.com/news/managing-multiscript-typefaces) by Hugo Jourdan from Dinamo Type Foundry on creating scripts that merge Latin source files in multiscript writing systems.
+
+---
+
+## Mozilla’s new visual identity
+
+*Image: © [It’s Nice That](https://www.itsnicethat.com/articles/jkr-mozilla-rebrand-graphic-design-project-240924)*
+
+As part of its new visual identity, Mozilla [arrives](https://www.itsnicethat.com/articles/jkr-mozilla-rebrand-graphic-design-project-240924) with a pair of new typefaces named *Mozilla Slab* and *Mozilla Sans*, designed by Studio Drama in collaboration with Jones Knowles Ritchie (JKR).
+
+---
+
+## Custom typeface for Kleenex
+
+*Image: © [Kleenex](https://turnerduckworth.com/work/kleenex)*
+
+Alec Tear and Lewis MacDonald [designed](https://turnerduckworth.com/work/kleenex) a custom typeface for the Kleenex tissue brand, inspired by the brand’s iconic lettering.
+
+---
+
+## Custom typeface for Rivian’s vehicles from Pentagram
+
+*Image: © [Pentagram](https://www.pentagram.com/work/rivian/story)*
+
+Eddie Opara and his team from Pentagram [designed](https://www.pentagram.com/work/rivian/story) a custom typeface for American electric vehicle manufacturer Rivian, based on the shape of its iconic headlights. The new typeface, which will be used in the interface of Rivian’s vehicles, was adapted from [Söhne](https://klim.co.nz/collections/soehne/), designed by Kris Sowersby, founder of Klim Type Foundry.
+
+---
+
+## New typeface from Ertekin Erdin: Nafile
+
+*Image: © [Nafile](https://nafile.ertekin.xyz/)*
+
+Type Designer [Ertekin Erdin](https://ertekin.xyz/) introduced his new typeface [Nafile](https://nafile.ertekin.xyz/). Created by blending Barcelona’s Gothic roots, Catalan modernism, Mediterranean charm, and arabesque touches, Nafile is a screen-oriented typeface featuring a variable font, offered under an open font license.
+
+---
+
+## New book from Necati Tonga
+
+*Image: © [Necati Tonga](https://x.com/necatitonga/status/1841051067322106064?s=46&t=2kq10_eEudDRDEwV2wE8Eg)*
+
+Necati Tonga’s book titled “[What Shall We Read? What Shall We Have New Generations Read?](https://x.com/necatitonga/status/1841051067322106064?s=46&t=2kq10_eEudDRDEwV2wE8Eg),” in which he enriches two significant survey series published right after the Alphabet Reform that question our reading culture from various perspectives with explanatory notes and photographs, has been published.
+
+---
+
+## New book from Typotheque: “Alfabet”
+
+*Image: © [Alfabet](https://www.typotheque.com/books/alfabet)*
+
+Typotheque has added a new book to its store titled “[Alfabet](https://www.typotheque.com/books/alfabet),” which recreates “Abeceda”—one of the most important and influential books of the European avant-garde from 1926 by Czech writer Karel Teige, designer Vítězslav Nezval, and dancer Milča Mayerová. The book, in which the Dutch performance duo Thomas and Ruhller represent the letters of the alphabet with their bodies and their own writing, was designed by Czech designer [Aleš Najbrt](https://www.najbrt.cz/en).
+
+---
+
+## Submissions have opened for the book “The Yearbook of Lettering”.
+
+*Image: © [Slanted](https://yearbookoflettering.com/)*
+
+Submissions have opened for the second edition of the book “[The Yearbook of Lettering](https://yearbookoflettering.com/call-for-submissions-yearbook-of-lettering-2-2025-26/),” published by Slanted, featuring the finest lettering from around the world, from calligraphy to graffiti. The first edition of the series was published in recent months, featuring the works of 134 people from 35 countries. The deadline for the call is December 8, 2024. Additionally, it was [announced](https://www.slanted.de/making-of-yearbook-of-type-7/) that the seventh edition of “The Yearbook of Type” is in production and will be published soon.
+
+---
+
+## Virtual typography library: Spread
+
+*Image: © [Spread](https://page-spread.com/)*
+
+Be sure to check out [Spread](https://page-spread.com/), a virtual library in typography and graphic design. Spread is both a store featuring a curated selection of good books and a library managed by designers so visitors can learn about design at a deeper level.
+
+---
+
+## Book Culture Talks
+
+*Image: © [FSMVU](https://yazmaeserler.fsm.edu.tr/etkinlik/Kitap-Kulturu-Konusmalari-2024-2025-2024-09-30-12-51-19pm)*
+
+The 2024–2025 Academic Year program of the [Book Culture Talks](https://yazmaeserler.fsm.edu.tr/etkinlik/Kitap-Kulturu-Konusmalari-2024-2025-2024-09-30-12-51-19pm), organized by Fatih Sultan Mehmet Vakıf University Manuscript Application and Research Center, has been announced. The first event took place on October 16, 2024, at the Ayasofya Campus with Sami Arslan’s presentation titled “A Work Out of Nothing: The Mystery of the Köprülü Library.”
+
+---
+
+## Survey results from Creative Boom
+
+*Image: © [Creative Boom](https://www.creativeboom.com/resources/20-most-popular-independent-foundries-with-designers/)*
+
+Based on its latest typography survey, Creative Boom published a list of the [fifty typefaces](https://www.creativeboom.com/resources/top-50-fonts-in-2025/) and [independent type foundries](https://www.creativeboom.com/resources/20-most-popular-independent-foundries-with-designers/) that will be popular among designers in 2025.
+
+---
+
+## OpenType features in Figma
+
+*Image: © [Fontfabric](https://www.instagram.com/p/DA6FVD_tUoD/)*
+
+Fontfabric Type Foundry [shared](https://www.instagram.com/p/DA6FVD_tUoD/) an Instagram post on the use of OpenType features in Figma.
+
+---
+
+## New typeface directory: “Atlas of Type”
+
+*Image: © [Atlas of Type](https://type-atlas.xyz/)*
+
+Created by [Dan Cătălin Burzo](https://danburzo.ro/), [Atlas of Type](https://type-atlas.xyz/) compiles newly released typefaces. The Atlas currently lists 9,833 typefaces from 548 type foundries.
+
+---
+
+## New website from Ivy Foundry
+
+*Image: © Ivy Foundry*
+
+Ivy Foundry’s typefaces, previously accessible only through Type Network, have moved to a [new website](https://ivyfoundry.com/) where you can experience the type foundry’s entire library in new and dynamic ways.
+
+---
+
+## On the unitization of movable type
+
+*Image: © [lettermodel.org](https://www.lettermodel.org/measurements_gauges.html)*
+
+A fine [article](https://www.lettermodel.org/measurements_gauges.html) on the origins of measurement and standardization to determine the proportions of movable type in the early days of typography.
+
+---
+
+## Access to sources with Gutenberg Capture
+
+*Image: © [Gutenberg Museum](https://gutenberg-capture.ub.uni-mainz.de/)*
+
+In collaboration with the Mainz University Library, the [Gutenberg Museum](https://www.mainz.de/microsite/gutenberg-museum/index.php) is digitizing historical sources through [Gutenberg Capture](https://gutenberg-capture.ub.uni-mainz.de/) and making them available for scholarship worldwide.
+
+---
+
+## Harris adopts a more traditional typographic approach in her candidacy.
+
+*Image: © [Fonts In Use](https://fontsinuse.com/uses/63052/harris-walz-2024-us-presidential-campaign)*
+
+Stephen Coles from Fonts In Use penned an [article](https://fontsinuse.com/uses/63052/harris-walz-2024-us-presidential-campaign) on the typography used in the presidential campaign of United States candidate Kamala Harris, designed under the direction of Alayna Citrin from [Wide Eye](https://wideeye.co/). In Harris’s campaign, French type foundry Lift Type’s condensed sans-serif typeface [Sans Plomb](https://www.lift-type.fr/shop/typography/sans-plomb/) was chosen.
+
+---
+
+## Video recordings of the ATypI conference
+
+*Image: © [ATypI](https://www.youtube.com/watch?v=Qificbbz_VA&list=PL0oMAzSh5W9qXYWLZ1e4YlLIr5vyvNlZf)*
+
+In [last February’s bulletin](https://medium.com/tipografi/tipografi-b%C3%BClteni-%C5%9Fubat-2024-c2e94d6a58ae)—if you still haven’t subscribed, you can subscribe [here](https://medium.com/tipografi/newsletter)—we announced that [ATypI](https://atypi.org/)’s typography conference, organized for the sixty-fifth time this year, would be held between April 16–20 in Brisbane, Australia. Video recordings of the event were shared on [ATypI’s YouTube channel](https://www.youtube.com/watch?v=Qificbbz_VA&list=PL0oMAzSh5W9qXYWLZ1e4YlLIr5vyvNlZf).
+
+---
+
+## Submissions have opened for TDC’s competition.
+
+*Image: © [TDC](https://enter.tdc.org/)*
+
+[Submissions have opened](https://enter.tdc.org/) for the seventy-first edition of the competition organized by the Type Directors Club (TDC) in the categories of communication design, lettering, and type design.
+
+---
+
+## Results of the International Typography Awards have been announced.
+
+*Image: © [ISTD Awards](https://istdawards.com/winners)*
+
+The results of the 2024 International Typography Awards, organized by the International Society of Typographic Designers (ISTD) and announced in [the December 2023 bulletin](https://medium.com/tipografi/tipografi-b%C3%BClteni-aral%C4%B1k-2023-dc3a5cc03c6a), [have been announced](https://istdawards.com/winners). In the competition, the Freda Sack Award, Premier Awards, and Certificates of Excellence were presented to their recipients.
+
+---
+
+## P22 Type Foundry’s website has been renewed.
+
+*Image: © [P22](https://p22.com/)*
+
+Home to an extensive type catalog ranging from historical revivals to contemporary original designs, [P22 Type Foundry’s website](https://p22.com/) has been renewed.
+
+---
+
+## Discovering photos hidden for 75 years
+
+*Image: © [Doug Wilson](https://realdougwilson.com/writing/the-box-at-the-museum)*
+
+The [story](https://realdougwilson.com/writing/the-box-at-the-museum) of Doug Wilson discovering photographs hidden for over seventy-five years at the Ottmar Mergenthaler Museum during a visit to Germany…
+
+---
+
+## Semantic typography model: FontCLIP
+
+*Image: © [FontCLIP](https://yukistavailable.github.io/fontclip.github.io/)*
+
+An article on the semantic typography model named [FontCLIP](https://yukistavailable.github.io/fontclip.github.io/), developed by academics from Japan and Israel for multilingual typeface usage. The model combines vision-language information and typographic features, enabling users to search for typefaces using text or image inputs.
+
+---
+
+## New platform from Dalton Maag: FontPass
+
+*Image: © [designweek.co.uk](https://www.designweek.co.uk/dalton-maag-offers-studios-1400-free-typefaces/)*
+
+[Dalton Maag Type Foundry](https://www.daltonmaag.com/) is offering design studios free access to its type library. The platform, named [FontPass](https://www.designweek.co.uk/dalton-maag-offers-studios-1400-free-typefaces/), provides approved design studios with a total of 1,400 fonts across more than sixty font families for free.
+
+---
+
+## The past, present, and future of personal expression through typefaces
+
+*Image: © [design.google](https://design.google/library/variable-fonts-type)*
+
+From Casey Henry, the [evolution](https://design.google/library/variable-fonts-type) of personal expression through the progression of typefaces, from the days of Web 1.0 housing limited, default typefaces to today’s expressive and personalized type designs.
+
+---
+
+## The magazine redefining the normal: Süper Normal
+
+*Image: © [Süper Normal](https://www.instagram.com/super.normal.mag/)*
+
+Emre Parlak [announced](https://www.instagram.com/p/DBjC346OJZi/) that they have started publishing a magazine called [Süper Normal](https://www.instagram.com/super.normal.mag/), which redefines the normal and focuses on experimental typography and design. The first issue will be presented to attendees at the [ISType](https://istype.com/2024/) event to be held on November 2–3, 2024.
+
+---
+
+## Lastly
+
+Organized for the ninth time this year, the [ISType conference](https://istype.com/2024/) will be held at Salt Galata between November 2–3, 2024 (TOMORROW) under the theme “Text-ure.”
+
+**See you in the next bulletin.**
+
+> *You can send any feedback and suggestions via [email](mailto:tipografitoplulugu@gmail.com) and follow our social media accounts. If you haven’t subscribed to the bulletin yet, you can do so [here](/tipografi/newsletters/tipografi-bülteni) and browse [past bulletins](https://medium.com/tipografi/tagged/ttt-haberler).*
+
+---
+
+> *☞ [Facebook](https://www.facebook.com/tipografi/) ☞ [Twitter](https://twitter.com/tipografi) ☞ [Instagram](https://www.instagram.com/tipografitoplulugu/) ☞ [YouTube](https://www.youtube.com/@tipografi)*
+
+See you in the next bulletin!

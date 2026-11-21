@@ -1,0 +1,149 @@
+# Typography Newsletter: September 2020
+
+### A monthly Newsletter featuring noteworthy typography news
+
+⏰ **Reading Time:** ~3 minutes
+
+Hello everyone!
+
+Highlights, new typefaces, and developments from the world of typography in the September 2020 bulletin of the Turkish Typography Community:
+
+---
+
+## A custom typeface for PSV Eindhoven from Bold Monday
+
+*Image: © [Bold Monday](https://twitter.com/boldmonday/status/1300410748074692608?s=20)*
+
+Having previously designed custom typefaces for companies such as Audi, GE, and IBM, the Netherlands-based type foundry [Bold Monday](https://boldmonday.com) has designed a [custom typeface](https://twitter.com/boldmonday/status/1300410748074692608?s=20) for PSV Eindhoven.
+
+---
+
+## The reason Comic Sans is a public good
+
+*Image: © [The Cut](https://www.thecut.com/2020/08/the-reason-comic-sans-is-a-public-good.html)*
+
+Drake Baer [emphasizes](https://www.thecut.com/2020/08/the-reason-comic-sans-is-a-public-good.html) that, despite all prejudices, Comic Sans is an effective tool for making text readable for individuals with dyslexia. 🇬🇧
+
+---
+
+## A YouTube channel dedicated to typography from Oliver Schöndorfer
+
+*Image/Video: [Video Source](https://youtu.be/OQ79CuKiFqA)*
+
+[Oliver Schöndorfer](https://twitter.com/glyphe) has published [a video](https://youtu.be/OQ79CuKiFqA) on his YouTube channel about improving the typography of the clock display in iOS. 🇬🇧
+
+---
+
+## Two new web tools from Mass-Driver
+
+*Image: © [Mass-Driver™](https://workshop.mass-driver.com)*
+
+Founded by [Rutherford Craze](https://twitter.com/rutherfordcraze), type foundry [Mass-Driver](https://mass-driver.com) announced a web tool open to anyone working with fonts. [Mass-Driver Workshop](https://workshop.mass-driver.com) offers two tools: *Overview*, which provides metadata for the respective font, and *Waterfall*, which lists words that share the same widths with any font you choose.
+
+---
+
+## New book from Robin Kinross
+
+*Image: © [Éditions B42](https://editions-b42.com/en)*
+
+Published by [Éditions B42](https://editions-b42.com/en), [Robin Kinross](https://en.wikipedia.org/wiki/Robin_Kinross)’s book titled [Unjustified Texts: Perspectives On Typography](https://editions-b42.com/en/produit/unjustified-texts/) has taken its place among typography books published in 2020.
+
+---
+
+## A custom type family for İzmir from Ahmet Altun
+
+*Image/Video: [Video Source](https://www.youtube.com/watch?v=qs9Flwb7pwQ)*
+
+As part of İzmir’s branding efforts, the İzmir Foundation commissioned type designer Ahmet Altun to design a type family called [İzmir](https://www.izmirvakfi.org/izmir-fontu). Altun also debuted the type family—consisting of forty-four fonts in total with different weight options and featuring the *ve* glyph—on [MyFonts](https://www.myfonts.com/fonts/ahmet-altun/izmir/).
+
+---
+
+## Lecture series from Type@Cooper
+
+*Image: © [coopertype.org](http://coopertype.org/lectures)*
+
+Organized by Type@Cooper, [The Herb Lubalin Lecture Series](http://coopertype.org/lectures) offers an in-depth perspective on specific topics in typography. Hosted by the [Herb Lubalin Study Center of Design and Typography](http://lubalincenter.cooper.edu) and conducted with the support of type foundry Hoefler&Co., these free public events are also recorded and published on Vimeo. 🇬🇧
+
+---
+
+## Lotape, designed by Mustafa Eren, is on MyFonts!
+
+*Image: © [MyFonts](https://www.myfonts.com/fonts/hurufatfont-type-foundry/lotape)*
+
+Designed by [Mustafa Eren](https://www.facebook.com/profile.php?id=100007154254756&comment_id=Y29tbWVudDoxMDE1ODc1NjkyODc4MzY4Nl8xMDE1ODc1NzIyOTcwMzY4Ng%3D%3D), one of the prominent masters of contemporary calligraphy, and digitized by type designer [Oğuzhan Cengiz](https://www.myfonts.com/foundry/hurufatfont-type-foundry/), [Lotape](https://www.myfonts.com/fonts/hurufatfont-type-foundry/lotape) has been released on MyFonts. Drawing attention with its unusual ligature structure, Lotape stands out with its ornaments and rich alternates.
+
+Continuing his journey that began as a sign painter's apprentice in Denizli as the sole student of the lettering class at the Department of Graphic Design of the School of Applied Fine Arts in Istanbul, Mustafa Eren has developed more than sixty fonts since graduating in 1972, one of which was acquired by Letraset. Over the past decade, he has taken the art of calligraphy to a new level by interpreting it with Latin letters. Bringing together his original lettering works and font designs spanning nearly half a century in his book titled [Kaligrafik](https://www.idefix.com/Kitap/Kaligrafik/Sanat-Tasarim/Sanat-Tarihi-ve-Kurami/urunno=0001862545001), Mustafa Eren works as a lecturer at FSM Vakıf University.
+
+---
+
+## Graduation projects of type design school Bold Italic
+
+*Image: © [Bold Italic](https://bolditalic.type.school)*
+
+[Bold Italic](https://bolditalic.type.school), which provides type design education in Moscow, has published the work of its 2020 graduates. The [web page](https://2020.bolditalic.type.school) launched for the graduation projects features ten designs created by nine students over the course of a four-month program.
+
+---
+
+## On the history of Comic Sans
+
+*Image: © [Medium](https://uxplanet.org/are-you-kidding-the-story-of-comic-sans-f9e00d41eba8)*
+
+[Jon Robinson](https://twitter.com/jfarrellstudio) has written an [article](https://uxplanet.org/are-you-kidding-the-story-of-comic-sans-f9e00d41eba8) on the history of Comic Sans. 🇬🇧
+
+> “If you love Comic Sans, you don’t know much about typography. If you hate Comic Sans, you really don’t know much about typography.”
+
+---
+
+## Applications have opened for EsadType.
+
+*Image: © [EsadType](http://www.esad-amiens.fr/esadtype-2020-22-appel-a-candidatures-call-for-applications/8632)*
+
+[Applications](http://www.esad-amiens.fr/esadtype-2020-22-appel-a-candidatures-call-for-applications/8632) have opened for [EsadType](http://www.esad-amiens.fr), a postgraduate program in type design located in Amiens, France. With an application deadline of October 30, 2020, the program will last a total of 16 months and will begin in January 2021.
+
+---
+
+## An in-depth look at gentrification fonts
+
+*Image: © [Vice](https://www.vice.com/en_us/article/ep499w/gentrification-font-meme-neutraface)*
+
+In her [article published on Vice](https://www.vice.com/en_us/article/ep499w/gentrification-font-meme-neutraface), Bettina Makalintal presents an in-depth analysis of fonts characterized as gentrification fonts. 🇬🇧
+
+---
+
+## TypeWknd has begun.
+
+*Image/Video: [Video Source](https://www.youtube.com/watch?v=QAKDJP_qA3s)*
+
+The online typography conference [TypeWknd](https://typewknd.com) was held between September 24–27, 2020. The conference's speakers included names such as Karen Cheng, Noemi Stauffer, Paul McNeil, Scott Kellum, and Laura Meseguer.
+
+---
+
+## Dinamo has been revamped.
+
+*Image: © abcdinamo.com*
+
+Swiss type foundry [Dinamo](https://abcdinamo.com), founded by Johannes Breyer and Fabian Harb, has refreshed its website featuring a new licensing experience along with two new variable fonts, *ABC Maxi* and *ABC Diatype*.
+
+---
+
+## Lawsuits filed over font license infringement
+
+*Image: © [Font Shield Inc.](https://fontshield.com/lawsuits/)*
+
+Font Shield has [listed](https://fontshield.com/lawsuits/) the lawsuits filed over font license infringement.
+
+---
+
+## İstanbul Type is on MyFonts!
+
+*Image: © [MyFonts](https://www.myfonts.com/fonts/buyukselcom/istanbul-type/)*
+
+Bülent Yüksel’s type family [İstanbul Type](https://www.myfonts.com/fonts/buyukselcom/istanbul-type/), consisting of five weights along with oblique versions, has been released on MyFonts.
+
+---
+
+> The September 2020 bulletin prepared monthly by the [*Turkish Typography Community*](https://medium.com/tipografi), featuring noteworthy typography news.
+
+> [*Facebook*](https://www.facebook.com/tipografi/) | [Twitter](https://twitter.com/tipografi) | [Instagram](https://www.instagram.com/tipografitoplulugu/)
+
+See you in the next bulletin!

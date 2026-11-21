@@ -1,0 +1,147 @@
+# Typography Bulletin: February 2024
+
+### In this month’s bulletin, there are significant developments regarding typography in the world and in Turkey.
+
+⏰ **Reading Time:** ~3 minutes
+
+Hello everyone!
+
+Featured news, new typefaces, and developments from the typography world in the Turkish Typography Community’s February 2024 bulletin:
+
+---
+
+## A new book on the history of keyboards
+
+*Image: © [Shift Happens: A book about keyboards](https://shifthappens.site/)*
+
+The two-volume book titled “[Shift Happens: A book about keyboards](https://shifthappens.site/)”, prepared by Marcin Wichary, tells the 150-year story of the keyboard, from the earliest typewriters to the examples in our pockets. 🇬🇧
+
+---
+
+## Applications have opened for the Ascenders awards.
+
+*Image: © [TDC Ascenders](https://ascenders.tdc.org/)*
+
+Organized by the [Type Directors Club](https://www.tdc.org/) and open to individuals aged 35 and under or duos of two people, the early application deadline for [Ascenders](https://ascenders.tdc.org/) has been announced as March 15, and the final deadline as April 19, 2024. With an entry fee of 100 dollars, the competition’s award ceremony will take place in New York on August 14, 2024. 🇬🇧
+
+---
+
+## A new typeface from Ahmet Altun: Jurgen
+
+*Image: © [Ahmet Altun](https://www.myfonts.com/collections/ahmet-altun-foundry)*
+
+Type Designer [Ahmet Altun](https://www.myfonts.com/collections/ahmet-altun-foundry) announced his new typeface [Jurgen](https://www.myfonts.com/collections/jurgen-font-ahmet-altun), which features two weights. Designed by Altun inspired by the work of Belgian calligraphy artist [Jurgen Vercaemst](https://www.instagram.com/jurgen_vercaemst/), Jurgen has extensive OpenType features.
+
+---
+
+## A new typeface from Oğuzhan Cengiz: Cabira
+
+*Image: © [Oğuzhan Cengiz](https://www.myfonts.com/collections/cabira-font-hurufatfont-type-foundry)*
+
+Another new typeface comes from [Oğuzhan Cengiz](https://www.myfonts.com/collections/hurufatfont-type-foundry)… Featuring ten weights with characters that can offer different typographic color values as an alternative to its geometric anatomy and basic character set, [Cabira](https://www.myfonts.com/collections/cabira-font-hurufatfont-type-foundry) provides users with typographic richness.
+
+---
+
+## The ATypI conference begins on April 16.
+
+*Image: © [ATypI](https://atypi.org/conferences-events/atypi-brisbane-2024/)*
+
+The typography conference, which [ATypI](https://atypi.org/) will organize for the sixty-fifth time this year, [will be held](https://atypi.org/conferences-events/atypi-brisbane-2024/) in Brisbane, Australia, between April 16–20, 2024.
+
+---
+
+## Turkish encoder and decoder language model
+
+*Image: © [Turna](https://huggingface.co/spaces/boun-tabi-LMG/TURNA)*
+
+The Language Modeling Group at Boğaziçi University’s Department of Computer Engineering Text Analytics and BioInformatics Lab ([TABILAB](https://tabilab.cmpe.boun.edu.tr/)) completed the first phase of the Turkish language model named *Turna* and made it accessible on [Huggingface](https://huggingface.co/spaces/boun-tabi-LMG/TURNA).
+
+---
+
+## Mücellit Enstitüsü opened.
+
+*Image: © [Mücellit Enstitüsü](https://www.bkv.org.tr/tr/mucellit_enstitusu-53/)*
+
+To support the endangered art of bookbinding in attaining the recognition it deserves, the [Borusan Kocabıyık Foundation](https://www.bkv.org.tr/tr/) opened the [Mücellit Enstitüsü](https://www.bkv.org.tr/tr/mucellit_enstitusu-53/) in Kuzguncuk, in collaboration with artists possessing international expertise in the field.
+
+---
+
+## The history of the Richard Gans Type Foundry
+
+*Image: © [An image from the Richard Gans Type Foundry.](https://www.richardgans.xyz/history/)*
+
+A [webpage](https://www.richardgans.xyz/) about the history of the type foundry, founded in 1888 by Austrian Richard Gans, which was a cornerstone of Spanish printing history until the late twentieth century.
+
+---
+
+## 2024 report from Monotype
+
+*Image: © [Monotype](https://www.monotype.com/company/press-release/monotypes-2024-type-trends-report-reveals-influences)*
+
+Monotype [published](https://www.monotype.com/company/press-release/monotypes-2024-type-trends-report-reveals-influences) its report compiling the typeface trends of 2024. Curated by Jordan Bell and Damien Collot from Monotype, the report examines ten trends in type and brand design that will shape 2024. 🇬🇧
+
+---
+
+## 2024 Typography Report from Print
+
+*Image: © [Print](https://www.printmag.com/typography/print-typography-report-2024-circus-of-type/)*
+
+> “Type is no longer just about communication. Letterforms are in pursuit of new purposes that soothe, calm, excite, entertain, and enchant our souls.”
+
+Meg Farmer from Print magazine [wrote](https://www.printmag.com/typography/print-typography-report-2024-circus-of-type/) about her predictions for typography in 2024, which she described as a *circus of type*. 🇬🇧
+
+---
+
+## The pros and cons of using free typefaces
+
+*Image: © [typeheist.co](https://typeheist.co/blog/pros-and-cons-of-free-fonts/)*
+
+Laura Eddy [wrote](https://typeheist.co/blog/pros-and-cons-of-free-fonts/) about the factors to consider when using free typefaces. 🇬🇧
+
+---
+
+## Dyslexia mode from Teyit.org
+
+*Image: © [Teyit.org](https://teyit.org/)*
+
+[Teyit.org](https://teyit.org/) has begun offering its Dyslexia Mode, designed for users with reading difficulties, to its readers.
+
+---
+
+## Thomas Milo and Morgane Pierson were in Istanbul.
+
+Istanbul hosted three typography events in February. We had shared with our readers the Symposium on Armenians in the Early Modern Period of the Ottoman Empire, held on February 3, 2024, in our [January bulletin](https://medium.com/tipografi/tipografi-b%C3%BClteni-ocak-2024-92f521042bae). The [Arabic type design event](https://www.instagram.com/p/C3m0OkEsQf5/), organized by the Department of Traditional Turkish Arts at Fatih Sultan Mehmet Vakıf University and attended by Thomas Milo, was held on February 23, 2023, at the Hagia Sophia Campus. French Type Designer [Morgane Pierson](https://www.instagram.com/morgane_pierson/), invited by the Department of Industrial Design at Istanbul Technical University, gave a seminar titled “[Letters of the Past in the Digital World](https://www.instagram.com/p/C3jx1dUqPXg/?img_index=1)” on Friday, February 23, 2024.
+
+---
+
+## Chronology of Istanbul Printing Houses
+
+*Image: © [OSAMER](https://osamer.sakarya.edu.tr/tr/icerik/0/122518/istanbul-matbaalari-nin-dijital-kronolojisi)*
+
+Prepared by Şeyma Nur Yayla as part of the Internship Program of the [Sakarya University Center for Ottoman Studies](https://osamer.sakarya.edu.tr/tr/icerik/0/122518/istanbul-matbaalari-nin-dijital-kronolojisi), this [study](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=13MlMNnPWQtzUZ_dDf9_h4hjU9Eo72fm2H4JECuU5Vsw&font=Georgia-Helvetica&lang=tr&hash_bookmark=true&initial_zoom=2&height=650#event-istanbul-matbaalar-kronolojisi-1453-1839) presents a digital chronology of printing houses located in Istanbul between 1453 and 1839.
+
+---
+
+## Emin Barın Exhibition: “Ne Senden Rükû Ne Benden Kıyam”
+
+*Image: © [Artİstanbul Feshane](https://www.instagram.com/p/C3p-RbuM4pl/)*
+
+[Artİstanbul Feshane](https://www.instagram.com/p/C3p-RbuM4pl/) is hosting the works of Calligrapher and Bookbinder Prof. Emin Barın. Curated by Art Historian Ali Kayaalp and consisting of a selection from Zafer Yıldırım’s collection, the exhibition opened on February 27, 2024, and can be visited until April 29, 2024.
+
+---
+
+## Five works for those interested in the history of printing
+
+*Image: © [Tırnak İçinde](https://www.youtube.com/watch?v=Vu3jFhzYkdY)*
+
+A [video](https://www.youtube.com/watch?v=Vu3jFhzYkdY) in which Dr. Mehmet Erken from Istanbul University shares his views on printing in Turkey from past to present, the book as a product, and the publishing world, along with works written on the development of printing in our country throughout history.
+
+> **Reading Recommendation** ➚ [Monopolization in the type industry](https://bit.ly/3HUfj8G)
+
+> *You can send any feedback and suggestions via [email](mailto:tipografitoplulugu@gmail.com) and follow our social media accounts. If you still haven’t subscribed to the bulletin, you can subscribe [here](/tipografi/newsletters/tipografi-bülteni) and browse [past bulletins](https://medium.com/tipografi/tagged/ttt-haberler).*
+
+---
+
+> *☞ [Facebook](https://www.facebook.com/tipografi/) ☞ [Twitter](https://twitter.com/tipografi) ☞ [Instagram](https://www.instagram.com/tipografitoplulugu/) ☞ [YouTube](https://www.youtube.com/@tipografi)*
+
+See you in the next bulletin!
