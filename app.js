@@ -101,7 +101,7 @@
       relevantParagraphs: "Read matching paragraphs",
       summaryLabel: "English summary",
       translationLabel: "English translation",
-      readEnglishIssue: "Read English translation of the newsletter.",
+      readEnglishIssue: "Read English translation of the newsletter ↗",
       readIssue: "Read the original issue in Turkish ↗",
       originalIssue: "Cite this entry",
       copy: "Copy",
