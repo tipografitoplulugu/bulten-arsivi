@@ -200,23 +200,36 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
 .language-toggle {
   display: flex;
   align-items: center;
-  gap: .4rem;
+  gap: .15rem;
+  padding: .2rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--paper);
   color: var(--muted);
   font-family: "DM Mono", monospace;
-  font-size: .84rem;
+  font-size: .72rem;
   white-space: nowrap;
 }
 
 .language-toggle a {
+  display: grid;
+  place-items: center;
+  min-width: 2rem;
+  height: 1.65rem;
+  padding: 0 .45rem;
+  border-radius: 999px;
   color: var(--muted);
   text-decoration: none;
+  transition: background-color 150ms ease, color 150ms ease;
 }
 
-.language-toggle a.active,
+.language-toggle a.active {
+  background: var(--surface-subtle);
+  color: var(--ink);
+}
+
 .language-toggle a:hover {
-  color: var(--link);
-  text-decoration: underline;
-  text-underline-offset: 4px;
+  color: var(--ink);
 }
 
 .theme-toggle-btn {
