@@ -24,6 +24,10 @@ Arşivde yer alan bültenler, bağımsız haber bloklarına ayrılarak tam metin
 * **Yıl Bazlı Filtreleme:** 2019–2026 arasındaki belirli bir yıla odaklanarak arama yapabilme imkânı.
 * **Sıfır Dış Bağımlılık:** Harici bir veritabanı veya sunucu maliyeti gerektirmeyen hafif, taşınabilir SQLite mimarisi.
 
+### Türkçe / English
+
+Arşivin İngilizce giriş sayfası [`/en/`](https://tipografitoplulugu.github.io/bulten-arsivi/en/) adresindedir. İngilizce başlıklar ve kısa özetler, özgün arşiv verisini değiştirmeyen [`arsiv-en.json`](arsiv-en.json) dosyasında kayıt kimlikleriyle eşleştirilir. İngilizce aramada yalnızca çevrilmiş kayıtlar gösterilir; her sonuçtaki bağlantı özgün Türkçe bültene gider. Şu anki çeviri kapsamı 2026 sayılarıdır.
+
 ---
 
 ## Topluluk & Bağlantılar

@@ -197,6 +197,28 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
   color: var(--link);
 }
 
+.language-toggle {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+  color: var(--muted);
+  font-family: "DM Mono", monospace;
+  font-size: .84rem;
+  white-space: nowrap;
+}
+
+.language-toggle a {
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.language-toggle a.active,
+.language-toggle a:hover {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
 .theme-toggle-btn {
   display: grid;
   place-items: center;
@@ -234,6 +256,13 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
   color: var(--muted);
   font-size: 1.08rem;
   line-height: 1.72;
+}
+
+.language-note {
+  max-width: 690px;
+  margin: -1.4rem 0 2.2rem;
+  color: var(--muted);
+  font-size: .9rem;
 }
 
 .hero-eyebrow, .section-eyebrow {
@@ -860,10 +889,25 @@ mark.search-hit {
     position: relative;
   }
 
+  .brand-identity {
+    max-width: calc(100% - 6.4rem);
+  }
+
+  .brand-name {
+    font-size: .98rem;
+    overflow-wrap: anywhere;
+  }
+
   .theme-toggle-btn {
     position: absolute;
     top: 4px;
     right: 0;
+  }
+
+  .language-toggle {
+    position: absolute;
+    top: 14px;
+    right: 3.1rem;
   }
 
   .stat-grid {

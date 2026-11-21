@@ -8,6 +8,115 @@
 
   const PAGE_SIZE = 20;
   const THEME_STORAGE_KEY = "tipografi-archive-theme";
+  const STRINGS = {
+    tr: {
+      pageTitle: "Tipografi Bülteni Arşivi",
+      metaDescription: "2019’dan bu yana her ay yayımladığımız Tipografi Bülteni arşivi. Türkiye’de ve dünyada tipografi alanında öne çıkan gelişmeler.",
+      language: "Dil seçimi",
+      publications: "Yayın bağlantıları",
+      logoAlt: "Türkçe Tipografi Topluluğu logosu",
+      brand: "Türkçe Tipografi Topluluğu",
+      heroTitle: "Tipografi Bülteni Arşivi",
+      heroCopy: "2019’dan bu yana her ay yayımladığımız bültenlerde, Türkiye’de ve dünyada tipografi alanında öne çıkan gelişmeleri bir araya getiriyoruz. Anahtar kelimelerle arama yapabilir, yeni sayılar eklendikçe büyüyen arşivimizi keşfedebilirsiniz.",
+      issuesLabel: "YAYIMLANAN SAYI",
+      articlesLabel: "DİZİNLENEN GELİŞME",
+      rangeLabel: "ARŞİV KAPSAMI",
+      searchHeading: "ARŞİVDE ARA",
+      searchPlaceholder: "Örneğin değişken yazıtipi, Monotype, kaligrafi",
+      searchAria: "Aranacak ifade",
+      clearAria: "Aramayı temizle",
+      yearLabel: "YIL",
+      allYears: "Tümü",
+      yearAria: "Yıl filtreleme",
+      searchButton: "Ara",
+      topicsHeading: "ÖNE ÇIKAN ARAMALAR",
+      distribution: "Yıllara göre dağılım",
+      previous: "← Önceki",
+      next: "Sonraki →",
+      pagination: "Sayfalama",
+      footer: "Alt bilgi",
+      subscribe: "Bültene Abone Ol",
+      languageNote: "İngilizce özetler seçili sayılar için sunuluyor. Bültenin tamamı Türkçe yayımlanıyor.",
+      themeDark: "Koyu moda geç",
+      themeLight: "Açık moda geç",
+      loading: "Arşiv verileri yükleniyor…",
+      loadError: "Arşiv verileri yüklenemedi. Lütfen internet bağlantınızı kontrol edip sayfayı yenileyin.",
+      noResults: "“{query}” ifadesiyle{year} eşleşen bir gelişme bulunamadı. Yazımı kontrol edin veya daha kısa bir arama deneyin.",
+      noYearResults: "{year} yılı için arşiv kaydı bulunamadı.",
+      resultsSummary: "{articles} gelişme · {issues} bültende · En yeniden eskiye",
+      chartAria: "Arama sonuçlarının yıllara göre dağılım grafiği",
+      chartTitle: "{year}: {count} gelişme",
+      excerptInTitle: "Başlıkta eşleşme: {title}.",
+      excerptInLink: "Aranan ifade “{query}” bu kaydın içeriğindeki bir bağlantıda eşleşiyor.",
+      relevantParagraphs: "İlgili paragrafları oku",
+      summaryLabel: "İngilizce özet",
+      readIssue: "Bu sayıyı aç ↗",
+      originalIssue: "Alıntı yap",
+      copy: "Kopyala",
+      copied: "Kopyalandı!",
+      citationCopyAria: "Alıntıyı panoya kopyala",
+      pageLabel: "Sayfa {page} / {total}",
+      topicNames: ["Değişken Yazıtipi", "Monotype", "Gutenberg", "Yapay Zekâ", "Lisanslama", "Kaligrafi", "TDC", "Google Fonts", "Arial"],
+      months: { "Ocak": "Ocak", "Şubat": "Şubat", "Mart": "Mart", "Nisan": "Nisan", "Mayıs": "Mayıs", "Haziran": "Haziran", "Temmuz": "Temmuz", "Ağustos": "Ağustos", "Eylül": "Eylül", "Ekim": "Ekim", "Kasım": "Kasım", "Aralık": "Aralık" },
+    },
+    en: {
+      pageTitle: "Typography Bulletin Archive",
+      metaDescription: "Explore the Turkish Typography Community’s monthly archive, published since 2019, covering notable developments in typography in Türkiye and around the world.",
+      language: "Language",
+      publications: "Publications",
+      logoAlt: "Turkish Typography Community logo",
+      brand: "Turkish Typography Community",
+      heroTitle: "Typography Bulletin Archive",
+      heroCopy: "Since 2019, we have brought together notable developments in typography in Türkiye and around the world in a monthly newsletter. Search English summaries by keyword and explore the growing archive.",
+      issuesLabel: "ISSUES PUBLISHED",
+      articlesLabel: "STORIES INDEXED",
+      rangeLabel: "ARCHIVE COVERAGE",
+      searchHeading: "SEARCH THE ARCHIVE",
+      searchPlaceholder: "Try variable fonts, Monotype, calligraphy",
+      searchAria: "Search phrase",
+      clearAria: "Clear search",
+      yearLabel: "YEAR",
+      allYears: "All years",
+      yearAria: "Filter by year",
+      searchButton: "Search",
+      topicsHeading: "POPULAR SEARCHES",
+      distribution: "Results by year",
+      previous: "← Previous",
+      next: "Next →",
+      pagination: "Pagination",
+      footer: "Footer",
+      subscribe: "Subscribe to the newsletter",
+      languageNote: "English summaries are available for selected issues. The full newsletter is published in Turkish.",
+      themeDark: "Switch to dark mode",
+      themeLight: "Switch to light mode",
+      loading: "Loading archive…",
+      loadError: "The archive could not be loaded. Check your internet connection and refresh the page.",
+      noResults: "No stories matched “{query}”{year}. Check the spelling or try a shorter search.",
+      noYearResults: "English summaries are not available for {year} yet. Switch to TR to search the full archive.",
+      resultsSummary: "{articles} stories · across {issues} issues · Newest first",
+      chartAria: "Chart of search results by year",
+      chartTitle: "{count} stories in {year}",
+      excerptInTitle: "Title match: {title}.",
+      excerptInLink: "The search phrase “{query}” appears in a link in this entry.",
+      relevantParagraphs: "Read matching paragraphs",
+      summaryLabel: "English summary",
+      readIssue: "Read the original issue in Turkish ↗",
+      originalIssue: "Cite this entry",
+      copy: "Copy",
+      copied: "Copied!",
+      citationCopyAria: "Copy citation to clipboard",
+      pageLabel: "Page {page} / {total}",
+      topicNames: ["Variable fonts", "Monotype", "Gutenberg", "AI", "Font licensing", "Calligraphy", "TDC", "Google Fonts", "Arial"],
+      months: { "Ocak": "January", "Şubat": "February", "Mart": "March", "Nisan": "April", "Mayıs": "May", "Haziran": "June", "Temmuz": "July", "Ağustos": "August", "Eylül": "September", "Ekim": "October", "Kasım": "November", "Aralık": "December" },
+    },
+  };
+
+  const initialLanguageParams = new URLSearchParams(window.location.search);
+  let currentLanguage = initialLanguageParams.has("lang")
+    ? (initialLanguageParams.get("lang") === "en" ? "en" : "tr")
+    : (/\/en(?:\/|$)/.test(window.location.pathname) ? "en" : "tr");
+  let englishTranslations = {};
+  let translationsLoaded = false;
 
   const SUN_SVG = `<circle cx="12" cy="12" r="3.5"/><path d="M12 2v2m0 16v2M4.93 4.93l1.42 1.42m11.3 11.3 1.42 1.42M2 12h2m16 0h2M4.93 19.07l1.42-1.42m11.3-11.3 1.42-1.42"/>`;
   const MOON_SVG = `<path d="M20.1 15.2A8.4 8.4 0 0 1 8.8 3.9 8.5 8.5 0 1 0 20.1 15.2Z"/>`;
@@ -43,6 +152,119 @@
   const statIssues = document.getElementById("stat-issues");
   const statArticles = document.getElementById("stat-articles");
   const statRange = document.getElementById("stat-range");
+  const languageToggle = document.querySelector(".language-toggle");
+  const languageNote = document.getElementById("language-note");
+
+  function t(key, values = {}) {
+    let value = STRINGS[currentLanguage][key] ?? STRINGS.tr[key] ?? key;
+    if (typeof value !== "string") return value;
+    return value.replace(/\{(\w+)\}/g, (_, name) => values[name] ?? "");
+  }
+
+  function localizedItem(item) {
+    return currentLanguage === "en" ? englishTranslations[String(item.id)] : null;
+  }
+
+  function formatNumber(value) {
+    return Number(value || 0).toLocaleString(currentLanguage === "en" ? "en-US" : "tr-TR");
+  }
+
+  function issueName(item) {
+    const month = STRINGS[currentLanguage].months[item.ay] || item.ay;
+    return [month, item.yil].filter(Boolean).join(" ");
+  }
+
+  function setText(id, key) {
+    const element = document.getElementById(id);
+    if (element) element.textContent = t(key);
+  }
+
+  function applyLanguage() {
+    document.documentElement.lang = currentLanguage;
+    document.title = t("pageTitle");
+    const description = document.getElementById("document-description");
+    if (description) description.setAttribute("content", t("metaDescription"));
+
+    setText("hero-title", "heroTitle");
+    setText("hero-copy", "heroCopy");
+    setText("stat-issues-label", "issuesLabel");
+    setText("stat-articles-label", "articlesLabel");
+    setText("stat-range-label", "rangeLabel");
+    setText("search-heading", "searchHeading");
+    setText("year-label", "yearLabel");
+    setText("all-years-option", "allYears");
+    setText("search-submit", "searchButton");
+    setText("topics-heading", "topicsHeading");
+    setText("distribution-summary", "distribution");
+    setText("prev-page-btn", "previous");
+    setText("next-page-btn", "next");
+    setText("footer-name", "brand");
+    setText("subscribe-link", "subscribe");
+
+    const logo = document.querySelector(".brand-logo");
+    if (logo) logo.alt = t("logoAlt");
+    const brand = document.querySelector(".brand-name");
+    if (brand) brand.textContent = t("brand");
+    const brandLinks = document.querySelector(".brand-links");
+    if (brandLinks) brandLinks.setAttribute("aria-label", t("publications"));
+    if (languageToggle) languageToggle.setAttribute("aria-label", t("language"));
+    const footer = document.querySelector(".archive-footer");
+    if (footer) footer.setAttribute("aria-label", t("footer"));
+    const pagination = document.getElementById("pagination-container");
+    if (pagination) pagination.setAttribute("aria-label", t("pagination"));
+
+    if (searchInput) {
+      searchInput.placeholder = t("searchPlaceholder");
+      searchInput.setAttribute("aria-label", t("searchAria"));
+    }
+    if (searchClearBtn) searchClearBtn.setAttribute("aria-label", t("clearAria"));
+    if (yearSelect) yearSelect.setAttribute("aria-label", t("yearAria"));
+
+    document.querySelectorAll(".topic-btn").forEach((button, index) => {
+      button.textContent = STRINGS[currentLanguage].topicNames[index] || button.dataset.topic;
+    });
+
+    const trLink = document.getElementById("language-tr");
+    const enLink = document.getElementById("language-en");
+    if (trLink) {
+      trLink.classList.toggle("active", currentLanguage === "tr");
+      if (currentLanguage === "tr") trLink.setAttribute("aria-current", "page"); else trLink.removeAttribute("aria-current");
+    }
+    if (enLink) {
+      enLink.classList.toggle("active", currentLanguage === "en");
+      if (currentLanguage === "en") enLink.setAttribute("aria-current", "page"); else enLink.removeAttribute("aria-current");
+    }
+
+    if (languageNote) {
+      const translatedIssueRecords = Object.keys(englishTranslations).map((id) => {
+        const item = archiveData.find((record) => String(record.id) === id);
+        return item ? {key: `${item.yil}-${item.ay}`, year: item.yil} : null;
+      }).filter(Boolean);
+      const translatedIssues = new Map(translatedIssueRecords.map((issue) => [issue.key, issue.year]));
+      const translatedYears = [...new Set(translatedIssueRecords.map((issue) => issue.year))].sort((a, b) => a - b);
+      if (currentLanguage === "en") {
+        if (translationsLoaded) {
+          const yearText = translatedYears.length ? ` (${translatedYears.join("–")})` : "";
+          languageNote.textContent = `English summaries currently cover ${formatNumber(translatedIssues.size)} ${translatedIssues.size === 1 ? "issue" : "issues"}${yearText}. The full newsletter is published in Turkish.`;
+        } else {
+          languageNote.textContent = STRINGS.en.languageNote;
+        }
+        languageNote.hidden = false;
+      } else {
+        languageNote.hidden = true;
+      }
+    }
+
+    updateThemeUI(getActiveTheme());
+    if (archiveStats.total_issues && statIssues) statIssues.textContent = formatNumber(archiveStats.total_issues);
+    if (archiveStats.total_articles && statArticles) statArticles.textContent = formatNumber(archiveStats.total_articles);
+    if (archiveStats.min_year && archiveStats.max_year && statRange) statRange.textContent = `${archiveStats.min_year}–${archiveStats.max_year}`;
+    if (yearSelect && archiveStats.years) {
+      yearSelect.innerHTML = `<option value="Tümü">${escapeHtml(t("allYears"))}</option>` +
+        archiveStats.years.map((year) => `<option value="${year}">${year}</option>`).join("");
+      if (activeYear !== "Tümü") yearSelect.value = activeYear;
+    }
+  }
 
   // -------------------------------------------------------------
   // String & Turkish Normalization Utilities
@@ -204,7 +426,7 @@
       themeIcon.innerHTML = theme === "dark" ? SUN_SVG : MOON_SVG;
     }
     if (themeToggleBtn) {
-      const label = theme === "dark" ? "Açık moda geç" : "Koyu moda geç";
+      const label = theme === "dark" ? t("themeLight") : t("themeDark");
       themeToggleBtn.setAttribute("aria-label", label);
       themeToggleBtn.setAttribute("title", label);
     }
@@ -261,7 +483,7 @@
     const barWidth = Math.min(48, Math.max(16, (chartW / years.length) * 0.65));
     const step = chartW / years.length;
 
-    let svg = `<svg class="chart-svg" viewBox="0 0 ${svgWidth} ${svgHeight}" role="img" aria-label="Arama sonuçlarının yıllara göre dağılım grafiği">`;
+    let svg = `<svg class="chart-svg" viewBox="0 0 ${svgWidth} ${svgHeight}" role="img" aria-label="${escapeHtml(t("chartAria"))}">`;
 
     // Horizontal grid lines & Y labels (0, max/2, max)
     const yTicks = [0, Math.ceil(maxCount / 2), maxCount];
@@ -284,7 +506,7 @@
 
       svg += `
         <g class="chart-bar-group" tabindex="0">
-          <title>${yr}: ${count} gelişme</title>
+          <title>${escapeHtml(t("chartTitle", {year: yr, count: formatNumber(count)}))}</title>
           <rect x="${x}" y="${y}" width="${barWidth}" height="${barH}" fill="var(--chart-bar)" rx="2" style="cursor: pointer; transition: opacity 120ms ease;">
             <animate attributeName="height" from="0" to="${barH}" dur="0.25s" fill="freeze" />
             <animate attributeName="y" from="${padding.top + chartH}" to="${y}" dur="0.25s" fill="freeze" />
@@ -312,14 +534,17 @@
         return false;
       }
 
+      const translated = localizedItem(item);
+      if (currentLanguage === "en" && !translated) return false;
+
       // If no text query, match all within year filter
       if (!normQuery) {
         return year && year !== "Tümü";
       }
 
       // 2. Query matching
-      const normTitle = normalizeForMatch(item.baslik);
-      const normContent = normalizeForMatch(item.icerik);
+      const normTitle = normalizeForMatch(currentLanguage === "en" ? translated.title : item.baslik);
+      const normContent = normalizeForMatch(currentLanguage === "en" ? translated.summary : item.icerik);
       const combined = `${normTitle} ${normContent}`;
 
       // Check phrase first
@@ -341,7 +566,8 @@
 
     // Topic button active styling
     document.querySelectorAll(".topic-btn").forEach((btn) => {
-      btn.classList.toggle("active", btn.getAttribute("data-topic").toLocaleLowerCase("tr-TR") === query.toLocaleLowerCase("tr-TR"));
+      const topic = currentLanguage === "en" ? btn.getAttribute("data-topic-en") : btn.getAttribute("data-topic");
+      btn.classList.toggle("active", topic.toLocaleLowerCase("tr-TR") === query.toLocaleLowerCase("tr-TR"));
     });
 
     if (!query && year === "Tümü") {
@@ -363,11 +589,14 @@
   function renderResultsView(query, year) {
     if (currentResults.length === 0) {
       resultsContent.style.display = "none";
-      const yearText = year !== "Tümü" ? ` ${year} yılında` : "";
+      const yearText = year !== "Tümü"
+        ? (currentLanguage === "en" ? ` in ${year}` : ` ${year} yılında`)
+        : "";
+      const emptyMessage = !query && year !== "Tümü"
+        ? t("noYearResults", {year})
+        : t("noResults", {query: query || year, year: yearText});
       statusContainer.innerHTML = `
-        <div class="app-status">
-          “<strong>${escapeHtml(query || year)}</strong>” ifadesiyle${yearText} eşleşen bir gelişme bulunamadı. Yazımı kontrol edin veya daha kısa bir arama deneyin.
-        </div>
+        <div class="app-status">${escapeHtml(emptyMessage)}</div>
       `;
       return;
     }
@@ -377,13 +606,10 @@
 
     // Summary
     const distinctIssues = new Set(currentResults.map((r) => r.bulten)).size;
-    resultSummary.innerHTML = `
-      <strong>${currentResults.length.toLocaleString("tr-TR")}</strong> gelişme
-      <span class="result-summary-separator">·</span>
-      <strong>${distinctIssues}</strong> bültende
-      <span class="result-summary-separator">·</span>
-      <span style="color:var(--muted)">En yeniden eskiye</span>
-    `;
+    resultSummary.textContent = t("resultsSummary", {
+      articles: formatNumber(currentResults.length),
+      issues: formatNumber(distinctIssues),
+    });
 
     // Render bar chart
     renderDistributionChart(currentResults);
@@ -402,11 +628,13 @@
 
     const cardsHtml = pageItems
       .map((item, idx) => {
-        const cleanIssue = item.bulten;
-        const body = cleanVisualLines(item.icerik);
-        const excerpt = matchingExcerpt(item.baslik, body, activeQuery);
+        const translated = localizedItem(item);
+        const cleanIssue = currentLanguage === "en" ? issueName(item) : item.bulten;
+        const title = currentLanguage === "en" ? translated.title : item.baslik;
+        const body = currentLanguage === "en" ? translated.summary : cleanVisualLines(item.icerik);
+        const excerpt = currentLanguage === "en" ? body : matchingExcerpt(title, body, activeQuery);
         const highlighted = highlightedExcerpt(excerpt, activeQuery);
-        const relParagraphs = matchingParagraphs(body, activeQuery);
+        const relParagraphs = currentLanguage === "en" ? [] : matchingParagraphs(body, activeQuery);
 
         // Citation
         const cleanTitle = (item.baslik || "").replace(/[*_#`]/g, "").trim();
@@ -416,7 +644,7 @@
         const paragraphsBlock = relParagraphs.length > 0
           ? `
             <details class="card-expander">
-              <summary class="card-summary">İlgili paragrafları oku</summary>
+              <summary class="card-summary">${escapeHtml(t("relevantParagraphs"))}</summary>
               <div class="card-expander-body">
                 ${relParagraphs.map(formatMarkdownParagraph).join("")}
               </div>
@@ -427,18 +655,19 @@
         return `
           <article class="result-card" data-id="${item.id}">
             <div class="result-meta">
-              <strong>${escapeHtml(turkishUpper(cleanIssue))}</strong>
+              <strong>${escapeHtml(currentLanguage === "en" ? cleanIssue.toLocaleUpperCase("en-US") : turkishUpper(cleanIssue))}</strong>
             </div>
-            <h3>${escapeHtml(item.baslik)}</h3>
+            <h3>${escapeHtml(title)}</h3>
+            ${currentLanguage === "en" ? `<div class="section-eyebrow summary-eyebrow">${escapeHtml(t("summaryLabel"))}</div>` : ""}
             <p class="result-excerpt">${highlighted}</p>
-            <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer" class="result-issue-link">Bu sayıyı aç ↗</a>
+            <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer" class="result-issue-link">${escapeHtml(t("readIssue"))}</a>
             ${paragraphsBlock}
             <details class="card-expander">
-              <summary class="card-summary">Alıntı yap</summary>
+              <summary class="card-summary">${escapeHtml(t("originalIssue"))}</summary>
               <div class="card-expander-body">
                 <div class="citation-row">
                   <div class="citation-box">${citationSafe}</div>
-                  <button type="button" class="citation-copy-btn" data-citation="${citationSafe}" aria-label="Alıntıyı panoya kopyala">Kopyala</button>
+                  <button type="button" class="citation-copy-btn" data-citation="${citationSafe}" aria-label="${escapeHtml(t("citationCopyAria"))}">${escapeHtml(t("copy"))}</button>
                 </div>
               </div>
             </details>
@@ -457,7 +686,7 @@
     // Pagination controls
     if (totalPages > 1) {
       paginationContainer.style.display = "grid";
-      pageLabel.textContent = `Sayfa ${currentPage} / ${totalPages}`;
+      pageLabel.textContent = t("pageLabel", {page: currentPage, total: totalPages});
       prevPageBtn.disabled = currentPage <= 1;
       nextPageBtn.disabled = currentPage >= totalPages;
     } else {
@@ -472,7 +701,7 @@
 
     navigator.clipboard.writeText(text).then(() => {
       const origText = btn.textContent;
-      btn.textContent = "Kopyalandı!";
+      btn.textContent = t("copied");
       btn.classList.add("copied");
       setTimeout(() => {
         btn.textContent = origText;
@@ -480,10 +709,10 @@
       }, 2000);
     }).catch(() => {
       // Fallback
-      btn.textContent = "Kopyalandı!";
+      btn.textContent = t("copied");
       btn.classList.add("copied");
       setTimeout(() => {
-        btn.textContent = "Kopyala";
+        btn.textContent = t("copy");
         btn.classList.remove("copied");
       }, 2000);
     });
@@ -534,34 +763,36 @@
       themeToggleBtn.addEventListener("click", toggleTheme);
     }
 
-    // Search Input Clear Button & Live Debounced Search
-    let debounceTimer = null;
-    if (searchInput) {
-      searchInput.addEventListener("input", () => {
-        if (searchClearBtn) {
-          searchClearBtn.style.display = searchInput.value ? "flex" : "none";
-        }
-        clearTimeout(debounceTimer);
-        debounceTimer = setTimeout(() => {
-          activeQuery = searchInput.value;
-          activeYear = yearSelect ? yearSelect.value : "Tümü";
-          executeSearch(false);
-        }, 220);
+    if (languageToggle) {
+      languageToggle.addEventListener("click", (event) => {
+        const link = event.target.closest("a[id^='language-']");
+        if (!link) return;
+        event.preventDefault();
+        const nextLanguage = link.id === "language-en" ? "en" : "tr";
+        const currentUrl = new URL(window.location.href);
+        let rootPath = currentUrl.pathname;
+        if (/(^|\/)en(?:\/|$)/.test(rootPath)) rootPath = rootPath.replace(/en(?:\/index\.html)?\/?$/, "");
+        if (!rootPath.endsWith("/")) rootPath += "/";
+        const url = new URL(`${rootPath}${nextLanguage === "en" ? "en/" : ""}`, currentUrl.origin);
+        const query = searchInput.value.trim();
+        if (query) url.searchParams.set("q", query);
+        const year = yearSelect.value;
+        if (year && year !== "Tümü") url.searchParams.set("yil", year);
+        const theme = currentUrl.searchParams.get("theme");
+        if (theme) url.searchParams.set("theme", theme);
+        window.location.assign(url.toString());
       });
-      if (searchClearBtn) {
-        searchClearBtn.addEventListener("click", () => {
-          searchInput.value = "";
-          searchClearBtn.style.display = "none";
-          searchInput.focus();
-          handleSearchSubmit();
-        });
-      }
     }
 
-    // Explicit Form Submit Handler
-    if (searchForm) {
-      searchForm.addEventListener("submit", (e) => {
-        e.preventDefault();
+    // Search Input Clear Button
+    if (searchInput && searchClearBtn) {
+      searchInput.addEventListener("input", () => {
+        searchClearBtn.style.display = searchInput.value ? "flex" : "none";
+      });
+      searchClearBtn.addEventListener("click", () => {
+        searchInput.value = "";
+        searchClearBtn.style.display = "none";
+        searchInput.focus();
         handleSearchSubmit();
       });
     }
@@ -580,7 +811,7 @@
       topicsGrid.addEventListener("click", (e) => {
         const btn = e.target.closest(".topic-btn");
         if (!btn) return;
-        const topic = btn.getAttribute("data-topic");
+        const topic = currentLanguage === "en" ? btn.getAttribute("data-topic-en") : btn.getAttribute("data-topic");
         searchInput.value = topic;
         if (searchClearBtn) searchClearBtn.style.display = "flex";
         yearSelect.value = "Tümü";
@@ -617,29 +848,26 @@
 
   async function loadArchiveData() {
     try {
-      statusContainer.innerHTML = '<div class="app-status">Arşiv verileri yükleniyor…</div>';
-      const response = await fetch("arsiv.json");
-      if (!response.ok) {
-        throw new Error(`HTTP ${response.status}`);
+      statusContainer.innerHTML = `<div class="app-status">${escapeHtml(t("loading"))}</div>`;
+      const [response, translationsResponse] = await Promise.all([
+        fetch("arsiv.json"),
+        fetch("arsiv-en.json"),
+      ]);
+      if (!response.ok || !translationsResponse.ok) {
+        throw new Error(`HTTP ${!response.ok ? response.status : translationsResponse.status}`);
       }
       const data = await response.json();
+      const translationsData = await translationsResponse.json();
       archiveData = data.items || [];
+      englishTranslations = translationsData.items || {};
+      translationsLoaded = true;
       archiveStats = data.stats || {};
 
-      // Populate Stats
-      if (archiveStats.total_issues && statIssues) {
-        statIssues.textContent = archiveStats.total_issues.toLocaleString("tr-TR");
-      }
-      if (archiveStats.total_articles && statArticles) {
-        statArticles.textContent = archiveStats.total_articles.toLocaleString("tr-TR");
-      }
-      if (archiveStats.min_year && archiveStats.max_year && statRange) {
-        statRange.textContent = `${archiveStats.min_year}–${archiveStats.max_year}`;
-      }
+      applyLanguage();
 
       // Populate Year Select
       if (archiveStats.years && yearSelect) {
-        yearSelect.innerHTML = `<option value="Tümü">Tümü</option>` +
+        yearSelect.innerHTML = `<option value="Tümü">${escapeHtml(t("allYears"))}</option>` +
           archiveStats.years.map((y) => `<option value="${y}">${y}</option>`).join("");
       }
 
@@ -669,9 +897,7 @@
     } catch (err) {
       console.error("Arşiv verisi yüklenemedi:", err);
       statusContainer.innerHTML = `
-        <div class="app-status app-status--error">
-          Arşiv verileri yüklenemedi. Lütfen internet bağlantınızı kontrol edip sayfayı yenileyin. (${escapeHtml(err.message)})
-        </div>
+        <div class="app-status app-status--error">${escapeHtml(t("loadError"))} (${escapeHtml(err.message)})</div>
       `;
     }
   }
@@ -681,16 +907,11 @@
     handleSearchSubmit,
   };
 
-  // Safe initialization regardless of document readyState
-  function start() {
+  // Start
+  document.addEventListener("DOMContentLoaded", () => {
+    applyLanguage();
     updateThemeUI(getActiveTheme());
     initEvents();
     loadArchiveData();
-  }
-
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", start);
-  } else {
-    start();
-  }
+  });
 })();
