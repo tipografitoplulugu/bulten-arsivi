@@ -122,6 +122,47 @@ def english_brand_copy(markdown):
     return markdown
 
 
+def strip_visual_placeholders(markdown):
+    """Remove image embeds and their credits when the image assets are unavailable."""
+    lines = markdown.replace("\r\n", "\n").replace("\r", "\n").split("\n")
+    kept = []
+    in_fence = False
+    index = 0
+    while index < len(lines):
+        line = lines[index]
+        if re.match(r"^\s*```", line):
+            in_fence = not in_fence
+            kept.append(line)
+            index += 1
+            continue
+        if in_fence:
+            kept.append(line)
+            index += 1
+            continue
+
+        if "![" in line:
+            index += 1
+            while index < len(lines) and not lines[index].strip():
+                index += 1
+            if index < len(lines) and "©" in lines[index] and lines[index].lstrip().startswith("*"):
+                index += 1
+            while index < len(lines) and not lines[index].strip():
+                index += 1
+            continue
+
+        if re.match(r"^\s*\*{0,2}\s*Image:\s*", line, re.IGNORECASE):
+            index += 1
+            while index < len(lines) and not lines[index].strip():
+                index += 1
+            continue
+
+        kept.append(line)
+        index += 1
+
+    result = re.sub(r"\n{3,}", "\n\n", "\n".join(kept)).strip()
+    return result + ("\n" if result else "")
+
+
 def replace_issue_title(markdown, year, month):
     title = f"# Typography Newsletter: {MONTHS_EN[month - 1]} {year}"
     lines = markdown.splitlines()
@@ -165,12 +206,13 @@ def build():
         year, month = issue_from_path(source_path)
         max_year = max(max_year, year)
         source_markdown = source_path.read_text(encoding="utf-8-sig")
-        translated_markdown = english_brand_copy(english_path.read_text(encoding="utf-8-sig"))
+        translated_source = english_brand_copy(english_path.read_text(encoding="utf-8-sig"))
         source_sections = markdown_sections(source_markdown)
+        translated_markdown = strip_visual_placeholders(translated_source)
         translated_sections = markdown_sections(translated_markdown)
         if len(source_sections) != len(translated_sections):
             raise BuildError(f"Heading count changed in {english_path.name}: {len(source_sections)} -> {len(translated_sections)}.")
-        if source_urls(source_markdown) != source_urls(translated_markdown):
+        if source_urls(source_markdown) != source_urls(translated_source):
             raise BuildError(f"A URL target changed or disappeared in {english_path.name}.")
 
         issue_records = archive_by_issue.get((year, month), [])
@@ -187,11 +229,11 @@ def build():
                 raise BuildError(f"Could not map section {source_title!r} in {source_path.name}.")
             item = matching_records.popleft()
             translated_title = plain_text(english_title)
-            translated_content = english_brand_copy(english_body)
+            translated_content = strip_visual_placeholders(english_brand_copy(english_body))
             content_text = plain_text(translated_content)
             english_items[str(item["id"])] = {
                 "title": translated_title,
-                "summary": short_summary(content_text),
+                "summary": short_summary(content_text) or translated_title,
                 "content": translated_content,
             }
 
