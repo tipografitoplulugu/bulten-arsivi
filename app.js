@@ -534,15 +534,34 @@
       themeToggleBtn.addEventListener("click", toggleTheme);
     }
 
-    // Search Input Clear Button
-    if (searchInput && searchClearBtn) {
+    // Search Input Clear Button & Live Debounced Search
+    let debounceTimer = null;
+    if (searchInput) {
       searchInput.addEventListener("input", () => {
-        searchClearBtn.style.display = searchInput.value ? "flex" : "none";
+        if (searchClearBtn) {
+          searchClearBtn.style.display = searchInput.value ? "flex" : "none";
+        }
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => {
+          activeQuery = searchInput.value;
+          activeYear = yearSelect ? yearSelect.value : "Tümü";
+          executeSearch(false);
+        }, 220);
       });
-      searchClearBtn.addEventListener("click", () => {
-        searchInput.value = "";
-        searchClearBtn.style.display = "none";
-        searchInput.focus();
+      if (searchClearBtn) {
+        searchClearBtn.addEventListener("click", () => {
+          searchInput.value = "";
+          searchClearBtn.style.display = "none";
+          searchInput.focus();
+          handleSearchSubmit();
+        });
+      }
+    }
+
+    // Explicit Form Submit Handler
+    if (searchForm) {
+      searchForm.addEventListener("submit", (e) => {
+        e.preventDefault();
         handleSearchSubmit();
       });
     }
@@ -662,10 +681,16 @@
     handleSearchSubmit,
   };
 
-  // Start
-  document.addEventListener("DOMContentLoaded", () => {
+  // Safe initialization regardless of document readyState
+  function start() {
     updateThemeUI(getActiveTheme());
     initEvents();
     loadArchiveData();
-  });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", start);
+  } else {
+    start();
+  }
 })();
