@@ -632,6 +632,10 @@ mark.search-hit {
   font-weight: 500;
 }
 
+.result-issue-link--translated {
+  margin-right: .9rem;
+}
+
 .issue-page {
   max-width: 820px;
   margin: 0 auto;
