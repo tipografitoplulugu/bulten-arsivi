@@ -161,6 +161,10 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
   min-width: 0;
 }
 
+.brand-identity > div {
+  min-width: 0;
+}
+
 .brand-logo {
   display: block;
   flex: 0 0 48px;
@@ -972,11 +976,12 @@ mark.search-hit {
   }
 
   .brand-identity {
-    max-width: calc(100% - 6.4rem);
+    max-width: calc(100% - 8.5rem);
   }
 
   .brand-name {
-    font-size: .98rem;
+    font-size: .88rem;
+    line-height: 1.25;
     overflow-wrap: anywhere;
   }
 
